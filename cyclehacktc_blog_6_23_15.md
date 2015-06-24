@@ -16,6 +16,7 @@ where we worked on some hacks to address the things we identified. </br>
 By the end of the hack day, we had several groups create some incredible projects:</br>
 
 ![Turn Signal Backpack project](/images/cyclehacktc_2015/turn_signal_backpack.jpg) 
+![Turn Signal Backpack project](/images/cyclehacktc_2015/turn_signal_backpack_Peter_Schwarz.jpg) *Photo by [Peter Schwarz](https://twitter.com/peterjschwarz)*
 ![Signal Backpack team](/images/cyclehacktc_2015/backpack_turn_signal_team_JK.jpg) *Photo by [James Keuning](https://twitter.com/jmkeuning)*</br>
 
 **Turn Signal Backpack**</br>
