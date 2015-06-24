@@ -42,7 +42,7 @@ Bill worked on thinking through how it might work to collect data on whether bik
 Starting with the physical question of how a sensor could be used to determine if bikes were already on the bus, he then considered 
 how to get the data to transit users with bikes and how the system could get set up.</br>
 
-![Bike Brand Bike Clutch](/images/cyclehacktc_2015/bike_clutch_JK.jpg) *Photo by [James Keuning](https://twitter.com/jmkeuning)*</br>
+![Bike Brand Bike Clutch](/images/cyclehacktc_2015/bike_clutch_jk.jpg) *Photo by [James Keuning](https://twitter.com/jmkeuning)*</br>
 
 **Bike Clutch**</br>
 A couple of us organizers (myself included) decided an hour before the end of hack day that we wanted to hack something, so we considered when you 
@@ -121,4 +121,4 @@ Which we now call POBs.</br>
 
 CycleHack Twin Cities couldn't have happened without the generous support of all of our sponsors.</br>
 
-![CycleHack Sponsors](/images/cyclehacktc_2015/chsponsors.png)
+![CycleHack Sponsors](/images/cyclehacktc_2015/chsponsors.PNG)
