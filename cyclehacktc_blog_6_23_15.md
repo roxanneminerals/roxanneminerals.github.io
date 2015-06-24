@@ -14,20 +14,21 @@ Twin Cities, brainstormed ways to address those issues, and then we had a full h
 where we worked on some hacks to address the things we identified. </br>
 
 By the end of the hack day, we had several groups create some incredible projects:</br>
+**Turn Signal Backpack**</br>
 
 ![Turn Signal Backpack project](/images/cyclehacktc_2015/turn_signal_backpack.jpg) 
 ![Turn Signal Backpack project](/images/cyclehacktc_2015/turn_signal_backpack_Peter_Schwarz.jpg) *Photo by [Peter Schwarz](https://twitter.com/peterjschwarz)*
 ![Signal Backpack team](/images/cyclehacktc_2015/backpack_turn_signal_team_JK.jpg) *Photo by [James Keuning](https://twitter.com/jmkeuning)*</br>
 
-**Turn Signal Backpack**</br>
 One of the barriers identified was the concern that drivers don't see cyclists or don't know what they plan to do. This group prototyped an LED 
 turn signal that would be placed in a mesh pocket on the outside of your backpack, so that drivers behind you could see when you plan 
 to turn. It also has a signal for stop.</br>
 
+**[bikable.io](http://www.bikeable.io)**</br>
+
 ![Bikeable.io Presentation](/images/cyclehacktc_2015/bikeable.jpg) 
 ![Bikeable.io Presentation](/images/cyclehacktc_2015/bikeable_team_jk.jpg) *Photo by [James Keuning](https://twitter.com/jmkeuning)*</br>
 
-**[bikable.io](http://www.bikeable.io)**</br>
 One group was interested in finding a better way for cyclists to choose routes using data that shows where cyclists actually ride. The 
 thought was that Google Maps will give you a bike route, but won't tell you if a road is in poor condition or has heavy car traffic.
 The group used bike trip data from [Strava](https://www.strava.com/local), a way for users to upload comments or recommendations, 
@@ -35,32 +36,36 @@ and they added some collision data from a [ten year study from the city of Minne
 (http://www.minneapolismn.gov/www/groups/public/@publicworks/documents/images/wcms1p-102346.pdf)
 </br>
 
-![Bikeable.io Presentation](/images/cyclehacktc_2015/bike_bus_team_JK.jpg) *Photo by [James Keuning](https://twitter.com/jmkeuning)*</br>
-
 **Bikes on Buses**</br>
+
+![Bikes on Buses](/images/cyclehacktc_2015/bike_bus_team_JK.jpg) *Photo by [James Keuning](https://twitter.com/jmkeuning)*</br>
+
 Bill worked on thinking through how it might work to collect data on whether bike racks on Metro Transit buses were available or in use. 
 Starting with the physical question of how a sensor could be used to determine if bikes were already on the bus, he then considered 
 how to get the data to transit users with bikes and how the system could get set up.</br>
 
+**Bike Clutch**</br>
+
 ![Bike Brand Bike Clutch](/images/cyclehacktc_2015/bike_clutch_jk.jpg) *Photo by [James Keuning](https://twitter.com/jmkeuning)*</br>
 
-**Bike Clutch**</br>
 A couple of us organizers (myself included) decided an hour before the end of hack day that we wanted to hack something, so we considered when you 
 want to go out but don't want to take a bag and you need to carry your phone, wallet, and keys. We recruited another team member and used 
 a sewing machine to create a little clutch that we call the bike brand bike clutch that attaches to the front of your handlebars 
 with velcro. It also has the word "bike" (hence the bike brand) on it, and the dot over the "i" is an LED, so it's also a headlight.</br>
 
+**Spoke Card**</br>
+
 ![Cyclists' Rights Side 1](/images/cyclehacktc_2015/spoke_card_1.png) ![Cyclists' Rights Side 2](/images/cyclehacktc_2015/spoke_card_2.png)
 
-**Spoke Card**</br>
 This group was working on the problem that not knowing your rights or the law might keep people from biking, so they prototyped a spoke card 
 that reminds cyclists of their rights and responsibilities on one side, and has a checklist on the other side with 
 the appropriate steps if they are in an accident.</br>
 
-![Helmet Turn Signal](/images/cyclehacktc_2015/turn_signal_backpack.mp4) 
+**Turn Signal Helmet** </br>
+
+![Helmet Turn Signal](/images/cyclehacktc_2015/turn_signal_helmet.mp4) 
 ![Helmet Turn Signal team](/images/cyclehacktc_2015/turn_signal_team.jpg) </br>
 
-**Turn Signal Helmet** </br>
 One team had people who had to leave early so they didn't present, but they worked on LEDs embedded in a bike helmet with programmed controls 
 to create turn signals.</br>
 
