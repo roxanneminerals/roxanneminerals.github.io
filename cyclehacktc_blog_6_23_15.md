@@ -100,9 +100,9 @@ between the two. We also talked about who identifies as a cyclist (kids, hipster
 include all people who ride their bikes, independent of how much or how little they ride, what they wear, who they associate with.</br>
 
 ![Ideation Ride 1](/images/cyclehacktc_2015/ideation_start_RD.jpg) *Photo by [Rob Davis](https://twitter.com/robfargo)*
-![Ideation Ride 2](/images/cyclehacktc_2015/ideation_greenway.jpg)
-![Ideation Ride 3](/images/cyclehacktc_2015/ideation_brackett.jpg)
-![Ideation Ride 3](/images/cyclehacktc_2015/ideation_HF.jpg)</br>
+![Ideation Ride 2](/images/cyclehacktc_2015/ideation_ride_greenway.jpg)
+![Ideation Ride 3](/images/cyclehacktc_2015/ideation_ride_brackett.jpg)
+![Ideation Ride 4](/images/cyclehacktc_2015/ideation_ride_HF.jpg)</br>
 
 **Bike Demos**</br>
 One of the attendees, Rachel, brought two bikes she had hacked before CycleHack to demonstrate. One was a backwards steering bike, and the other 
