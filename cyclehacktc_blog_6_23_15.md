@@ -31,7 +31,7 @@ to turn. It also has a signal for stop.</br>
 One group was interested in finding a better way for cyclists to choose routes using data that shows where cyclists actually ride. The 
 thought was that Google Maps will give you a bike route, but won't tell you if a road is in poor condition or has heavy car traffic.
 The group used bike trip data from [Strava](https://www.strava.com/local), a way for users to upload comments or recommendations, 
-and they added some collision data from a [ten year study from the city of Minneapolis on vehicle/bike collisions]
+and they added some collision data from a [ten year study from the city of Minneapolis on vehicle/bike collisions].
 (http://www.minneapolismn.gov/www/groups/public/@publicworks/documents/images/wcms1p-102346.pdf)
 </br>
 
@@ -121,4 +121,4 @@ Which we now call POBs.</br>
 
 CycleHack Twin Cities couldn't have happened without the generous support of all of our sponsors.</br>
 
-![CycleHack Sponsors](/images/cyclehacktc_2015/chsponsors.PNG)
+![CycleHack Sponsors](/images/cyclehacktc_2015/sponsors.png)
