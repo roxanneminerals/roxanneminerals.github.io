@@ -1,5 +1,5 @@
 
-![Start of Hack Day](roxanneminerals.github.io/images/cyclehacktc2015/HF_RD.jpg)
+![Start of Hack Day](/images/cyclehacktc2015/HF_RD.jpg)
 Photo by [Rob Davis](@robfargo)</br>
 
 Last Saturday was the first annual Twin Cities CycleHack event. [CycleHack](http://www.cyclehack.com) started in 2014 in Glasgow, Scotland 
@@ -17,7 +17,7 @@ By the end of the hack day, we had several groups create some incredible project
 
 IMAGE OF TURN SIGNAL BACKPACK + TEAM
 
-##Turn Signal Backpack</br>
+*Turn Signal Backpack*</br>
 One of the barriers identified was the concern that drivers don't see cyclists or don't know what they plan to do. This group prototyped an LED 
 turn signal that would be placed in a mesh pocket on the outside of your backpack, so that drivers behind you could see when you plan 
 to turn. It also has a signal for stop.</br>
