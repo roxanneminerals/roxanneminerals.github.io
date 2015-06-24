@@ -124,6 +124,6 @@ connected the people who came with this place we all live in. I also hope that t
 the beginning of an ongoing discussion to keep thinking up innovative ways to make things better and easier for people on bikes. 
 Which we now call POBs.</br>
 
-CycleHack Twin Cities couldn't have happened without the generous support of all of our sponsors.</br>
+CycleHack Twin Cities couldn't have happened without the generous support of all of our sponsors. Thanks, sponsors! </br>
 
 ![CycleHack Sponsors](/images/cyclehacktc_2015/sponsors.png)
