@@ -16,7 +16,7 @@ where we worked on some hacks to address the things we identified. </br>
 By the end of the hack day, we had several groups create some incredible projects:</br>
 
 ![Turn Signal Backpack project](/images/cyclehacktc_2015/turn_signal_backpack.jpg) 
-![Signal Backpack team](/images/cyclehacktc_2015/backpack_turn_signal_team_JK.jpg) *Photo by [James Keuning](https://twitter.com/jmkeuning) *</br>
+![Signal Backpack team](/images/cyclehacktc_2015/backpack_turn_signal_team_JK.jpg) *Photo by [James Keuning](https://twitter.com/jmkeuning)*</br>
 
 **Turn Signal Backpack**</br>
 One of the barriers identified was the concern that drivers don't see cyclists or don't know what they plan to do. This group prototyped an LED 
@@ -24,7 +24,7 @@ turn signal that would be placed in a mesh pocket on the outside of your backpac
 to turn. It also has a signal for stop.</br>
 
 ![Bikeable.io Presentation](/images/cyclehacktc_2015/bikeable.jpg) 
-![Bikeable.io Presentation](/images/cyclehacktc_2015/bikeable_team_jk.jpg) *Photo by [James Keuning](https://twitter.com/jmkeuning) *</br>
+![Bikeable.io Presentation](/images/cyclehacktc_2015/bikeable_team_jk.jpg) *Photo by [James Keuning](https://twitter.com/jmkeuning)*</br>
 
 **[bikable.io](http://www.bikeable.io)**</br>
 One group was interested in finding a better way for cyclists to choose routes using data that shows where cyclists actually ride. The 
@@ -34,14 +34,14 @@ and they added some collision data from a [ten year study from the city of Minne
 (http://www.minneapolismn.gov/www/groups/public/@publicworks/documents/images/wcms1p-102346.pdf)
 </br>
 
-![Bikeable.io Presentation](/images/cyclehacktc_2015/bike_bus_team_JK.jpg) *Photo by [James Keuning](https://twitter.com/jmkeuning) *</br>
+![Bikeable.io Presentation](/images/cyclehacktc_2015/bike_bus_team_JK.jpg) *Photo by [James Keuning](https://twitter.com/jmkeuning)*</br>
 
 **Bikes on Buses**</br>
 Bill worked on thinking through how it might work to collect data on whether bike racks on Metro Transit buses were available or in use. 
 Starting with the physical question of how a sensor could be used to determine if bikes were already on the bus, he then considered 
 how to get the data to transit users with bikes and how the system could get set up.</br>
 
-![Bike Brand Bike Clutch](/images/cyclehacktc_2015/bike_clutch_JK.jpg) *Photo by [James Keuning](https://twitter.com/jmkeuning) *</br>
+![Bike Brand Bike Clutch](/images/cyclehacktc_2015/bike_clutch_JK.jpg) *Photo by [James Keuning](https://twitter.com/jmkeuning)*</br>
 
 **Bike Clutch**</br>
 A couple of us organizers (myself included) decided an hour before the end of hack day that we wanted to hack something, so we considered when you 
