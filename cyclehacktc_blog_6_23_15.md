@@ -1,5 +1,5 @@
 
-![Start of Hack Day](/images/cyclehacktc2015/HF_RD.jpg)
+![Start of Hack Day](/images/cyclehacktc_2015/HF_RD.jpg)
 Photo by [Rob Davis](@robfargo)</br>
 
 Last Saturday was the first annual Twin Cities CycleHack event. [CycleHack](http://www.cyclehack.com) started in 2014 in Glasgow, Scotland 
@@ -17,14 +17,14 @@ By the end of the hack day, we had several groups create some incredible project
 
 IMAGE OF TURN SIGNAL BACKPACK + TEAM
 
-*Turn Signal Backpack*</br>
+**Turn Signal Backpack**</br>
 One of the barriers identified was the concern that drivers don't see cyclists or don't know what they plan to do. This group prototyped an LED 
 turn signal that would be placed in a mesh pocket on the outside of your backpack, so that drivers behind you could see when you plan 
 to turn. It also has a signal for stop.</br>
 
 IMAGE OF BIKEABLE + TEAM
 
-##[bikable.io](http://www.bikeable.io)</br>
+**[bikable.io](http://www.bikeable.io)**</br>
 One group was interested in finding a better way for cyclists to choose routes using data that shows where cyclists actually ride. The 
 thought was that Google Maps will give you a bike route, but won't tell you if a road is in poor condition or has heavy car traffic.
 The group used bike trip data from [Strava](https://www.strava.com/local), a way for users to upload comments or recommendations, 
@@ -34,14 +34,14 @@ and they added some collision data from a [ten year study from the city of Minne
 
 IMAGE OF BIKE BUS + BILL
 
-##Bikes on Buses</br>
+**Bikes on Buses**</br>
 Bill worked on thinking through how it might work to collect data on whether bike racks on Metro Transit buses were available or in use. 
 Starting with the physical question of how a sensor could be used to determine if bikes were already on the bus, he then considered 
 how to get the data to transit users with bikes and how the system could get set up.</br>
 
 IMAGE OF BIKE CLUTCH + TEAM
 
-##Bike Clutch</br>
+**Bike Clutch**</br>
 A couple of us organizers (myself included) decided an hour before the end of hack day that we wanted to hack something, so we considered when you 
 want to go out but don't want to take a bag and you need to carry your phone, wallet, and keys. We recruited another team member and used 
 a sewing machine to create a little clutch that we call the bike brand bike clutch that attaches to the front of your handlebars 
@@ -49,18 +49,18 @@ with velcro. It also has the word "bike" (hence the bike brand) on it, and the d
 
 IMAGE OF SPOKE CARD + TEAM
 
-##Spoke Card</br>
+**Spoke Card**</br>
 This group was working on the problem that not knowing your rights or the law might keep people from biking, so they prototyped a spoke card 
 that reminds cyclists of their rights and responsibilities on one side, and has a checklist on the other side with 
 the appropriate steps if they are in an accident.</br>
 
 VIDEO OF HELMET + IMAGE OF TEAM
 
-##Turn Signal Helmet </br>
+**Turn Signal Helmet** </br>
 One team had people who had to leave early so they didn't present, but they worked on LEDs embedded in a bike helmet with programmed controls 
 to create turn signals.</br>
 
-##There were other projects worked on by folks that couldn't stay; some of them were uploaded to the 
+There were other projects worked on by folks that couldn't stay; some of them were uploaded to the 
 [global CycleHack Catalogue](http://www.cyclehack.com/location/minneapolis/)</br>
 
 The Hack Factory was an amazing donated space for our first CycleHack. They had equipment and tools galore (including a laser cutter 
@@ -68,7 +68,7 @@ for trained members to use), and everyone there was open and helpful. They were 
 We had materials donated by In the Heart of the Beast Theater, Ax-Man Surplus, and numerous friends and family so that people had all kinds of 
 things to use for hacks, which really set the tone for thinking outside the [(bike) box](http://www.ci.minneapolis.mn.us/bicycles/bike-box).</br>
 
-##Ideation process</br>
+**Ideation process**</br>
 We spent some time before the hack day brainstorming barriers to cycling and ideating hacks that would address the barriers we came up with. 
 We asked folks when they registered to let us know if they had ideas to hack on, and we also had an Ideascale for people to post ideas and 
 also vote on other ideas that were posted. We tabled at the [Twin Cities Maker Faire](http://makerfairemsp.com/), where we asked people to 
@@ -98,13 +98,13 @@ include all people who ride their bikes, independent of how much or how little t
 
 IMAGES OF START, GREENWAY, BRACKETT, HACK FACTORY
 
-##Bike Demos </br>
+**Bike Demos**</br>
 One of the attendees, Rachel, brought two bikes she had hacked before CycleHack to demonstrate. One was a backwards steering bike, and the other 
 was a swing bike. Some of us tried them out!
 
 IMAGES OF BIKES
 
-##Conclusion</br>
+**Conclusion**</br>
 The conversations, the projects, the people, our supporters, everything about this event was incredibly inspiring. After months of planning 
 that should have started much earlier than it did, 
 it was really great to see everything come together and to see people so excited and invested in the spirit of the event. I hope that this hack day 
