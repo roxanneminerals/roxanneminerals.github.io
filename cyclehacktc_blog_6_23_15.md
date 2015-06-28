@@ -15,7 +15,8 @@ To kick off our CycleHack, we started with some ideation to figure out what keep
 Twin Cities, brainstormed ways to address those issues, and then we had a full hack day at the [Hack Factory](http://www.tcmaker.org/blog/) 
 where we worked on some hacks to address the things we identified.
 
-By the end of the hack day, we had several groups create some incredible projects:
+By the end of the hack day, we had several groups create some incredible projects! For more pictures and stories, check out [@CycleHackTC]
+(https://twitter.com/cyclehacktc) or our hashtag [#CycleHackTC](https://twitter.com/hashtag/cyclehacktc?src=hash).
 
 **Turn Signal Backpack**
 
@@ -56,7 +57,7 @@ a sewing machine to create a little clutch that we call the bike brand bike clut
 with velcro. It also has the word "bike" (hence the bike brand) on it, and the dot over the "i" is an LED, so it's also a headlight.
 
 ![Bike Brand Bike Clutch](/images/cyclehacktc_2015/bike_clutch.jpg) *Team: [Roxanne](https://twitter.com/roxljohnson), [Leah]
-(https://twitter.com/LKPuffer); not shown: [Kelly](https://twitter.com/cre8ivecubed)
+(https://twitter.com/LKPuffer); not shown: [Kelly](https://twitter.com/cre8ivecubed).
 Second photo by [James Keuning](https://twitter.com/jmkeuning)*
 
 **Spoke Card**
@@ -74,10 +75,10 @@ One team had people who had to leave early so they didn't present, but they work
 to create turn signals. [Video](http://www.mobypicture.com/user/gelicia/view/18234077)
 
 ![Helmet Turn Signal team](/images/cyclehacktc_2015/turn_signal_team.jpg) *Team: [Kelly](https://twitter.com/cre8ivecubed), [Kristina]
-(https://twitter.com/gelicia), Rachel
+(https://twitter.com/gelicia), Rachel*
 
 There were other projects worked on by folks that couldn't stay; some of them were uploaded to the 
-[global CycleHack Catalogue](http://www.cyclehack.com/location/minneapolis/)
+[global CycleHack Catalogue](http://www.cyclehack.com/location/minneapolis/).
 
 The Hack Factory was an amazing donated space for our first CycleHack. They had equipment and tools galore (including a laser cutter 
 for trained members to use), and everyone there was open and helpful. They were gracious hosts with "anything goes" and "figure it out" attitudes. 
@@ -92,11 +93,11 @@ also vote on other ideas that were posted. We tabled at the [Twin Cities Maker F
 think of any issues that may keep people from choosing to ride their bike. We wrote the barriers on index cards, and sorted them into six 
 categories of things we could hack: the bike, the environment, the cyclist, clothing, navigation, and culture.
 
-![Ideation images](/images/cyclehacktc_2015/ideation_full.jpg) 
+![Ideation images](/images/cyclehacktc_2015/ideation_full.JPG) 
 
 On Friday evening before the hack day, we did an ideation bike ride around the neighborhood to come up with any and all ideas for ways  
 to address some of the issues we had collected in those six categories. At the start, we did brief introductions and then our ride lead 
-[Michelle](http://michellefunk.com/) and our volunteer ride mechanic Brian Fanelli from [Recovery Bike Shop](http://morethanabicycle.com/recoverybikeshop.html) 
+[Michelle](https://twitter.com/michellecohrene) and our volunteer ride mechanic Brian Fanelli from [Recovery Bike Shop](http://morethanabicycle.com/recoverybikeshop.html) 
 explained the rules for the ride. 
 Then the group set off to the first stop, at the green 
 institute building off of the [Greenway](http://midtowngreenway.org/about-the-greenway/). At this stop, we split into groups and each 
@@ -116,7 +117,7 @@ include all people who ride their bikes, independent of how much or how little t
 
 ![Ideation Ride start, Greenway](/images/cyclehacktc_2015/ideation_1.jpg) 
 ![Ideation Ride Brackett, Hack Factory](/images/cyclehacktc_2015/ideation_2.jpg)
-*First set of photos by [Rob Davis](https://twitter.com/robfargo)*
+*First set of photos from the start of the ride by [Rob Davis](https://twitter.com/robfargo)*
 
 **Bike Demos**
 
@@ -136,6 +137,7 @@ barriers to cycling in the Twin Cities, and it was great that they could be invo
 with many types of interests in improving the cycling experience here.
 
 ![Jason from Cycles for Change](/images/cyclehacktc_2015/jason_c4c.jpg)
+*Jason Tanzman from Cycles for Change, photo by [James Keuning](https://twitter.com/jmkeuning)*
 
 The conversations, the projects, the people, our supporters, everything about CycleHack was incredibly inspiring and I think provided a unique 
 addition to the existing efforts to improve cycling. After months of planning (that should have started much earlier than it did), 
@@ -151,6 +153,6 @@ CycleHack Twin Cities couldn't have happened without the generous support of our
 Special thanks to [Kelly Clausen](https://twitter.com/cre8ivecubed) at Hennepin County and [Bill Bushey](https://twitter.com/wbushey) at 
 Open Twin Cities for their unwavering support (and Costco memberships).
 
-Also, mad props to the organizing team:[Leah Puffer](https://twitter.com/LKPuffer), [Alan Palazollo](https://twitter.com/zzolo)), 
-[James Keuning](https://twitter.com/jmkeuning), [Laura Anderson](https://twitter.com/LA0811), and myself (https://twitter.com/roxLjohnson).
+Also, mad props to the organizing team:[Leah Puffer](https://twitter.com/LKPuffer), [Alan Palazzolo](https://twitter.com/zzolo)), 
+[James Keuning](https://twitter.com/jmkeuning), [Laura Anderson](https://twitter.com/LA0811), and [myself](https://twitter.com/roxLjohnson).
 We did it, you guys!!!
