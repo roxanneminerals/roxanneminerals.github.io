@@ -154,6 +154,6 @@ CycleHack Twin Cities couldn't have happened without the generous support of our
 Special thanks to [Kelly Clausen](https://twitter.com/cre8ivecubed) at Hennepin County and [Bill Bushey](https://twitter.com/wbushey) at 
 Open Twin Cities for their unwavering support (and Costco memberships).
 
-Also, mad props to the organizing team:[Leah Puffer](https://twitter.com/LKPuffer), [Alan Palazzolo](https://twitter.com/zzolo)), 
+Also, mad props to the organizing team:[Leah Puffer](https://twitter.com/LKPuffer), [Alan Palazzolo](https://twitter.com/zzolo), 
 [James Keuning](https://twitter.com/jmkeuning), [Laura Anderson](https://twitter.com/LA0811), and [myself](https://twitter.com/roxLjohnson).
 We did it, you guys!!!
