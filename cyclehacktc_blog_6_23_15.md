@@ -58,8 +58,8 @@ This group was working on the problem that not knowing your rights or the law mi
 that reminds cyclists of their rights and responsibilities on one side, and has a checklist on the other side with 
 the appropriate steps if they are in an accident.</br>
 
-![Cyclists' Rights and what to do in an accident](/images/cyclehacktc_2015/spoke_card_full.png)</br>
-![Cyclists' Rights team](/images/cyclehacktc_2015/spoke_card_team_jk.png) </br>
+![Cyclists' Rights and what to do in an accident](/images/cyclehacktc_2015/spoke_card_full.jpg) </br>
+![Cyclists' Rights team](/images/cyclehacktc_2015/spoke_card_team_jk.jpg) </br>
 
 **Turn Signal Helmet** </br>
 
@@ -126,4 +126,4 @@ Which we now call POBs.</br>
 
 CycleHack Twin Cities couldn't have happened without the generous support of all of our sponsors. Thanks, sponsors! </br>
 
-![CycleHack Sponsors](/images/cyclehacktc_2015/sponsors.png)
+![CycleHack Sponsors](/images/cyclehacktc_2015/sponsors.jpg)
