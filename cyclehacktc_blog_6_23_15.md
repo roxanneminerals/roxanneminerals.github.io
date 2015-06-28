@@ -50,7 +50,7 @@ want to go out but don't want to take a bag and you need to carry your phone, wa
 a sewing machine to create a little clutch that we call the bike brand bike clutch that attaches to the front of your handlebars 
 with velcro. It also has the word "bike" (hence the bike brand) on it, and the dot over the "i" is an LED, so it's also a headlight.</br>
 
-![Bike Brand Bike Clutch](/images/cyclehacktc_2015/bike_clutch_jk.jpg) *Photo by [James Keuning](https://twitter.com/jmkeuning)*</br>
+![Bike Brand Bike Clutch](/images/cyclehacktc_2015/bike_clutch.jpg) *Second photo by [James Keuning](https://twitter.com/jmkeuning)*</br>
 
 **Spoke Card**</br>
 
@@ -66,7 +66,6 @@ the appropriate steps if they are in an accident.</br>
 One team had people who had to leave early so they didn't present, but they worked on LEDs embedded in a bike helmet with programmed controls 
 to create turn signals.</br>
 
-![Helmet Turn Signal](/images/cyclehacktc_2015/turn_signal_helmet.mp4) 
 ![Helmet Turn Signal team](/images/cyclehacktc_2015/turn_signal_team.jpg) </br>
 
 There were other projects worked on by folks that couldn't stay; some of them were uploaded to the 
@@ -84,7 +83,7 @@ also vote on other ideas that were posted. We tabled at the [Twin Cities Maker F
 think of any issues that may keep people from choosing to ride their bike. We wrote the barriers on index cards, and sorted them into six 
 categories of things we could hack: the bike, the environment, the cyclist, clothing, navigation, and culture.</br>
 
-![Ideation images](/images/cyclehacktc_2015/ideation.jpg) 
+![Ideation images](/images/cyclehacktc_2015/ideation_full.jpg) 
 
 On Friday evening before the hack day, we did an ideation bike ride around the neighborhood to come up with any and all ideas for ways  
 to address some of the issues we had collected in those six categories. At the start, we did brief introductions and then our ride lead 
@@ -105,10 +104,9 @@ cyclists to "people on bikes"](http://www.citylab.com/commute/2015/02/dont-say-c
 between the two. We also talked about who identifies as a cyclist (kids, hipsters, lyrca dudes) and how it would be great to widen that to 
 include all people who ride their bikes, independent of how much or how little they ride, what they wear, who they associate with.</br>
 
-![Ideation Ride 1](/images/cyclehacktc_2015/ideation_start_RD.jpg) *Photo by [Rob Davis](https://twitter.com/robfargo)*
-![Ideation Ride 2](/images/cyclehacktc_2015/ideation_ride_greenway.jpg)
-![Ideation Ride 3](/images/cyclehacktc_2015/ideation_ride_brackett.jpg)
-![Ideation Ride 4](/images/cyclehacktc_2015/ideation_ride_HF.jpg)</br>
+![Ideation Ride start, Greenway](/images/cyclehacktc_2015/ideation_1.jpg) 
+![Ideation Ride Brackett, Hack Factory](/images/cyclehacktc_2015/ideation_2.jpg)
+*First set of photos by [Rob Davis](https://twitter.com/robfargo)*
 
 **Bike Demos**</br>
 One of the attendees, Rachel, brought two bikes she had hacked before CycleHack to demonstrate. One was a backwards steering bike, and the other 
