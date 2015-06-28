@@ -1,41 +1,41 @@
 
 ![Start of Hack Day](/images/cyclehacktc_2015/HF_RD.jpg)
-*Photo by [Rob Davis](https://twitter.com/robfargo)*</br>
+*Photo by [Rob Davis](https://twitter.com/robfargo)*
 
 Last Saturday was the first annual Twin Cities CycleHack event. [CycleHack](http://www.cyclehack.com) started in 2014 in Glasgow, Scotland 
 and this year it has become an international effort to make the world more sustainable through reducing the barriers to cycling. 
-The inspiration for CycleHack Twin Cities](http://www.cyclehacktc.com) began with a visit from one of the Glasgow founders, [Johanna Holtan](http://www.cyclehack.com/the-team/). 
+The inspiration for [CycleHack Twin Cities](http://www.cyclehacktc.com) began with a visit from one of the Glasgow founders, [Johanna Holtan](http://www.cyclehack.com/the-team/). 
 She came and talked at an [Open Twin Cities meetup](http://bikeablejo.com/2014/08/27/twin-cities-cycling/) about what they had done in 
 Scotland, and the idea was born to do a CycleHack here in Minneapolis. Which, by the way, is currently the only US city to make it into the top 
 20 in the [Copenhagenize Index](http://copenhagenize.eu/index/18_minneapolis.html) of bike friendly cities around the world.
 
 To kick off our CycleHack, we started with some ideation to figure out what keeps people from riding bikes here in the 
 Twin Cities, brainstormed ways to address those issues, and then we had a full hack day at the [Hack Factory](http://www.tcmaker.org/blog/) 
-where we worked on some hacks to address the things we identified. </br>
+where we worked on some hacks to address the things we identified.
 
-By the end of the hack day, we had several groups create some incredible projects:</br>
+By the end of the hack day, we had several groups create some incredible projects:
+
 **Turn Signal Backpack**</br>
 
 One of the barriers identified was the concern that drivers don't see cyclists or don't know what they plan to do. This group prototyped an LED 
 turn signal that would be placed in a mesh pocket on the outside of your backpack, so that drivers behind you could see when you plan 
-to turn. It also has a signal for stop.</br>
+to turn. It also has a signal for stop.
 
 ![Turn Signal Backpack project](/images/cyclehacktc_2015/turn_signal_backpack.jpg) 
 ![Turn Signal Backpack project](/images/cyclehacktc_2015/turn_signal_backpack_2.jpg) *Photos by [Peter Schwarz](https://twitter.com/peterjschwarz) 
-and [James Keuning](https://twitter.com/jmkeuning)*</br>
+and [James Keuning](https://twitter.com/jmkeuning)*
 
-**[bikable.io](http://www.bikeable.io)**</br>
+**[bikable.io](http://www.bikeable.io)**
 
 One group was interested in finding a better way for cyclists to choose routes using data that shows where cyclists actually ride. The 
 thought was that Google Maps will give you a bike route, but won't tell you if a road is in poor condition or has heavy car traffic.
 The group used bike trip data from [Strava](https://www.strava.com/local), a way for users to upload comments or recommendations, 
 and they added some collision data from a [ten year study from the city of Minneapolis on vehicle/bike collisions].
 (http://www.minneapolismn.gov/www/groups/public/@publicworks/documents/images/wcms1p-102346.pdf)
-</br>
 
-![Bikeable.io Presentation](/images/cyclehacktc_2015/bikeable.jpg) *Second photo by [James Keuning](https://twitter.com/jmkeuning)*</br>
+![Bikeable.io Presentation](/images/cyclehacktc_2015/bikeable.jpg) *Second photo by [James Keuning](https://twitter.com/jmkeuning)*
 
-**Bikes on Buses**</br>
+**Bikes on Buses**
 
 [Bill](https://twitter.com/wbushey) worked on thinking through how it might work to collect data on whether bike racks on Metro Transit buses were available or in use. 
 Starting with the physical question of how a sensor could be used to determine if bikes were already on the bus, he then considered 
