@@ -94,6 +94,7 @@ think of any issues that may keep people from choosing to ride their bike. We wr
 categories of things we could hack: the bike, the environment, the cyclist, clothing, navigation, and culture.
 
 ![Ideation images](/images/cyclehacktc_2015/ideation_full.JPG) 
+*Brainstormed barriers, ideas to address the barriers, and suggestions for hacks*
 
 On Friday evening before the hack day, we did an ideation bike ride around the neighborhood to come up with any and all ideas for ways  
 to address some of the issues we had collected in those six categories. At the start, we did brief introductions and then our ride lead 
