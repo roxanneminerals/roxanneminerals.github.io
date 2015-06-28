@@ -17,8 +17,8 @@ By the end of the hack day, we had several groups create some incredible project
 **Turn Signal Backpack**</br>
 
 ![Turn Signal Backpack project](/images/cyclehacktc_2015/turn_signal_backpack.jpg) 
-![Turn Signal Backpack project](/images/cyclehacktc_2015/turn_signal_backpack_Peter_Schwarz.jpg) *Photo by [Peter Schwarz](https://twitter.com/peterjschwarz)*
-![Signal Backpack team](/images/cyclehacktc_2015/backpack_turn_signal_team_JK.jpg) *Photo by [James Keuning](https://twitter.com/jmkeuning)*</br>
+![Turn Signal Backpack project](/images/cyclehacktc_2015/turn_signal_backpack_2.jpg) *Photos by [Peter Schwarz](https://twitter.com/peterjschwarz) 
+and [James Keuning](https://twitter.com/jmkeuning)*</br>
 
 One of the barriers identified was the concern that drivers don't see cyclists or don't know what they plan to do. This group prototyped an LED 
 turn signal that would be placed in a mesh pocket on the outside of your backpack, so that drivers behind you could see when you plan 
