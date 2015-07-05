@@ -1,4 +1,7 @@
-**YQdio Book Club: The Beauty Myth**
+---
+layout: post
+title:  "YQdio Book Club: The Beauty Myth"
+---
 
 I finally made it to the YQdio! I've been meaning to go to something since I first tried a Yoga Quest
 last summer. If you haven't done a quest with these folks before, the way it works is that there is a script
@@ -49,9 +52,3 @@ to a conversation about how male characters are relatable because they are actua
 I have never read FanFic but I thought it was really interesting when someone said that fanfic allows us to create transformative works, giving an 
 example of a gender-swapped Sherlock who amazingly as a woman can be just as much a culturally-accepted asshole. That's revolutionary!!
 
-Another discussion we had about things that have changes since this book came out was around the strict gender dichotomy (man or woman! no other 
-options) in the book. The cultural understanding of the social construct of gender has come a long way since this book, and gender is much more 
-fluid, less rigid. That said, people now have access to non-binary gender identities but I expect that with that comes an experience that is not even dreamed 
-of in this book.
-
-Those are just some quick highlights! In any case, I'm totally going next month for the discussion of the second half of the book.
