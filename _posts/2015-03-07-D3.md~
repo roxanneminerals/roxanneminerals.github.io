@@ -5,7 +5,7 @@ title:  "Data^3 and Installfest"
 
 [PyLadiesTC](http://www.meetup.com/PyLadiesTC/) was invited to join PyMNtos and the Twin Cities R User Group to help plan an event they were calling Data Cubed, which aimed to bring together the local Python and R communities as well as some Data Visualization folks for a full day of data. I was selected to represent PyLadies on the organizing committee.
 
-Since we were expecting that many people would have expertise with either Python or R but maybe not both, PyLadies wanted to host a pre-event that would help people install both languages and then start learning to use them. I was the lead organizer for the Installfest.  SPS Commerce was our generous host and sponsor for this pre-event- they provided us with food and flash drives that we could load all the files onto for people to use. This way we didn’t need everyone to connect to wifi to download and install, as well as the activities and data set. 
+Since we were expecting that many people would have expertise with either Python or R but maybe not both, PyLadies wanted to host a pre-event that would help people install both languages and then start learning to use them. I was the lead organizer for the Installfest, and I had an amazing team of volunteers- PyLadies and others- to help plan and staff the evening.  SPS Commerce was our generous host and sponsor for this pre-event- they provided us with food and flash drives that we could load all the files onto for people to use. This way we didn’t need everyone to connect to wifi to download and install, as well as the activities and data set. 
 
 We used the Anaconda installation of Python, which comes with the IDE Spyder (and IPython Notebook). In addition to R, we had people install RStudio as well. With the help of some additional volunteers we created some activities that walked through the same tasks in both languages, with the code that people could run or edit. We chose to use the Titanic dataset from Kaggle because we knew one of the speakers would be talking about it at the main event the next day; this way, people were familiar with it and how to access it in both Python and R.
 
@@ -17,19 +17,28 @@ The next day was the main event Data^3, which was sponsored by Target and Cloude
 
 Presentations:
 
-Python for Data Analysis and What's New in GitHub or on slideshare Wes McKinney, Software Engineer at Cloudera, author of "Python for Data Analysis" and developer of pandas package
-Getting Started in R Danny Kaplan, Professor of Statistics at Macalester College
-Getting Started in Python Ravi Shanbhag, Director of Data Science at UHG
-An Introduction to Bayesian Belief Network in R Using the bnlearn Package in GitHub or on slideshare Abraham Matthew, Analytics Strategist at Carmichael Lynch r file , Tinder Data csv
-Data inspection, validation, and conversion using csvkit Matt Pettis, Data Scientist at Quantum Retail
+* Python for Data Analysis and What's New in GitHub or on slideshare Wes McKinney, Software Engineer at Cloudera, author of "Python for Data Analysis" and developer of pandas package
+
+* Getting Started in R Danny Kaplan, Professor of Statistics at Macalester College
+
+* Getting Started in Python Ravi Shanbhag, Director of Data Science at UHG
+
+* An Introduction to Bayesian Belief Network in R Using the bnlearn Package in GitHub or on slideshare Abraham Matthew, Analytics Strategist at Carmichael Lynch r file , Tinder Data csv
+
+* Data inspection, validation, and conversion using csvkit Matt Pettis, Data Scientist at Quantum Retail
 Building A Classifier in Python and R Jay Jacobs, Principal at Verizon and co-author of "Data Driven Security"
-The Allure of a Kaggle Competition Diane Rucker, Project Management Consultant for MIT Trust Center for Leadership
-Paleontology in Python: Analyzing Dinosaur Trackways in Github or online Scott Ernst, Scientific Research Consultant at Paléojura (A16)
-Data Visualization in R Winston Chang, Software Engineer at RStudio and author of "R Graphics Cookbook"
-Panel Discussion - How do you practice Data Science? 
+
+* The Allure of a Kaggle Competition Diane Rucker, Project Management Consultant for MIT Trust Center for Leadership
+
+* Paleontology in Python: Analyzing Dinosaur Trackways in Github or online Scott Ernst, Scientific Research Consultant at Paléojura (A16)
+
+* Data Visualization in R Winston Chang, Software Engineer at RStudio and author of "R Graphics Cookbook"
+
+* Panel Discussion - How do you practice Data Science? 
 Jay Jacobs, Principal at Verizon
 Marc Light, Senior Engineering Manager at Honeywell Automation and Control Solutions
 Ravi Shanbhag, Director of Data Science at OptumInsight
 Alicia Hofelich Mohr, Data Management Research Associate at University of Minnesota
+
 All of the materials and links to what we used at the Installfest are in our [PyLadiesTC Github](https://github.com/PyLadiesTC/Dcubed-installfest-2015), as are the presentations from the Data^3 event.
 

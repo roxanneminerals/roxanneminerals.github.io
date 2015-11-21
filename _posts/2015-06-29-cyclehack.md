@@ -18,8 +18,7 @@ To kick off our CycleHack, we started with some ideation to figure out what keep
 Twin Cities, brainstormed ways to address those issues, and then we had a full hack day at the [Hack Factory](http://www.tcmaker.org/blog/) 
 where we worked on some hacks to address the things we identified.
 
-By the end of the hack day, we had several groups create some incredible projects! For more pictures and stories, check out [@CycleHackTC]
-(https://twitter.com/cyclehacktc) or our hashtag [#CycleHackTC](https://twitter.com/hashtag/cyclehacktc?src=hash).
+By the end of the hack day, we had several groups create some incredible projects! For more pictures and stories, check out [@CycleHackTC](https://twitter.com/cyclehacktc) or our hashtag [#CycleHackTC](https://twitter.com/hashtag/cyclehacktc?src=hash).
 
 **Turn Signal Backpack**
 
@@ -30,16 +29,14 @@ to turn. It also has a signal for stop. [Source code for Signal](https://github.
 ![Turn Signal Backpack project](/images/cyclehacktc_2015/turn_signal_backpack.jpg) 
 ![Turn Signal Backpack project](/images/cyclehacktc_2015/turn_signal_backpack_2.jpg) 
 
-*Team: [Alan](https://twitter.com/zzolo), [Peter]
-(https://twitter.com/peterjschwarz). Photos by [Peter Schwarz](https://twitter.com/peterjschwarz), [James Keuning](https://twitter.com/jmkeuning)*
+*Team: [Alan](https://twitter.com/zzolo), [Peter](https://twitter.com/peterjschwarz). Photos by [Peter Schwarz](https://twitter.com/peterjschwarz), [James Keuning](https://twitter.com/jmkeuning)*
 
 **[bikable.io](http://www.bikeable.io)**
 
 One group was interested in finding a better way for cyclists to choose routes using data that shows where cyclists actually ride. The 
 thought was that Google Maps will give you a bike route, but won't tell you if a road is in poor condition or has heavy car traffic.
 The group used bike trip data from [Strava](https://www.strava.com/local), a way for users to upload comments or recommendations, 
-and they added some collision data from a [ten year study from the city of Minneapolis on vehicle/bike collisions.]
-(http://www.minneapolismn.gov/www/groups/public/@publicworks/documents/images/wcms1p-102346.pdf)
+and they added some collision data from a [ten year study from the city of Minneapolis on vehicle/bike collisions.](http://www.minneapolismn.gov/www/groups/public/@publicworks/documents/images/wcms1p-102346.pdf)
 
 ![Bikeable.io Presentation](/images/cyclehacktc_2015/bikeable.jpg) 
 
@@ -67,8 +64,7 @@ with velcro. It also has the word "bike" (hence the bike brand) on it, and the d
 
 ![Bike Brand Bike Clutch](/images/cyclehacktc_2015/bike_clutch.jpg) 
 
-*Team: [Roxanne](https://twitter.com/roxljohnson), [Leah]
-(https://twitter.com/LKPuffer); not shown: [Kelly](https://twitter.com/cre8ivecubed).
+*Team: [Roxanne](https://twitter.com/roxljohnson), [Leah](https://twitter.com/LKPuffer); not shown: [Kelly](https://twitter.com/cre8ivecubed).
 Second photo by [James Keuning](https://twitter.com/jmkeuning)*
 
 **Spoke Card**
@@ -89,8 +85,7 @@ to create turn signals. [Video](http://www.mobypicture.com/user/gelicia/view/182
 
 ![Helmet Turn Signal team](/images/cyclehacktc_2015/turn_signal_team.jpg) 
 
-*Team: [Kelly](https://twitter.com/cre8ivecubed), [Kristina]
-(https://twitter.com/gelicia), Rachel*
+*Team: [Kelly](https://twitter.com/cre8ivecubed), [Kristina](https://twitter.com/gelicia), Rachel*
 
 There were other projects worked on by folks that couldn't stay; some of them were uploaded to the 
 [global CycleHack Catalogue](http://www.cyclehack.com/location/minneapolis/).
@@ -112,7 +107,7 @@ categories of things we could hack: the bike, the environment, the cyclist, clot
 
 *Brainstormed barriers, ideas to address the barriers, and suggestions for hacks*
 
-On Friday evening before the hack day, we did an ideation bike ride around the neighborhood to come up with any and all ideas for ways  
+On Friday evening before the hack day, we did an ideation bike ride around the neighborhood to come up with any and all ideas for ways
 to address some of the issues we had collected in those six categories. At the start, we did brief introductions and then our ride lead 
 [Michelle](https://twitter.com/michellecohrene) and our volunteer ride mechanic Brian Fanelli from [Recovery Bike Shop](http://morethanabicycle.com/recoverybikeshop.html) 
 explained the rules for the ride. 

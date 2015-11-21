@@ -4,6 +4,7 @@ title:  "CycleHack Twin Cities"
 ---
 
 ![Start of Hack Day](/images/cyclehacktc_2015/HF_RD.jpg)
+
 *Start of the hack day, photo by [Rob Davis](https://twitter.com/robfargo)*
 
 Saturday June 20th was the first annual Twin Cities CycleHack event. [CycleHack](http://www.cyclehack.com) started in 2014 in Glasgow, Scotland 
@@ -17,8 +18,7 @@ To kick off our CycleHack, we started with some ideation to figure out what keep
 Twin Cities, brainstormed ways to address those issues, and then we had a full hack day at the [Hack Factory](http://www.tcmaker.org/blog/) 
 where we worked on some hacks to address the things we identified.
 
-By the end of the hack day, we had several groups create some incredible projects! For more pictures and stories, check out [@CycleHackTC]
-(https://twitter.com/cyclehacktc) or our hashtag [#CycleHackTC](https://twitter.com/hashtag/cyclehacktc?src=hash).
+By the end of the hack day, we had several groups create some incredible projects! For more pictures and stories, check out [@CycleHackTC](https://twitter.com/cyclehacktc) or our hashtag [#CycleHackTC](https://twitter.com/hashtag/cyclehacktc?src=hash).
 
 **Turn Signal Backpack**
 
@@ -27,18 +27,20 @@ turn signal that would be placed in a mesh pocket on the outside of your backpac
 to turn. It also has a signal for stop. [Source code for Signal](https://github.com/zzolo/signal)
 
 ![Turn Signal Backpack project](/images/cyclehacktc_2015/turn_signal_backpack.jpg) 
-![Turn Signal Backpack project](/images/cyclehacktc_2015/turn_signal_backpack_2.jpg) *Team: [Alan](https://twitter.com/zzolo), [Peter]
-(https://twitter.com/peterjschwarz). Photos by [Peter Schwarz](https://twitter.com/peterjschwarz), [James Keuning](https://twitter.com/jmkeuning)*
+![Turn Signal Backpack project](/images/cyclehacktc_2015/turn_signal_backpack_2.jpg) 
+
+*Team: [Alan](https://twitter.com/zzolo), [Peter](https://twitter.com/peterjschwarz). Photos by [Peter Schwarz](https://twitter.com/peterjschwarz), [James Keuning](https://twitter.com/jmkeuning)*
 
 **[bikable.io](http://www.bikeable.io)**
 
 One group was interested in finding a better way for cyclists to choose routes using data that shows where cyclists actually ride. The 
 thought was that Google Maps will give you a bike route, but won't tell you if a road is in poor condition or has heavy car traffic.
 The group used bike trip data from [Strava](https://www.strava.com/local), a way for users to upload comments or recommendations, 
-and they added some collision data from a [ten year study from the city of Minneapolis on vehicle/bike collisions.]
-(http://www.minneapolismn.gov/www/groups/public/@publicworks/documents/images/wcms1p-102346.pdf)
+and they added some collision data from a [ten year study from the city of Minneapolis on vehicle/bike collisions.](http://www.minneapolismn.gov/www/groups/public/@publicworks/documents/images/wcms1p-102346.pdf)
 
-![Bikeable.io Presentation](/images/cyclehacktc_2015/bikeable.jpg) *Team: [Anton](https://twitter.com/anton612), 
+![Bikeable.io Presentation](/images/cyclehacktc_2015/bikeable.jpg) 
+
+*Team: [Anton](https://twitter.com/anton612), 
 [Matt](https://twitter.com/experimatt), [Jacob](https://twitter.com/jdaltsalt), Dan.
 Second photo by [James Keuning](https://twitter.com/jmkeuning)*
 
@@ -48,7 +50,9 @@ Second photo by [James Keuning](https://twitter.com/jmkeuning)*
 Starting with the physical question of how a sensor could be used to determine if bikes were already on the bus, he then considered 
 how to get the data to transit users with bikes and how the system could get set up.
 
-![Bikes on Buses](/images/cyclehacktc_2015/bill_bus.jpg) *[Bill](https://twitter.com/wbushey) discussing how the bureaucracy might deal with this technical solution 
+![Bikes on Buses](/images/cyclehacktc_2015/bill_bus.jpg) 
+
+*[Bill](https://twitter.com/wbushey) discussing how the bureaucracy might deal with this technical solution 
 to the problem, second photo by [James Keuning](https://twitter.com/jmkeuning)*
 
 **Bike Clutch**
@@ -58,8 +62,9 @@ want to go out but don't want to take a bag and you need to carry your phone, wa
 a sewing machine to create a little clutch that we call the bike brand bike clutch that attaches to the front of your handlebars 
 with velcro. It also has the word "bike" (hence the bike brand) on it, and the dot over the "i" is an LED, so it's also a headlight.
 
-![Bike Brand Bike Clutch](/images/cyclehacktc_2015/bike_clutch.jpg) *Team: [Roxanne](https://twitter.com/roxljohnson), [Leah]
-(https://twitter.com/LKPuffer); not shown: [Kelly](https://twitter.com/cre8ivecubed).
+![Bike Brand Bike Clutch](/images/cyclehacktc_2015/bike_clutch.jpg) 
+
+*Team: [Roxanne](https://twitter.com/roxljohnson), [Leah](https://twitter.com/LKPuffer); not shown: [Kelly](https://twitter.com/cre8ivecubed).
 Second photo by [James Keuning](https://twitter.com/jmkeuning)*
 
 **Spoke Card**
@@ -69,15 +74,18 @@ that reminds cyclists of their rights and responsibilities on one side, and has 
 the appropriate steps if they are in an accident.
 
 ![Cyclists' Rights and what to do in an accident](/images/cyclehacktc_2015/spoke_card_full.jpg)
-![Cyclists' Rights team](/images/cyclehacktc_2015/spoke_card_team_jk.jpg) *Team: Marijke, [James](https://twitter.com/jmkeuning)*
+![Cyclists' Rights team](/images/cyclehacktc_2015/spoke_card_team_jk.jpg) 
+
+*Team: Marijke, [James](https://twitter.com/jmkeuning)*
 
 **Turn Signal Helmet**
 
 One team had people who had to leave early so they didn't present, but they worked on LEDs embedded in a bike helmet with programmed controls 
 to create turn signals. [Video](http://www.mobypicture.com/user/gelicia/view/18234077)
 
-![Helmet Turn Signal team](/images/cyclehacktc_2015/turn_signal_team.jpg) *Team: [Kelly](https://twitter.com/cre8ivecubed), [Kristina]
-(https://twitter.com/gelicia), Rachel*
+![Helmet Turn Signal team](/images/cyclehacktc_2015/turn_signal_team.jpg) 
+
+*Team: [Kelly](https://twitter.com/cre8ivecubed), [Kristina](https://twitter.com/gelicia), Rachel*
 
 There were other projects worked on by folks that couldn't stay; some of them were uploaded to the 
 [global CycleHack Catalogue](http://www.cyclehack.com/location/minneapolis/).
@@ -96,6 +104,7 @@ think of any issues that may keep people from choosing to ride their bike. We wr
 categories of things we could hack: the bike, the environment, the cyclist, clothing, navigation, and culture.
 
 ![Ideation images](/images/cyclehacktc_2015/ideation_full.JPG) 
+
 *Brainstormed barriers, ideas to address the barriers, and suggestions for hacks*
 
 On Friday evening before the hack day, we did an ideation bike ride around the neighborhood to come up with any and all ideas for ways  
@@ -120,6 +129,7 @@ include all people who ride their bikes, independent of how much or how little t
 
 ![Ideation Ride start, Greenway](/images/cyclehacktc_2015/ideation_1.jpg) 
 ![Ideation Ride Brackett, Hack Factory](/images/cyclehacktc_2015/ideation_2.jpg)
+
 *First set of photos from the start of the ride by [Rob Davis](https://twitter.com/robfargo)*
 
 **Bike Demos**
@@ -140,6 +150,7 @@ barriers to cycling in the Twin Cities, and it was great that they could be invo
 with many types of interests in improving the cycling experience here.
 
 ![Jason from Cycles for Change](/images/cyclehacktc_2015/jason_c4c.jpg)
+
 *Jason Tanzman from Cycles for Change, photo by [James Keuning](https://twitter.com/jmkeuning)*
 
 The conversations, the projects, the people, our supporters, everything about CycleHack was incredibly inspiring and I think provided a unique 

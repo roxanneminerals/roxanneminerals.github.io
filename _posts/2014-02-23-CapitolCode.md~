@@ -15,10 +15,7 @@ After a bit of discussion, we decided to be two separate groups each working on 
 
 Somewhere in our work, we grabbed onto the idea of the ecosystem- Bill Bushey had used the word early in the day while talking about the vast system of data the Census Bureau operates. The framework of an ecosystem of public data allowed solutions to our two problems to fit into a bigger system together. This system became a kind of elegant solution to the larger problem: making data available and accessible in one place allows developers to use the data easily and then share the data or lessons learned from the data with the public taxpayers who financed the data collection. Having a single “store” to get data from allows the state, who hosts the store, to gather analytics on data usage, which can better inform future data collection and dissemination, which makes things even easier for developers to do more in the future.
 
-Since ecosystems work in loops, we decided to use Prezi in our presentation back to the large group. Prezi allowed us to show the whole system and zoom in to talk about details of each part and then show how the parts connect to the larger system. 
-
-![Presentation](/images/2014/capitol-code-prezi.png)
-You can find our Prezi [here](http://prezi.com/bcz4m35brttp/capitol-code-22214/?utm_campaign=share&utm_medium=copy).
+Since ecosystems work in loops, we decided to use Prezi in our presentation back to the large group. Prezi allowed us to show the whole system and zoom in to talk about details of each part and then show how the parts connect to the larger system. You can find our Prezi [here](http://prezi.com/bcz4m35brttp/capitol-code-22214/?utm_campaign=share&utm_medium=copy).
 
 While other groups made applications or websites, we made a conceptual framework that shows a cohesive way to think about a system of public data in Minnesota. This framework allows us to see that a healthy system where each piece is designed within the larger context of the system cold maximize the benefit we gain from collecting the data in the first place. Increased access and usability means that more people with different perspectives can use the data to answer more diverse questions, leading to more complete knowledge and increased engagement.
 
