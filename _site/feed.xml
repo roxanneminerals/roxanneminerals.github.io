@@ -6,9 +6,136 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 05 Jul 2015 16:47:06 -0500</pubDate>
-    <lastBuildDate>Sun, 05 Jul 2015 16:47:06 -0500</lastBuildDate>
+    <pubDate>Sun, 06 Dec 2015 18:57:00 -0600</pubDate>
+    <lastBuildDate>Sun, 06 Dec 2015 18:57:00 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Natural Gas Distribution Pipeline Analysis- MN and IN (PART 1: Excel and Tableau)</title>
+        <description>&lt;p&gt;The BlueGreen Alliance campaign&lt;a href=&quot;http://www.bluegreenalliance.org/news/publications/NaturalGas_BiFold_R8_HighRes.pdf&quot;&gt;Repairing our Cities Aging Pipelines (RECAP)&lt;/a&gt; aims “to accelerate the repair and replacement of this network to create hundreds of thousands additional jobs while addressing the urgent threat of climate change.” This is part of the BGA Clean Energy Initiative.&lt;/p&gt;
+
+&lt;p&gt;I worked on a couple projects looking at the mileage of leak-prone distribution pipelines and causes of leaks in two states, Minnesota and Indiana. My job was to summarize the &lt;a href=&quot;http://phmsa.dot.gov/portal/site/PHMSA/menuitem.6f23687cf7b00b0f22e4c6962d9c8789/?vgnextoid=a872dfa122a1d110VgnVCM1000009ed07898RCRD&amp;amp;vgnextchannel=3430fb649a2dc110VgnVCM1000009ed07898RCRD&amp;amp;vgnextfmt=print&quot;&gt;data&lt;/a&gt; collected on distribution pipelines by the Pipeline and Hazardous Materials Safety Administration (PHMSA) for each of the states. This data is collected from each pipeline operator and provides the number of miles of pipeline by material as well as number of leaks by cause. &lt;/p&gt;
+
+&lt;p&gt;Once I put together the summaries that showed a snapshot of the distribution pipeline system in the state, we would add it to a handout that also included information about the broader state of distribution pipeline systems including nation-wide numbers on leak-prone pipelines and jobs numbers. We then used this handout to start a conversation with stakeholders including front line gas workers, environmentalists, and the community. &lt;/p&gt;
+
+&lt;p&gt;We discovered that this was an important step because the data only show part of the picture. For example, in Minnesota we learned that leak detection numbers for at least one utility were increasing because they had recently piloted a new leak detection technology that was able to find smaller leaks. We learned from talking to gas workers that some utilities are proactive with efforts to decrease leaks in their systems, and others are more reactive and respond to leaks after the fact. It also became clear that there are nation-wide concerns about the aging workforce in gas workers, training, and low-quality work being done by subcontractors.&lt;/p&gt;
+
+&lt;h2 id=&quot;preparing-the-summaries&quot;&gt;Preparing The Summaries&lt;/h2&gt;
+&lt;p&gt;To obtain the summary statistics for a useful conversation, These are the steps I took. Note that this is an exploratory analysis that was done in order to start a conversation.&lt;/p&gt;
+
+&lt;p&gt;First I downloaded the data to see what was available to us. This particular data set comes with documentation that is a copy of the form that gas operators must submit yearly to PHMSA, and the answers are the field names. There about 230 columns (questions asked), and more than 1,600 operators nationally.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2015/phmsa_documentation.png&quot; alt=&quot;Documentation for PHMSA data set&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The columns I was interested in were:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Operator name&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;State in which the operator is operating (which I discovered can be different from the company address and HQ address)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mileage of leak prone materials, which include four materials: Unprotected Bare Steel, Unprotected Coated Steel, Cathodically Protected Bare Steel, and Cast/Wrought Iron&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Number of leaks by cause; causes are categorized as Corrosion, Natural Forces, Excavation Damage, Other Outside Force Damage, Material or Welds, Equipment, Incorrect Operations, and Other&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These numbers are provided for each operator, both for mains (pipelines from the distribution center throughout a city) and services (smaller pipelines from streets to a home or business). There is additional information about the age and size of the pipelines that I was less interested in.&lt;/p&gt;
+
+&lt;p&gt;I spent quite a bit of time looking at the copy of the form, and then looking at the columns of interest in Excel. There were a lot of zeros- many of the operators in both Minnesota and Indiana had 0 miles of leak prone pipeline.&lt;/p&gt;
+
+&lt;p&gt;I decided that what I wanted to create was a stacked bar chart that showed the total mileage of each of the four leak prone pipeline materials color-coded by operator so we could see which operators had the most of those pipelines. I would create four bars for mains, and four for services.&lt;/p&gt;
+
+&lt;p&gt;For leaks, I would do something similar: create a stacked bar chart that showed total number of leaks for each cause color-coded by operator so we could see which operators had the most leaks as well as which of the causes caused the most leaks.&lt;/p&gt;
+
+&lt;p&gt;Once I knew what I was looking for and what I wanted to do, I could take some steps for a data analysis:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Download the data from PHMSA, in an Excel spreadsheet&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Filter the data to get only the state and pipeline information we want: I was working in Excel, so I used the Filter and then copied the records for the state I wanted and put it in a new tab. Then I would highlight the columns I was interested in- about 13 of the 231.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2015/IN_gas_excel.PNG&quot; alt=&quot;Data in Excel spreadsheet&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Reformat the data to create a stacked bar chart: I learned that to create a stacked bar chart, the data needs to be transformed from the long form to the wide form. I decided to first get rid of all the records that had all zeroes for the leak prone pipeline materials, and then manually reformat the data to what I needed (at this point I definitely knew there was a better way but I had a deadline). I created more tabs to hold the reformatted data.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Long Form
+ &lt;img src=&quot;/images/2015/IN_materials_long.PNG&quot; alt=&quot;Long form&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wide Form
+ &lt;img src=&quot;/images/2015/IN_materials_wide.PNG&quot; alt=&quot;Wide form&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Upload the reformatted data into Tableau to make a stacked bar chart: I decided to try out Tableau Public because it allowed me to create interactive visualizations on the web without knowing any Javascript. For example, Tableau includes tooltips that allow you to see what a specific part of the chart represents. For the exploratory purposes of this analysis, I thought that was useful.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2015/IN_tableau.png&quot; alt=&quot;Stacked bar chart in Tableau: Pipeline materials with tooltips&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2015/IN_tableau2.png&quot; alt=&quot;Stacked bar chart in Tableau: Pipeline leaks with tooltips&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This methodology got the job done. Now that I’m more familiar with the data and what we’re looking at, I have thoughts on how to make this process better for this analysis, and also some fun ideas for a more interesting future analysis.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-steps&quot;&gt;Next Steps&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;We’re working on another state over the next year, so I have the opportunity to try a different method. I’m attempting to do the filtering and reformatting in R, and I am still planning to upload it to Tableau because of the interactive web functionality. Additionally, with this method, once I do one state, I could easily do them all! So much better!!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I am also hoping to learn how to make static charts directly in R, bypassing Tableau. If I can get charts that tell the same story that I can get in Tableau, I can also automate this process and save a bunch of work re-learning how to use Tableau and formatting a dashboard. I suspect that some user testing could help me figure out what the most useful details to highlight are and then maybe I don’t need all the Tableau functionality.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I also have some ideas for additional exploratory analysis using more of the data- the data set is nation-wide, which means I could do state comparisons of things. The data set is also available yearly since 1970, so I could do a time series analysis and look at rates of replacement for leak-prone pipelines over time. I’m also attempting this in R.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hopefully there will be more parts to this story posted early next year!&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 07 Dec 2015 00:00:00 -0600</pubDate>
+        <link>http://yourdomain.com/2015/12/07/PHMSA_part1.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/12/07/PHMSA_part1.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>PyLadies: Cooking Code for Breakfast</title>
+        <description>&lt;p&gt;You may recall that myself and PyLady friend &lt;a href=&quot;https://twitter.com/CaroleJesse?lang=en&quot;&gt;Carole&lt;/a&gt; organized a &lt;a href=&quot;link to post: PyLadiesTC Beginner Cohort at PyMNtos&quot;&gt;beginner cohort&lt;/a&gt; to go through Coursera classes on Python in late 2014. We didn’t stop there! Our other organizers, &lt;a href=&quot;https://twitter.com/DanaKE?lang=en&quot;&gt;Dana&lt;/a&gt;, Moni, and later &lt;a href=&quot;https://twitter.com/michellecohrene?lang=en&quot;&gt;Michelle&lt;/a&gt; joined in and we renamed our meetups to “Cooking Code for Breakfast”.&lt;/p&gt;
+
+&lt;p&gt;We continued our cohort into the spring/summer, but without a specific class. Ladies just came to work and to share, and just hang out. I am really proud of all the ladies in our group, we are amazing! Also, I got to spend &lt;a href=&quot;http://parksandrecreation.wikia.com/wiki/Galentine&#39;s_Day_(event)&quot;&gt;Galentine’s day&lt;/a&gt; with them! I made a PyLadies Galentine using CodeSkulptor and the skills I learned in the interactive gaming class. Here’s a link to &lt;a href=&quot;http://www.codeskulptor.org/#user39_VKNSWzpQqC_1.py&quot;&gt;the code&lt;/a&gt; on CodeSkulptor.&lt;/p&gt;
+
+&lt;p&gt;(insert screenshot of galentine and link to post in projects)&lt;/p&gt;
+
+&lt;p&gt;I was also super excited to spend the Pi Day of the century (3/14/15) with them all at Seward Co-op.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2015/pi-day-2015-pyladies.jpg&quot; alt=&quot;PyLadies on Pi Day of the Century&quot; /&gt;
+&lt;em&gt;Photo by &lt;a href=&quot;https://twitter.com/DanaKE?lang=en&quot;&gt;Dana&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Also in March, we branched out a little when Jackie started RLadies. We decided to jointly call ourselves PyRUs, and host joint events at the PybRary- our library, coworking, and meeting space. There are several of us who work with data and are interested in both Python and R, so it seemed to make sense.&lt;/p&gt;
+
+&lt;p&gt;Links:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.meetup.com/PyLadiesTC/&quot;&gt;PyLadiesTC&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.meetup.com/RLadiesTC/&quot;&gt;RLadies&lt;/a&gt; &lt;/p&gt;
+</description>
+        <pubDate>Sat, 08 Aug 2015 00:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/2015/08/08/pyladies-cooking-code.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/08/08/pyladies-cooking-code.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>CycleHack Twin Cities</title>
@@ -27,8 +154,7 @@ Scotland, and the idea was born to do a CycleHack here in Minneapolis. Which, by
 Twin Cities, brainstormed ways to address those issues, and then we had a full hack day at the &lt;a href=&quot;http://www.tcmaker.org/blog/&quot;&gt;Hack Factory&lt;/a&gt; 
 where we worked on some hacks to address the things we identified.&lt;/p&gt;
 
-&lt;p&gt;By the end of the hack day, we had several groups create some incredible projects! For more pictures and stories, check out [@CycleHackTC]
-(https://twitter.com/cyclehacktc) or our hashtag &lt;a href=&quot;https://twitter.com/hashtag/cyclehacktc?src=hash&quot;&gt;#CycleHackTC&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;By the end of the hack day, we had several groups create some incredible projects! For more pictures and stories, check out &lt;a href=&quot;https://twitter.com/cyclehacktc&quot;&gt;@CycleHackTC&lt;/a&gt; or our hashtag &lt;a href=&quot;https://twitter.com/hashtag/cyclehacktc?src=hash&quot;&gt;#CycleHackTC&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Turn Signal Backpack&lt;/strong&gt;&lt;/p&gt;
 
@@ -39,16 +165,14 @@ to turn. It also has a signal for stop. &lt;a href=&quot;https://github.com/zzol
 &lt;p&gt;&lt;img src=&quot;/images/cyclehacktc_2015/turn_signal_backpack.jpg&quot; alt=&quot;Turn Signal Backpack project&quot; /&gt; 
 &lt;img src=&quot;/images/cyclehacktc_2015/turn_signal_backpack_2.jpg&quot; alt=&quot;Turn Signal Backpack project&quot; /&gt; &lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Team: &lt;a href=&quot;https://twitter.com/zzolo&quot;&gt;Alan&lt;/a&gt;, [Peter]
-(https://twitter.com/peterjschwarz). Photos by &lt;a href=&quot;https://twitter.com/peterjschwarz&quot;&gt;Peter Schwarz&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/jmkeuning&quot;&gt;James Keuning&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Team: &lt;a href=&quot;https://twitter.com/zzolo&quot;&gt;Alan&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/peterjschwarz&quot;&gt;Peter&lt;/a&gt;. Photos by &lt;a href=&quot;https://twitter.com/peterjschwarz&quot;&gt;Peter Schwarz&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/jmkeuning&quot;&gt;James Keuning&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.bikeable.io&quot;&gt;bikable.io&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;One group was interested in finding a better way for cyclists to choose routes using data that shows where cyclists actually ride. The 
 thought was that Google Maps will give you a bike route, but won’t tell you if a road is in poor condition or has heavy car traffic.
 The group used bike trip data from &lt;a href=&quot;https://www.strava.com/local&quot;&gt;Strava&lt;/a&gt;, a way for users to upload comments or recommendations, 
-and they added some collision data from a [ten year study from the city of Minneapolis on vehicle/bike collisions.]
-(http://www.minneapolismn.gov/www/groups/public/@publicworks/documents/images/wcms1p-102346.pdf)&lt;/p&gt;
+and they added some collision data from a &lt;a href=&quot;http://www.minneapolismn.gov/www/groups/public/@publicworks/documents/images/wcms1p-102346.pdf&quot;&gt;ten year study from the city of Minneapolis on vehicle/bike collisions.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/cyclehacktc_2015/bikeable.jpg&quot; alt=&quot;Bikeable.io Presentation&quot; /&gt; &lt;/p&gt;
 
@@ -76,8 +200,7 @@ with velcro. It also has the word “bike” (hence the bike brand) on it, and t
 
 &lt;p&gt;&lt;img src=&quot;/images/cyclehacktc_2015/bike_clutch.jpg&quot; alt=&quot;Bike Brand Bike Clutch&quot; /&gt; &lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Team: &lt;a href=&quot;https://twitter.com/roxljohnson&quot;&gt;Roxanne&lt;/a&gt;, [Leah]
-(https://twitter.com/LKPuffer); not shown: &lt;a href=&quot;https://twitter.com/cre8ivecubed&quot;&gt;Kelly&lt;/a&gt;.
+&lt;p&gt;&lt;em&gt;Team: &lt;a href=&quot;https://twitter.com/roxljohnson&quot;&gt;Roxanne&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/LKPuffer&quot;&gt;Leah&lt;/a&gt;; not shown: &lt;a href=&quot;https://twitter.com/cre8ivecubed&quot;&gt;Kelly&lt;/a&gt;.
 Second photo by &lt;a href=&quot;https://twitter.com/jmkeuning&quot;&gt;James Keuning&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Spoke Card&lt;/strong&gt;&lt;/p&gt;
@@ -98,8 +221,7 @@ to create turn signals. &lt;a href=&quot;http://www.mobypicture.com/user/gelicia
 
 &lt;p&gt;&lt;img src=&quot;/images/cyclehacktc_2015/turn_signal_team.jpg&quot; alt=&quot;Helmet Turn Signal team&quot; /&gt; &lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Team: &lt;a href=&quot;https://twitter.com/cre8ivecubed&quot;&gt;Kelly&lt;/a&gt;, [Kristina]
-(https://twitter.com/gelicia), Rachel&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Team: &lt;a href=&quot;https://twitter.com/cre8ivecubed&quot;&gt;Kelly&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/gelicia&quot;&gt;Kristina&lt;/a&gt;, Rachel&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;There were other projects worked on by folks that couldn’t stay; some of them were uploaded to the 
 &lt;a href=&quot;http://www.cyclehack.com/location/minneapolis/&quot;&gt;global CycleHack Catalogue&lt;/a&gt;.&lt;/p&gt;
@@ -121,7 +243,7 @@ categories of things we could hack: the bike, the environment, the cyclist, clot
 
 &lt;p&gt;&lt;em&gt;Brainstormed barriers, ideas to address the barriers, and suggestions for hacks&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;On Friday evening before the hack day, we did an ideation bike ride around the neighborhood to come up with any and all ideas for ways&lt;br /&gt;
+&lt;p&gt;On Friday evening before the hack day, we did an ideation bike ride around the neighborhood to come up with any and all ideas for ways
 to address some of the issues we had collected in those six categories. At the start, we did brief introductions and then our ride lead 
 &lt;a href=&quot;https://twitter.com/michellecohrene&quot;&gt;Michelle&lt;/a&gt; and our volunteer ride mechanic Brian Fanelli from &lt;a href=&quot;http://morethanabicycle.com/recoverybikeshop.html&quot;&gt;Recovery Bike Shop&lt;/a&gt; 
 explained the rules for the ride. 
@@ -294,6 +416,390 @@ example of a gender-swapped Sherlock who amazingly as a woman can be just as muc
         <pubDate>Thu, 16 Apr 2015 00:00:00 -0500</pubDate>
         <link>http://yourdomain.com/2015/04/16/yqdio-bookclub.html</link>
         <guid isPermaLink="true">http://yourdomain.com/2015/04/16/yqdio-bookclub.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>PyCon 2015</title>
+        <description>&lt;p&gt;Thanks to a financial aid grant from the &lt;a href=&quot;https://www.python.org/psf/&quot;&gt;Python Software Foundation&lt;/a&gt; through national &lt;a href=&quot;http://www.pyladies.com/&quot;&gt;PyLadies&lt;/a&gt;, I was able to represent &lt;a href=&quot;http://www.meetup.com/PyLadiesTC/&quot;&gt;PyLadiesTC&lt;/a&gt; at &lt;a href=&quot;https://us.pycon.org/2015/&quot;&gt;PyCon 2015&lt;/a&gt; in Montreal!&lt;/p&gt;
+
+&lt;p&gt;My goals for attending, which I wrote in my financial aid application, were: first, to get hyped about Python. Second, to network with other organizers of user groups, particularly PyLadies- we are a new chapter and have much to learn. The third goal was to collect resources for beginners and gain a clearer vision of Python’s potential applications for other non-programming professionals like myself that don’t necessarily want to be developers but can benefit enormously from knowing some code to improve their work.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2015/pycon-feminist-hackerspace.jpg&quot; alt=&quot;Open spaces: Feminist Hackerspace (with knitting instruction)&quot; /&gt;
+&lt;img src=&quot;/images/2015/pycon-pdf-parse.jpg&quot; alt=&quot;Open spaces: reading pdfs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I definitely got hyped, I met some amazing PyLadies at a PyLadies lunch and through volunteering at the PyLadies booth, and I did learn about a lot of resources. The whole conference was a little overwhelming, so I’ll just jot down some highlights. Maybe later I can write more about conversations I had and people I met.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2015/pycon-pyladies-lunch.jpg&quot; alt=&quot;PyLadies Lunch&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;First, I arrived a day late because of weather in Chicago. When I left the Montreal airport it was pouring rain, and my bus driver only spoke French. When I (finally) got to the conference center, I shoved food in my face and then went to meet up with &lt;a href=&quot;https://twitter.com/DanaKE?lang=en&quot;&gt;Dana&lt;/a&gt;, who was chatting with Catherine, a PyLady from Ohio. Then we were joined by &lt;a href=&quot;https://twitter.com/gvanrossum&quot;&gt;Guido van Rossum&lt;/a&gt;, who started talking with us about his upcoming keynote in which he was planning to discuss the lack of women who are core contributors to Python. That was a hell of an introduction to this conference! &lt;/p&gt;
+
+&lt;p&gt;After I settled in I was able to familiarize myself with the Palais des congrès de Montréal, where the conference was held. There was some debate over whether these pillars look like trees, or blood vessels.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2015/pycon-convention-center.jpg&quot; alt=&quot;Trees, or blood vessels?&quot; /&gt;
+&lt;img src=&quot;/images/2015/pycon-convention-center2.jpg&quot; alt=&quot;Gorgeous windows&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Some highlights from the conference:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;I met a Chicago PyLady &lt;a href=&quot;https://twitter.com/loooorenanicole&quot;&gt;Lorena&lt;/a&gt; who told me about the &lt;a href=&quot;http://www.dogooddata.com/&quot;&gt;Do Good Data&lt;/a&gt; conference and the &lt;a href=&quot;http://dataanalystsforsocialgood.com/&quot;&gt;Data Analysts for Social Good&lt;/a&gt;, which I hope to join someday.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I met another beginner who had come to the conference with her husband and I was able to share some of the resources that PyLadiesTC put together for learning.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I got to see former Minneapolis PyLady &lt;a href=&quot;https://twitter.com/lkdamer&quot;&gt;@lkdamer&lt;/a&gt; who was attending a coding bootcamp in Seattle! I met her classmates and we went out for dinner.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I chatted with a guy from Germany about diversity in tech, and he came and found me later to make sure that &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I had seen the &lt;a href=&quot;https://www.youtube.com/watch?v=hIJdFxYlEKE&quot;&gt;keynote by Jacob Kaplan Moss&lt;/a&gt; about mediocre programmers (which is excellent and you should go watch it!).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;There were tons of free t-shirts.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I got a &lt;a href=&quot;http://jvns.ca/blog/2015/04/14/strace-zine/&quot;&gt;zine&lt;/a&gt; about &lt;a href=&quot;http://linux.die.net/man/1/strace&quot;&gt;strace&lt;/a&gt; from Montreal PyLady &lt;a href=&quot;https://twitter.com/b0rk&quot;&gt;Julia&lt;/a&gt;, who is AWESOME. Then I talked to several PyLadies about setting up a technical zine exchange. I hope this happens!!! I’m still working on mine…&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I also met another Minneapolis PyLady in Montreal at the PyLadies Lunch!! She came to one of our local events after that!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I went up to Arepera du Plateau with &lt;a href=&quot;https://twitter.com/maestrofjp&quot;&gt;Peter&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/CultureClap&quot;&gt;@CultureClap&lt;/a&gt;, and Aaron. Among other things, we had a great discussion where I mentioned that I think the goal shouldn’t be “to have diversity” in tech, but rather to value diversity for diverse perspectives. We talk about this alot in our local PyLadies chapter. Then we ate AMAZING AVOCADO SAUCE until we couldn’t move.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But by far the coolest and most amazing thing about PyCon to me was this. After &lt;a href=&quot;https://www.youtube.com/watch?v=G-uKNd5TSBw&quot;&gt;Guido van Rossum’s keynote&lt;/a&gt; where he talked about getting more women to become core contributors, I had stopped paying attention because I have no interest in being a core contributor and the other half of the talk was about Python 3. As a beginner, I mostly use resources written for Python 2 so I don’t use 3. I had started daydreaming and looking at Twitter- which is how I felt for about half of the conference- when Q&amp;amp;A started, and a familiar voice started talking about how the goal shouldn’t be diversity for diversity’s sake, but because we value diverse perspectives. I looked up and there was &lt;a href=&quot;https://twitter.com/CultureClap&quot;&gt;@CultureClap&lt;/a&gt; saying exactly what we were talking about at dinner THE NIGHT BEFORE! I’M THE FRIEND! Something I said got amplified to thousands of people at my first PyCon. And it was incredible. Then &lt;a href=&quot;https://twitter.com/CultureClap&quot;&gt;@CultureClap&lt;/a&gt; and I high-fived. (The comment starts at 20:54)&lt;/p&gt;
+
+&lt;p&gt;Overall, I liked the sessions that focused on cultural issues in tech or that were more general, but I struggled to find a balance because if something got too technical, I wouldn’t be able to follow. I don’t know if I would attend this conference again but I’m glad I went this time. People were very supportive and welcoming, but I don’t really know if it’s quite my thing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2015/pycon-owl.jpg&quot; alt=&quot;This is how I think about programming too&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 16 Apr 2015 00:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/2015/04/16/pycon.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/04/16/pycon.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Data^3 and Installfest</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://www.meetup.com/PyLadiesTC/&quot;&gt;PyLadiesTC&lt;/a&gt; was invited to join PyMNtos and the Twin Cities R User Group to help plan an event they were calling Data Cubed, which aimed to bring together the local Python and R communities as well as some Data Visualization folks for a full day of data. I was selected to represent PyLadies on the organizing committee.&lt;/p&gt;
+
+&lt;p&gt;Since we were expecting that many people would have expertise with either Python or R but maybe not both, PyLadies wanted to host a pre-event that would help people install both languages and then start learning to use them. I was the lead organizer for the Installfest, and I had an amazing team of volunteers- PyLadies and others- to help plan and staff the evening.  SPS Commerce was our generous host and sponsor- they provided us with food, space, and flash drives that we could load all the files onto for people to use. This way we didn’t need everyone to connect to wifi to download and install, and people also had imiediate access to the activities and data set as well. &lt;/p&gt;
+
+&lt;p&gt;We used the Anaconda installation of Python, which comes with the IDE Spyder (and IPython Notebook). In addition to R, we had people install RStudio as well. With the help of some additional volunteers we created some activities that walked through the same tasks in both languages, with the code that people could run or edit. We chose to use the Titanic dataset from Kaggle because we knew one of the speakers would be talking about it at the main event the next day; this way, people were familiar with it and how to access it in both Python and R.&lt;/p&gt;
+
+&lt;p&gt;We had several PyLady and other volunteers on hand with expertise in both Python and R to assist with installation (on Windows, Mac, and Linux) and the activities. We also encouraged people to use the folks around them as resources: our nametags had indicators for what OS and languages we knew about so that people could look for another attendee to help them if the volunteers were busy. That worked out really well, since there was a lot of expertise in the room!&lt;/p&gt;
+
+&lt;p&gt;I was blown away by how well the event went- we had about 40 people attend, and lots of people were chatting, playing with the dataset, and troubleshooting issues together. The volunteers were fantastic and helped people with different skillsets talk to each other and learn from each other, as well as from the volunteers. It was a lot of work putting this thing together but it was totally worth it!&lt;/p&gt;
+
+&lt;p&gt;The next day was the main event Data^3, which was sponsored by Target and Cloudera. We had a full day of presentations on Python, R, data visualization, and tools to use.&lt;/p&gt;
+
+&lt;p&gt;Presentations:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Python for Data Analysis and What’s New in GitHub or on slideshare Wes McKinney, Software Engineer at Cloudera, author of “Python for Data Analysis” and developer of pandas package&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Getting Started in R Danny Kaplan, Professor of Statistics at Macalester College&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Getting Started in Python Ravi Shanbhag, Director of Data Science at UHG&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;An Introduction to Bayesian Belief Network in R Using the bnlearn Package in GitHub or on slideshare Abraham Matthew, Analytics Strategist at Carmichael Lynch r file , Tinder Data csv&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Data inspection, validation, and conversion using csvkit Matt Pettis, Data Scientist at Quantum Retail
+Building A Classifier in Python and R Jay Jacobs, Principal at Verizon and co-author of “Data Driven Security”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Allure of a Kaggle Competition Diane Rucker, Project Management Consultant for MIT Trust Center for Leadership&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Paleontology in Python: Analyzing Dinosaur Trackways in Github or online Scott Ernst, Scientific Research Consultant at Paléojura (A16)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Data Visualization in R Winston Chang, Software Engineer at RStudio and author of “R Graphics Cookbook”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Panel Discussion - How do you practice Data Science? 
+Jay Jacobs, Principal at Verizon
+Marc Light, Senior Engineering Manager at Honeywell Automation and Control Solutions
+Ravi Shanbhag, Director of Data Science at OptumInsight
+Alicia Hofelich Mohr, Data Management Research Associate at University of Minnesota&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All of the materials and links to what we used at the Installfest are in our &lt;a href=&quot;https://github.com/PyLadiesTC/Dcubed-installfest-2015&quot;&gt;PyLadiesTC Github&lt;/a&gt;, as are the presentations from the Data^3 event.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 07 Mar 2015 00:00:00 -0600</pubDate>
+        <link>http://yourdomain.com/2015/03/07/D3.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/03/07/D3.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>PyLadies Galentine</title>
+        <description>&lt;p&gt;As I talked about in the post on &lt;a href=&quot;/posts/2015-08-08-pyladies-cooking-code.md&quot;&gt;PyLadies: Cooking Code for Breakfast&lt;/a&gt;, I got to hang out with the PyLadies on &lt;a href=&quot;http://parksandrecreation.wikia.com/wiki/Galentine&#39;s_Day_(event)&quot;&gt;Galentine’s Day&lt;/a&gt;. While the holiday is actually February 13th, Saturday fell on the 14th (Valentine’s Day). Which was lovely, because at the co-op they had put out white tablecloths, candles, and roses on all the tables. I also brought a present to share for all the ladies! I had taken a class on Coursera from Rice University called &lt;a href=&quot;https://www.coursera.org/course/interactivepython1&quot;&gt;An Introduction to Interactive Programming in Python&lt;/a&gt;, and a couple of the games we learned to write were Pong and Memory (the card guessing game). I was looking for a way to use what I learned to make a fun project, so I decided to try and make a Galentine.&lt;/p&gt;
+
+&lt;p&gt;I designed my project to use the skills we learned writing these two games, and I had access to the examples provided by the teachers, my source code that I used for the games, and code that I reviewed and graded for three peers (who usually did better than I did). Starting with that existing code, I created an interactive e-card that incorporated images of me and PyLady hair that changed color, a bouncing heart, some interactivity that allowed a user to enter their name and change the message that appeared in the card. I used the browser-based Python interpreter used in the class, CodeSkulptor, to run the code. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2015/galentine_screenshot.png&quot; alt=&quot;Galentine Screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;codeskulptor&quot;&gt;CodeSkulptor&lt;/h2&gt;
+&lt;p&gt;The class that I took used CodeSkulptor for all the projects, which was great because it runs Python code in the browser and you don’t have to download or install anything to be up and running immediately. CodeSkulptor uses a module called SimpleGUI for the interactive game and drawing programs, so that’s what we learned in this class (looking up the &lt;a href=&quot;http://www.codeskulptor.org/docs.html#Frames&quot;&gt;documentation&lt;/a&gt; right now I discovered there is also a mapping module and a plotting module).&lt;/p&gt;
+
+&lt;p&gt;In each of the lessons we would learn a bit about the functionality of CodeSkulptor for building interactive games: creating handlers, drawing on a canvas, packages available to import and use, global and local variables. The lessons instructed us on how to use syntax and do the tasks required for assignments and projects, and also how to read the documentation in order to figure out something not explicitly taught. Additional exercises were available each week that would help students work their way up to the mini projects, and the solutions were provided so you could try and then check your work.&lt;/p&gt;
+
+&lt;p&gt;I really enjoyed learning about CodeSkulptor; it allowed us n00bs to do a lot of neat things without knowing much about how it worked at first. It was neat to understand it more as we learned in the class  as well; when we got to the lesson introducing classes, for example, the CodeSkulptor commands began to make more sense!&lt;/p&gt;
+
+&lt;p&gt;View and run the code for the Galentine in CodeSkultptor &lt;a href=&quot;http://www.codeskulptor.org/#user39_VKNSWzpQqC_1.py&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;brainstorm&quot;&gt;Brainstorm&lt;/h2&gt;
+&lt;p&gt;I started by drawing out what I wanted the Galentine to look like and added notes about the functionality. I drew the canvas (pencil and paper, really high-tech) with the images and text I wanted, and drew arrows indicating where I would put a button to change the message and a box for the user to enter their name. Since I wanted things to move and change, I also thought about what actions could trigger the movement/changes. While deciding on a design, I also started thinking about how I could make these things happen- I didn’t want to add a feature I had no idea how to make, but I didn’t need to know exactly how I would do it, either. &lt;/p&gt;
+
+&lt;h2 id=&quot;start-with-existing-code&quot;&gt;Start With Existing Code&lt;/h2&gt;
+&lt;p&gt;While creating Memory, one of the lessons was using images on the canvas. This lesson involved learning how to use the coordinate system in CodeSkulptor where Pong used the draw functions to generate the images. I decided to use an image of one of the PyLady logos and an image of me (since it was a Galentine from me to other PyLadies).&lt;/p&gt;
+
+&lt;p&gt;I decided to add movement and changes that were similar to those in Pong, but instead of a bouncing ball I would have a bouncing heart- which involved grabbing an image of a heart instead of using the draw functions to draw a circle. Here we also learned to create gutters so the ball didn’t go off screen, to set the direction and velocity of the ball, and to have the ball react by bouncing off of edges.&lt;/p&gt;
+
+&lt;h2 id=&quot;break-the-project-up&quot;&gt;Break The Project Up&lt;/h2&gt;
+&lt;p&gt;I determined that there were four main chunks of work that I wanted to do, and while I probably had to get the images drawn first, the order of the other items didn’t really matter:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Drawing&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Changing Hair Color&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bouncing Heart&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Interactivity: Name and Changing the Message&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;drawing&quot;&gt;Drawing&lt;/h3&gt;
+&lt;p&gt;I wanted to have two distinct areas of the canvas: one for the image of the PyLady, and one where the heart would bounce around. This required figuring out how to draw a canvas where the top half was an image and the bottom half was the region in which the heart could go.&lt;/p&gt;
+
+&lt;p&gt;To draw the images (including all possible PyLadies, an image of me, the heart, and the name and message texts) requires creating a handler function, loading the images, and then using the draw function of SimpleGUI (here I have removed the code for choosing the hair color as I talk about that in the next section):&lt;/p&gt;
+
+&lt;p&gt;```
+# Handler to draw on canvas
+def draw_handler(canvas):
+    global num2
+    global image
+    global heart_pos
+    global vel
+    global heart_width&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;image_blue = simplegui.load_image(&#39;https://dl.dropbox.com/s/vh5bpccsn1qlde0/pyladies_blue.jpg?dl=0&#39;)
+image_green = simplegui.load_image(&#39;https://dl.dropbox.com/s/34ayk7pd0zti5tx/pyladies_green.jpg?dl=0&#39;)
+image_red = simplegui.load_image(&#39;https://dl.dropbox.com/s/zcfm0it0meeth2m/pyladies_red.jpg?dl=0&#39;)
+image_purple = simplegui.load_image(&#39;https://dl.dropbox.com/s/io6k7f5idlmpmfb/pyladies_purple.jpg?dl=0&#39;)
+image_pink = simplegui.load_image(&#39;https://dl.dropbox.com/s/v1hob4akrvd454j/pyladies_pink.jpg?dl=0&#39;)
+image_orange = simplegui.load_image(&#39;https://dl.dropbox.com/s/rr8r3a5osd675n5/pyladies_orange.jpg?dl=0&#39;)
+image_rox = simplegui.load_image(&#39;https://dl.dropbox.com/s/nikdz4q581b3wlv/roxface.png?dl=0&#39;)
+heart_image = simplegui.load_image(&#39;https://dl.dropbox.com/s/qf02x8l70e0a742/heart.png?dl=0&#39;)
+
+# these are the pylady image files, one for each color, plus rox and heart
+# canvas.draw_image(image, center_source, width_height_source, center_dest, width_height_dest)
+# image is image name
+# center_source is (x, y) center of source image
+# width_height_source is (width, height) of source image
+# center_dest is (x, y) where you want to put it on canvas = ball_pos
+# width_height_destination is the (width, height) you want for the image on the canvas
+                
+canvas.draw_image(image, (3487/2, 1881/2),(3487, 1881), (200, 100), (400, 200))
+# draw pylady image
+
+canvas.draw_image(image_rox, (1080/2, 1920 / 2), (1080, 1920), (50, 350), (100, 150))
+#(source image center), (source image size), (upper left corner goes here on canvas), (width, height)
+# those first two things have to do with the original image size
+
+canvas.draw_text(name, [150, 50], 48, &quot;White&quot;)
+# draw user&#39;s name
+
+canvas.draw_text(message, [120, 290], 28, &quot;White&quot;)
+# draw supportive message ```
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;To draw the name and message text:&lt;/p&gt;
+
+&lt;p&gt;```
+canvas.draw_text(name, [150, 50], 48, “White”)
+    # draw user’s name&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;canvas.draw_text(message, [120, 290], 28, &quot;White&quot;)
+# draw supportive message ```
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The messages are assigned here and then made into a list. This way, an element can be selected from the list and a random message appears.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+m0 = &quot;crush that code!&quot;
+m1 = &quot;code that thang!&quot;
+m2 = &quot;you&#39;re great at coding!&quot;
+msg_lst = (m0, m1, m2)
+# these are the possible messages that will appear below the pylady image and a list of all of them
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;changing-hair-color&quot;&gt;Changing Hair Color&lt;/h3&gt;
+&lt;p&gt;The PyLady logo is a simple image of hair that is an iconic PyLady-red and some eyes with glasses. This made it easy to change the hair color; I used Paint.net to simply make a set of images that were exactly the same but with different colored hair:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2015/pyladies_hair.jpg&quot; alt=&quot;Files for PyLady hair images&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To change the color, the program would just call a random image whenever a thing would happen. The thing, I decided, should be when the heart bounced off one of the sides of the border. I gave the images names, created a list of the images, and when the thing happens (heat reaches border), the variable num2 is randomly assigned an integer between 0 and 5 using &lt;code&gt;num2 = random.randrange(0, 5)&lt;/code&gt;, and then that element in the list of images is drawn.&lt;/p&gt;
+
+&lt;p&gt;```
+image_lst = (image_red, image_green, image_blue, image_purple, image_pink, image_orange)
+    # this is a list of each color image from which to select a random one&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;image = image_lst[num2]
+# the default is to draw the red image ```
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;bouncing-heart&quot;&gt;Bouncing Heart&lt;/h3&gt;
+&lt;p&gt;The bouncing heart was pretty much the same as the bouncing ball we created for pong, except I replaced the circle-drawing function with a heart-image-grabbing function. I used the same physics from Pong where if the center of the heart was a distance equal to the width of the heart away from one of the borders, then the heart’s velocity would simply switch to the negative of what is was initiatlly- making it appear to bounce.&lt;/p&gt;
+
+&lt;p&gt;To make the heart and have it move around, I had to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Set the initial position of the heart to appear on the canvas, which I in the beginning of the program with the global variable &lt;code&gt;heart_pos = [200, 300]&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Draw the heart on the canvas, shown at the bottom of the code below. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Set rules for when the heart position was near the borders, and make the heart “bounce” by negating the velocity&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;```
+ # heart code
+    # update heart position
+    heart_pos[0] += vel[0]
+    heart_pos[1] += vel[1]&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# collide and reflect off of left hand side of canvas
+if heart_pos[0] &amp;lt;= heart_width:
+    num2 = random.randrange(0, 5) # changes pylady color on collision
+    vel[0] = -vel[0]
+    
+# collide and reflect off of right hand side of canvas
+if heart_pos[0] &amp;gt;= (400 - heart_width):
+    num2 = random.randrange(0, 5)
+    vel[0] = -vel[0]
+    
+# collide and reflect off of top of canvas
+if heart_pos[1] &amp;lt;= (225 + heart_width):
+    num2 = random.randrange(0, 5)
+    vel[1] = -vel[1]
+    
+# collide and reflect off of bottom of canvas
+if heart_pos[1] &amp;gt;= 400 - (heart_width):
+    num2 = random.randrange(0, 5)
+    vel[1] = -vel[1]
+
+#draw heart
+canvas.draw_image(heart_image, (300 / 2, 279 / 2), (300, 279), heart_pos, (50, 50)) ```
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;interactivity-name-and-changing-the-message&quot;&gt;Interactivity: Name and Changing the Message&lt;/h3&gt;
+&lt;p&gt;We learned to ask for the user to input information or make a choice early on in the class because our first game was Paper, Rock, Scissors, Lizard, Spock, and we also learned how to make buttons for the user to push. These both require handler functions to be created. For the name, I had a text input that would write the user’s text to the PyLady hair when they hit enter.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+# Handler to input name
+def input_name(text_input):
+    global name
+    name = text_input
+    # input name function gets input from user, sets name var to that input.
+    # since name is global, correct inputted name gets drawn by the event handler
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;I set it up so that when the button is pushed, a random integer that is 0, 1, or 2 will be assigned to the variable num1 and the message associated with that integer will display. &lt;/p&gt;
+
+&lt;p&gt;```
+# Handler for mouse click
+def click():
+    global message
+    global num1
+    global num2&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;num1 = random.randrange(0, 3)
+message = msg_lst[num1]
+# right now, clicking the button changes the message from m[0] to a random m
+# and sets num2 to a new random element from image_lst to change hair color ```
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;A note on laziness: Sometimes the message and hair color don’t change when the action initiates a random assignment to num1 or num2, because I didn’t tell it that if the new random integer is the same as the previous random integer to choose another one. I probably should fix that.&lt;/p&gt;
+
+&lt;p&gt;To run the program, there is some work I still needed to do calling the handlers to do their jobs. This code creates the frame, the button, the input text box, draws the images, and then starts the frame:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+frame = simplegui.create_frame(&#39;Happy_Galentines_Day&#39;, 400, 400)
+frame.add_button(&quot;Happy Galentine&#39;s Day!&quot;, click)
+frame.add_input(&quot;Type your name and hit &#39;Enter&#39;&quot;, input_name, 100)
+frame.set_draw_handler(draw_handler)
+frame.start()
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;I think my Galentine turned out pretty cool, and I definitely learned a lot trying to make a thing that wasn’t an assignment in the class. There was a lot to figure out and trying things before I could get them to work. At one point, I tried a timer to change the hair color and it changed so fast you could barely see it. It was horrible to look at. Thankfully, another feature of CodeSkulptor is if you find yourself in some sort of infinite loop, it ends the program. I love this feature.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 13 Feb 2015 00:00:00 -0600</pubDate>
+        <link>http://yourdomain.com/2015/02/13/pyladies_galentine.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/02/13/pyladies_galentine.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Career Exploration Trip- Twin Cities!</title>
+        <description>&lt;p&gt;As a member of the Student Relations Committee of the &lt;a href=&quot;https://www.hhh.umn.edu/our-leadership/alumni-board&quot;&gt;Humphrey School Alumni Board&lt;/a&gt;, I was part of the team that planned a Career Exploration Trip for the Twin Cities. Previously, trips were planned for current students to travel to DC and Chicago, meet alumni, and hear about their careers. Last year the Twin Cities was added. &lt;/p&gt;
+
+&lt;p&gt;The day consisted of three panels, categorized by sector: nonprofit, private, and government. We started at the YWCA in downtown Minneapolis, made our way to Target, and ended at Minneapolis Central Library. My colleague Sarah Berke and I planned the nonprofit panel. I stuck around for the whole day, and it was really great to hear about what some amazing alumni are doing now and the advice they had for current students. We had a great group of folks that volunteered their time to make a great event.&lt;/p&gt;
+
+&lt;p&gt;We ended with a reception planned by the Board’s Alumni Relations Committee.&lt;/p&gt;
+
+&lt;p&gt;July 18, 2015 Update: this trip won the 2015 University of Minnesota Alumni Association “Program Extraordinaire” Award!&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 15 Jan 2015 00:00:00 -0600</pubDate>
+        <link>http://yourdomain.com/2015/01/15/HHH-CET.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/01/15/HHH-CET.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>PyLadiesTC Beginner Cohort at PyMNtos</title>
+        <description>&lt;p&gt;You may recall that in June, I attended &lt;a href=&quot;http://opentwincities.org/events/2014/06/21/hack-for-mn-2014/&quot;&gt;Hack for MN 2014&lt;/a&gt; and there I met &lt;a href=&quot;https://twitter.com/DanaKE?lang=en&quot;&gt;Dana&lt;/a&gt;, co-founder of &lt;a href=&quot;http://www.meetup.com/PyLadiesTC/&quot;&gt;PyLadiesTC&lt;/a&gt; and got connected with the local PyLadies. At the recap event, &lt;a href=&quot;http://opentwincities.org/events/2014/07/08/hackd-for-mn-2014/&quot;&gt;Hack’d for MN&lt;/a&gt;, I met &lt;a href=&quot;https://twitter.com/CaroleJesse?lang=en&quot;&gt;Carole&lt;/a&gt; and learned that she was also interested in learning Python. So Carole and I teamed up in the fall (October) to become PyLady organizers ourselves, and organize a beginner cohort that would meet regularly to learn Python.&lt;/p&gt;
+
+&lt;p&gt;There were two classes that we decided to try on Coursera: University of Michigan’s &lt;a href=&quot;https://www.coursera.org/learn/python&quot;&gt;Programming for Everybody (Python)&lt;/a&gt;, and Rice University’s &lt;a href=&quot;https://www.coursera.org/course/interactivepython1&quot;&gt;An Introduction to Interactive Programming in Python&lt;/a&gt;. We met weekly on Saturday mornings, and three ladies finished each class. I finished the first one, and made it through week five (of eight) in the second one. &lt;/p&gt;
+
+&lt;p&gt;Fast-forward to December: I had the opportunity to present our Beginner Cohort to the local Python User Group, PyMNtos. Carole and I worked with our cohort to put together some slides, and I volunteered to share our triumphs and struggles with the group. Then we demonstrated the final game- called RiceRocks, it’s basically asteroides- for the group.&lt;/p&gt;
+
+&lt;p&gt;The presentation to PyMNtos was great- it was really nice to hear from a supportive audience about struggles that they had while to learn to code, and everyone agreed that having a cohort to meet regularly for a class was really helpful. We also shared some tips that we had each learned while taking Coursera classes- from discussing whether or not to try the forums to how to tell what kind of answer the quiz questions expect.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2014/pyladies-pymntos.png&quot; alt=&quot;Presentation&quot; /&gt;
+add link to presentation&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Dec 2014 00:00:00 -0600</pubDate>
+        <link>http://yourdomain.com/2014/12/11/pyladies-beginner-cohort.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2014/12/11/pyladies-beginner-cohort.html</guid>
         
         
       </item>

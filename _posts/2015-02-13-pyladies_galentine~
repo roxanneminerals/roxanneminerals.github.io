@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "PyLadies Galentine"
+---
+
+As I talked about in the post on PyLadies: Cooking Code for Breakfast (link to post), I got to hang out with the PyLadies on [Galentine’s Day](http://parksandrecreation.wikia.com/wiki/Galentine's_Day_(event)). While the holiday is actually February 13th, Saturday fell on the 14th (Valentine’s Day). Which was lovely, because at the co-op they had put out white tablecloths, candles, and roses on all the tables. I also brought a present to share for all the ladies! I had taken a class on Coursera from Rice University called [An Introduction to Interactive Programming in Python](https://www.coursera.org/course/interactivepython1), and a couple of the games we learned to write were Pong and Blackjack. I was looking for a way to use what I learned to make a fun project, so I decided to try and make a Galentine.
+
+I designed my project to use the skills we learned writing these two games, and I had access to the examples provided by the teachers, my source code that I used for the games, and code that I reviewed and graded for three peers (who usually did better than I did). Starting with that existing code, I created an interactive e-card that incorporated images of me and PyLady hair that changed color, a bouncing heart, some interactivity that allowed a user to enter their name and change the message that appeared in the card. I used the browser-based Python interpreter used in the class, CodeSkulptor, to run the code. 
+
+![Galentine Screenshot](/images/2015/galentine_screenshot.png)
+
+##CodeSkulptor
+The class that I took used CodeSkulptor for all the projects, which was great because it runs Python code in the browser and you don’t have to download or install anything to be up and running immediately. In each of the lessons we would learn a bit about the functionality of CodeSkulptor: creating handlers, drawing a canvas, packages available to import and use, global and local variables. The lessons instructed us on how to use the documentation provided with CodeSkulptor to learn syntax and figure out how to do the tasks required for the assignments and projects. There were also exercises available that would help students work their way up to the mini projects, and the solutions were provided so you could try and then check your work.
+
+View and run the code for the Galentine in CodeSkultptor [here](http://www.codeskulptor.org/#user39_VKNSWzpQqC_1.py)
+
+###Brainstorm
+I started by drawing out what I wanted the Galentine to look like and added notes about the functionality. I drew the canvas (pencil and paper, really high-tech) with the images and text I wanted, and drew arrows indicating where I would put a button to change the message and a box for the user to enter their name. Since I wanted things to move and change, I also thought about what actions could trigger the movement/changes. While deciding on a design, I also started 
