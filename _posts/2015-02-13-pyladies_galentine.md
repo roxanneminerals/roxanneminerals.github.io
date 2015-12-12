@@ -3,11 +3,11 @@ layout: post
 title:  "PyLadies Galentine"
 ---
 
-As I talked about in the post on [PyLadies: Cooking Code for Breakfast](/posts/2015-08-08-pyladies-cooking-code.md), I got to hang out with the PyLadies on [Galentine’s Day](http://parksandrecreation.wikia.com/wiki/Galentine's_Day_(event)). While the holiday is actually February 13th, Saturday fell on the 14th (Valentine’s Day). Which was lovely, because at the co-op they had put out white tablecloths, candles, and roses on all the tables. I also brought a present to share for all the ladies! I had taken a class on Coursera from Rice University called [An Introduction to Interactive Programming in Python](https://www.coursera.org/course/interactivepython1), and a couple of the games we learned to write were Pong and Memory (the card guessing game). I was looking for a way to use what I learned to make a fun project, so I decided to try and make a Galentine.
-
-I designed my project to use the skills we learned writing these two games, and I had access to the examples provided by the teachers, my source code that I used for the games, and code that I reviewed and graded for three peers (who usually did better than I did). Starting with that existing code, I created an interactive e-card that incorporated images of me and PyLady hair that changed color, a bouncing heart, some interactivity that allowed a user to enter their name and change the message that appeared in the card. I used the browser-based Python interpreter used in the class, CodeSkulptor, to run the code. 
-
 ![Galentine Screenshot](/images/2015/galentine_screenshot.png)
+
+As I talked about in the post on [PyLadies: Cooking Code for Breakfast](/posts/2015-08-08-pyladies-cooking-code.md), I got to hang out with the PyLadies on [Galentine’s Day](http://parksandrecreation.wikia.com/wiki/Galentine's_Day_(event)). While the holiday is actually February 13th, Saturday fell on the 14th (Valentine’s Day). Which was lovely, because at the co-op they had put out white tablecloths, candles, and roses on all the tables. I also brought a present to share for all the ladies! I had taken a class on Coursera from Rice University called [An Introduction to Interactive Programming in Python](https://www.coursera.org/course/interactivepython1), and a couple of the games we learned to write were Pong and Memory (the card guessing game). I was looking for a way to use what I learned to make a fun project, so I decided to try and make a digital Galentine using Python.
+
+I designed my project to use the skills we learned writing these two games, and I had access to the examples provided by the teachers, my source code that I used for the games, and code that I reviewed and graded for three peers (who usually did better than I did). Starting with that existing code, I created an interactive e-card that incorporated images of me and PyLady hair that changed color, a bouncing heart, some interactivity that allowed a user to enter their name and change the message that appeared in the card. I used the browser-based Python interpreter used in the class, [CodeSkulptor](http://www.codeskulptor.org/), to run the code. 
 
 ##CodeSkulptor
 The class that I took used CodeSkulptor for all the projects, which was great because it runs Python code in the browser and you don’t have to download or install anything to be up and running immediately. CodeSkulptor uses a module called SimpleGUI for the interactive game and drawing programs, so that's what we learned in this class (looking up the [documentation](http://www.codeskulptor.org/docs.html#Frames) right now I discovered there is also a mapping module and a plotting module).
@@ -16,7 +16,7 @@ In each of the lessons we would learn a bit about the functionality of CodeSkulp
 
 I really enjoyed learning about CodeSkulptor; it allowed us n00bs to do a lot of neat things without knowing much about how it worked at first. It was neat to understand it more as we learned in the class  as well; when we got to the lesson introducing classes, for example, the CodeSkulptor commands began to make more sense!
 
-View and run the code for the Galentine in CodeSkultptor [here](http://www.codeskulptor.org/#user39_VKNSWzpQqC_1.py)
+_View and run the code for the Galentine in CodeSkultptor [here](http://www.codeskulptor.org/#user39_VKNSWzpQqC_1.py)_
 
 ##Brainstorm
 I started by drawing out what I wanted the Galentine to look like and added notes about the functionality. I drew the canvas (pencil and paper, really high-tech) with the images and text I wanted, and drew arrows indicating where I would put a button to change the message and a box for the user to enter their name. Since I wanted things to move and change, I also thought about what actions could trigger the movement/changes. While deciding on a design, I also started thinking about how I could make these things happen- I didn’t want to add a feature I had no idea how to make, but I didn’t need to know exactly how I would do it, either. 
@@ -30,11 +30,8 @@ I decided to add movement and changes that were similar to those in Pong, but in
 I determined that there were four main chunks of work that I wanted to do, and while I probably had to get the images drawn first, the order of the other items didn’t really matter:
 
 * Drawing
-
 * Changing Hair Color
-
 * Bouncing Heart
-
 * Interactivity: Name and Changing the Message
 
 ###Drawing
@@ -95,11 +92,13 @@ canvas.draw_text(name, [150, 50], 48, "White")
 The messages are assigned here and then made into a list. This way, an element can be selected from the list and a random message appears.
 
 ```
+
 m0 = "crush that code!"
 m1 = "code that thang!"
 m2 = "you're great at coding!"
 msg_lst = (m0, m1, m2)
 # these are the possible messages that will appear below the pylady image and a list of all of them
+
 ```
 
 ###Changing Hair Color
