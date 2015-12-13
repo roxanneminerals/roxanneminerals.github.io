@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 13 Dec 2015 15:13:43 -0600</pubDate>
-    <lastBuildDate>Sun, 13 Dec 2015 15:13:43 -0600</lastBuildDate>
+    <pubDate>Sun, 13 Dec 2015 16:29:24 -0600</pubDate>
+    <lastBuildDate>Sun, 13 Dec 2015 16:29:24 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -103,36 +103,6 @@
         
         
         <category>projects</category>
-        
-      </item>
-    
-      <item>
-        <title>PyLadies: Cooking Code for Breakfast</title>
-        <description>&lt;p&gt;You may recall that myself and PyLady friend &lt;a href=&quot;https://twitter.com/CaroleJesse?lang=en&quot;&gt;Carole&lt;/a&gt; organized a &lt;a href=&quot;link%20to%20post:%20PyLadiesTC%20Beginner%20Cohort%20at%20PyMNtos&quot;&gt;beginner cohort&lt;/a&gt; to go through Coursera classes on Python in late 2014. We didn’t stop there! Our other organizers, &lt;a href=&quot;https://twitter.com/DanaKE?lang=en&quot;&gt;Dana&lt;/a&gt;, Moni, and later &lt;a href=&quot;https://twitter.com/michellecohrene?lang=en&quot;&gt;Michelle&lt;/a&gt; joined in and we renamed our meetups to “Cooking Code for Breakfast”.&lt;/p&gt;
-
-&lt;p&gt;We continued our cohort into the spring/summer, but without a specific class. Ladies just came to work and to share, and just hang out. I am really proud of all the ladies in our group, we are amazing! I got to spend &lt;a href=&quot;http://parksandrecreation.wikia.com/wiki/Galentine&amp;#x27;s_Day_(event)&quot;&gt;Galentine’s day&lt;/a&gt; with them! I made a digital PyLadies Galentine using Python in &lt;a href=&quot;http://www.codeskulptor.org/&quot;&gt;CodeSkulptor&lt;/a&gt; and the skills I learned in the interactive gaming class. Here&amp;#39;s a link to &lt;a href=&quot;http://www.codeskulptor.org/#user39_VKNSWzpQqC_1.py&quot;&gt;the code&lt;/a&gt; on CodeSkulptor and to my &lt;a href=&quot;/posts/2015-02-13.md&quot;&gt;project post&lt;/a&gt; about the Galentine.&lt;/p&gt;
-
-&lt;p&gt;I was also super excited to spend the Pi Day of the century (3/14/15) with them all at Seward Co-op.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2015/pi-day-2015-pyladies.jpg&quot; alt=&quot;PyLadies on Pi Day of the Century&quot;&gt;
-&lt;em&gt;Photo by &lt;a href=&quot;https://twitter.com/DanaKE?lang=en&quot;&gt;Dana&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;In March, we branched out a little when Jackie started RLadies. We decided to jointly call ourselves PyRUs, and host joint events at the PybRary- our library, coworking, and meeting space. There are several of us who work with data and are interested in both Python and R, so it seemed to make sense.&lt;/p&gt;
-
-&lt;p&gt;SO MUCH FUN.&lt;/p&gt;
-
-&lt;p&gt;Links:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.meetup.com/PyLadiesTC/&quot;&gt;PyLadiesTC&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.meetup.com/RLadiesTC/&quot;&gt;RLadies&lt;/a&gt; &lt;/p&gt;
-</description>
-        <pubDate>Sat, 08 Aug 2015 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/community/2015/08/08/pyladies-cooking-code.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/community/2015/08/08/pyladies-cooking-code.html</guid>
-        
-        
-        <category>community</category>
         
       </item>
     
@@ -309,6 +279,36 @@ We did it, you guys!!!&lt;/p&gt;
         <pubDate>Mon, 29 Jun 2015 00:00:00 -0500</pubDate>
         <link>http://yourdomain.com/community/2015/06/29/cyclehack.html</link>
         <guid isPermaLink="true">http://yourdomain.com/community/2015/06/29/cyclehack.html</guid>
+        
+        
+        <category>community</category>
+        
+      </item>
+    
+      <item>
+        <title>PyLadies: Cooking Code for Breakfast</title>
+        <description>&lt;p&gt;You may recall that myself and PyLady friend &lt;a href=&quot;https://twitter.com/CaroleJesse?lang=en&quot;&gt;Carole&lt;/a&gt; organized a &lt;a href=&quot;link%20to%20post:%20PyLadiesTC%20Beginner%20Cohort%20at%20PyMNtos&quot;&gt;beginner cohort&lt;/a&gt; to go through Coursera classes on Python in late 2014. We didn’t stop there! Our other organizers, &lt;a href=&quot;https://twitter.com/DanaKE?lang=en&quot;&gt;Dana&lt;/a&gt;, Moni, and later &lt;a href=&quot;https://twitter.com/michellecohrene?lang=en&quot;&gt;Michelle&lt;/a&gt; joined in and we renamed our meetups to “Cooking Code for Breakfast”.&lt;/p&gt;
+
+&lt;p&gt;We continued our cohort into the spring/summer, but without a specific class. Ladies just came to work and to share, and just hang out. I am really proud of all the ladies in our group, we are amazing! I got to spend &lt;a href=&quot;http://parksandrecreation.wikia.com/wiki/Galentine&amp;#x27;s_Day_(event)&quot;&gt;Galentine’s day&lt;/a&gt; with them! I made a digital PyLadies Galentine using Python in &lt;a href=&quot;http://www.codeskulptor.org/&quot;&gt;CodeSkulptor&lt;/a&gt; and the skills I learned in the interactive gaming class. Here&amp;#39;s a link to &lt;a href=&quot;http://www.codeskulptor.org/#user39_VKNSWzpQqC_1.py&quot;&gt;the code&lt;/a&gt; on CodeSkulptor and to my &lt;a href=&quot;/posts/2015-02-13.md&quot;&gt;project post&lt;/a&gt; about the Galentine.&lt;/p&gt;
+
+&lt;p&gt;I was also super excited to spend the Pi Day of the century (3/14/15) with them all at Seward Co-op.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2015/pi-day-2015-pyladies.jpg&quot; alt=&quot;PyLadies on Pi Day of the Century&quot;&gt;
+&lt;em&gt;Photo by &lt;a href=&quot;https://twitter.com/DanaKE?lang=en&quot;&gt;Dana&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In March, we branched out a little when Jackie started RLadies. We decided to jointly call ourselves PyRUs, and host joint events at the PybRary- our library, coworking, and meeting space. There are several of us who work with data and are interested in both Python and R, so it seemed to make sense.&lt;/p&gt;
+
+&lt;p&gt;SO MUCH FUN.&lt;/p&gt;
+
+&lt;p&gt;Links:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.meetup.com/PyLadiesTC/&quot;&gt;PyLadiesTC&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.meetup.com/RLadiesTC/&quot;&gt;RLadies&lt;/a&gt; &lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 May 2015 00:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/community/2015/05/09/pyladies-cooking-code.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/community/2015/05/09/pyladies-cooking-code.html</guid>
         
         
         <category>community</category>
