@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post_community
 title:  "YQdio Book Club: The Beauty Myth"
+category: community
 ---
 
 I finally made it to the YQdio! I've been meaning to go to something since I first tried a Yoga Quest

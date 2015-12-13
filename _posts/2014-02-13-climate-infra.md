@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post_notes
 title:  "Climate Impacts of Repairing Infrastructure"
+category: notes
 ---
 
 I went to a briefing on the hill yesterday that was arranged to educate staffers about the importance of infrastructure repair. The briefing focused on Repair America, the BlueGreen Alliance campaign for repairing infrastructure and fighting climate change, and the DeLauro Infrastructure Bank Bill which is one potential mechanism for funding some of this work. One of the comments made by my colleague Zoe Lipman was that the work we do to repair infrastructure and ensure resilience in the face of climate change should also reduce our contribution to climate change. One example she provided was that fixing leaky water pipes not only conserves water, but it also conserves the energy required to pump that water.

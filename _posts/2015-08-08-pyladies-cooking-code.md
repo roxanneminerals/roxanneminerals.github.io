@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post_community
 title:  "PyLadies: Cooking Code for Breakfast"
+category: community
 ---
 
 You may recall that myself and PyLady friend [Carole](https://twitter.com/CaroleJesse?lang=en) organized a [beginner cohort](link to post: PyLadiesTC Beginner Cohort at PyMNtos) to go through Coursera classes on Python in late 2014. We didn’t stop there! Our other organizers, [Dana](https://twitter.com/DanaKE?lang=en), Moni, and later [Michelle](https://twitter.com/michellecohrene?lang=en) joined in and we renamed our meetups to “Cooking Code for Breakfast”.

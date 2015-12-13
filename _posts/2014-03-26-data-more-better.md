@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post_notes
 title:  "Data: more is better!"
+category: notes
 ---
 
 It’s annual review time at work, which means that I get out last year’s review to see how far I’ve come since then. Maybe it’s because I’m relatively new to my career, or that there has been a lot of change at my job over the past year (changing departments and bosses, new role entirely) but it seems like I’m in a totally different place than I was last year. On the other hand, on the cusp of two more huge changes (I’ll be changing supervisors and our office is moving) I strangely feel a lot like I remember feeling last year- unsure of my future in the organization.

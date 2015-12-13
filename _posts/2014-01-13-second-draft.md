@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post_notes
 title:  "The Second Draft"
+category: notes
 ---
 
 I just finished, well, “finished”, a second draft of a study I’m writing pretty much all by myself. I had a really hard time because I would make a list of things I needed to change, and as I completed the list, I would add about as many new things to the list as I checked off. It just became a self-perpetuating list of things to do with the paper, and the things kept getting smaller or more tangential.

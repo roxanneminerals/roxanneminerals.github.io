@@ -1,10 +1,22 @@
 ---
+title: "Home"
 layout: default
-title: Home
 ---
 
-<div>
+<div class="home">
 
-        <p>Hello! My name is Roxanne Johnson and I am a research analyst at a nonprofit that works to address environmental challenges while building a stonger and fairer economy. I am interested in how we learn, understand, and share information with each other, and how we can work together using that information to create a future in which we want to live. I like to connect with curious people and think interesting thoughts.</p>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>

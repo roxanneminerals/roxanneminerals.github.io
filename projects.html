@@ -1,14 +1,12 @@
 ---
 title: "Projects"
-layout: default
+layout: projects
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">Projects</h1>
-
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.categories.projects %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 

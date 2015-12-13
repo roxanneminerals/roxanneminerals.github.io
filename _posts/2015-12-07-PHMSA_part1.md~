@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post_projects
 title:  "Natural Gas Distribution State Pipeline Analysis PART 1: Excel and Tableau Public"
+category: projects
 ---
 
 The BlueGreen Alliance campaign [Repairing our Cities Aging Pipelines (RECAP)](http://www.bluegreenalliance.org/news/publications/NaturalGas_BiFold_R8_HighRes.pdf) aims “to accelerate the repair and replacement of this network to create hundreds of thousands additional jobs while addressing the urgent threat of climate change.” This is part of the BGA Clean Energy Initiative.
@@ -79,7 +80,7 @@ This methodology got the job done and allowed us to explore the data visually in
 
 * I also have some ideas for additional exploratory analysis using more of the data- the data set is nation-wide, which means I could do state comparisons of things. The data set is also available yearly since 1970, so I could do a time series analysis and look at rates of replacement for leak-prone pipelines over time. I’m also attempting this in R.
 
-##Conlclusion
+##Conclusion
 
 One challenge for me is that I have a hard time estimating how long it will take me to learn something new, especially if it's fairly unknown to me. Without this estimate I can't really determine if it would save time to learn another way now, like doing the analysis in R, or if it makes more sense to muddle through the way I already know just to get it done and move on. On the other hand, I can easily fall into the trap of "I have to learn this really complicated tool to do this relatively simple task that I could have done another way", just because I want to learn the tool. Sometimes it depends on what my other workload is, and also what I think I might use the tool for in the future. When I heard we might want to do more than one state at a time or look at national data, I knew it was time to make the investment to learn a better way. Stay tuned!
 

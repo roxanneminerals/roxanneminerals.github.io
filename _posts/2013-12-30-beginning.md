@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post_notes
 title:  "Inspiration! And a beginning."
+category: notes
 ---
 
 I don’t believe in fate.

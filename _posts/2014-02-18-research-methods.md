@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post_notes
 title:  "Research Methods"
+category: notes
 ---
 
 A colleague of mine just reached out to me asking if I had suggestions for writing up a case study, as she hadn’t really done one before. I suddenly remembered that the qualitative research methods book has a chapter on that, and I can’t believe I didn’t read it while I was wracking my brain trying to think of what to write about for the case study in my CHP paper. While I still haven’t read it yet, I was able to tell her that my preference for writing the type of document she is working on is kind of standard:

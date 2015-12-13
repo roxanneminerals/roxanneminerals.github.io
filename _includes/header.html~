@@ -1,8 +1,10 @@
 <header class="site-header">
 
-  <div class="wrapper">
+  <div style = "background-color: black;">
+    <img src = "/images/site/{{page.head_image}}" alt = "cross stitched name image">
+  </div>
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+  <div class="wrapper">
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -14,16 +16,14 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
+          <a class="page-link" href="/index.html">Home</a>
+	  <a class="page-link" href="/community.html">Community</a>
+	  <a class="page-link" href="/projects.html">Projects</a>
+	  <a class="page-link" href="/notes.html">Notes</a>
+	  <a class="page-link" href="/cv.html">CV</a>
       </div>
     </nav>
 
   </div>
-<div style = "background-color: black;">
-<img src = "images/site/roxanne-johnson.jpg" alt = "cross stitched name image">
-</div>
+
 </header>

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post_community
 title:  "CycleHack Twin Cities"
+category: community
 ---
 
 ![Start of Hack Day](/images/cyclehacktc_2015/HF_RD.jpg)

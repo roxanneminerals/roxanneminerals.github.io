@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post_community
 title:  "CodeWork Unconference"
+category: community
 ---
 
 The Unconference principles always tell you that the people who come are the right people. That has never felt more true

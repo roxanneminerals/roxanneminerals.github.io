@@ -1,0 +1,7 @@
+---
+layout: default
+head_image: community.jpg
+---
+
+    {{ content }}
+ 

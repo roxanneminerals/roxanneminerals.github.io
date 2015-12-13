@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post_community
 title:  "Capitol Code and the Public Data Ecosystem"
+category: community
 ---
 
 Yesterday I attended [Capitol Code: an Open Data Jam](http://capitolcode.mn.gov/) put on by the Secretary of State’s Office. The event was focused on showcasing the possibilities of using public data to solve community problems, drive innovation and entrepreneurship, and make information more accessible to residents of Minnesota.

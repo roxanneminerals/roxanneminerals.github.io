@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 12 Dec 2015 11:11:45 -0600</pubDate>
-    <lastBuildDate>Sat, 12 Dec 2015 11:11:45 -0600</lastBuildDate>
+    <pubDate>Sun, 13 Dec 2015 15:13:43 -0600</pubDate>
+    <lastBuildDate>Sun, 13 Dec 2015 15:13:43 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -98,9 +98,11 @@
 &lt;p&gt;One challenge for me is that I have a hard time estimating how long it will take me to learn something new, especially if it&amp;#39;s fairly unknown to me. Without this estimate I can&amp;#39;t really determine if it would save time to learn another way now, like doing the analysis in R, or if it makes more sense to muddle through the way I already know just to get it done and move on. On the other hand, I can easily fall into the trap of &amp;quot;I have to learn this really complicated tool to do this relatively simple task that I could have done another way&amp;quot;, just because I want to learn the tool. Sometimes it depends on what my other workload is, and also what I think I might use the tool for in the future. When I heard we might want to do more than one state at a time or look at national data, I knew it was time to make the investment to learn a better way. Stay tuned!&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Dec 2015 00:00:00 -0600</pubDate>
-        <link>http://yourdomain.com/2015/12/07/PHMSA_part1.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/12/07/PHMSA_part1.html</guid>
+        <link>http://yourdomain.com/projects/2015/12/07/PHMSA_part1.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/projects/2015/12/07/PHMSA_part1.html</guid>
         
+        
+        <category>projects</category>
         
       </item>
     
@@ -126,9 +128,11 @@
 &lt;p&gt;&lt;a href=&quot;http://www.meetup.com/RLadiesTC/&quot;&gt;RLadies&lt;/a&gt; &lt;/p&gt;
 </description>
         <pubDate>Sat, 08 Aug 2015 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/2015/08/08/pyladies-cooking-code.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/08/08/pyladies-cooking-code.html</guid>
+        <link>http://yourdomain.com/community/2015/08/08/pyladies-cooking-code.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/community/2015/08/08/pyladies-cooking-code.html</guid>
         
+        
+        <category>community</category>
         
       </item>
     
@@ -303,9 +307,11 @@ Open Twin Cities for their unwavering support (and Costco memberships).&lt;/p&gt
 We did it, you guys!!!&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Jun 2015 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/2015/06/29/cyclehack.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/06/29/cyclehack.html</guid>
+        <link>http://yourdomain.com/community/2015/06/29/cyclehack.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/community/2015/06/29/cyclehack.html</guid>
         
+        
+        <category>community</category>
         
       </item>
     
@@ -349,9 +355,11 @@ I learned about a hyperlocal independent movie theater, and I geeked out about b
 &lt;p&gt;You guys, these are my people. I can&amp;#39;t wait til the next thing they do! It&amp;#39;s so.much.fun.&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Apr 2015 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/2015/04/18/CodeWork.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/04/18/CodeWork.html</guid>
+        <link>http://yourdomain.com/community/2015/04/18/CodeWork.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/community/2015/04/18/CodeWork.html</guid>
         
+        
+        <category>community</category>
         
       </item>
     
@@ -407,9 +415,11 @@ I have never read FanFic but I thought it was really interesting when someone sa
 example of a gender-swapped Sherlock who amazingly as a woman can be just as much a culturally-accepted asshole. That&amp;#39;s revolutionary!!&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Apr 2015 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/2015/04/16/yqdio-bookclub.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/04/16/yqdio-bookclub.html</guid>
+        <link>http://yourdomain.com/community/2015/04/16/yqdio-bookclub.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/community/2015/04/16/yqdio-bookclub.html</guid>
         
+        
+        <category>community</category>
         
       </item>
     
@@ -454,9 +464,11 @@ example of a gender-swapped Sherlock who amazingly as a woman can be just as muc
 &lt;p&gt;&lt;img src=&quot;/images/2015/pycon-owl.jpg&quot; alt=&quot;This is how I think about programming too&quot;&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Apr 2015 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/2015/04/16/pycon.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/04/16/pycon.html</guid>
+        <link>http://yourdomain.com/community/2015/04/16/pycon.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/community/2015/04/16/pycon.html</guid>
         
+        
+        <category>community</category>
         
       </item>
     
@@ -496,9 +508,11 @@ Alicia Hofelich Mohr, Data Management Research Associate at University of Minnes
 &lt;p&gt;All of the materials and links to what we used at the Installfest are in our &lt;a href=&quot;https://github.com/PyLadiesTC/Dcubed-installfest-2015&quot;&gt;PyLadiesTC Github&lt;/a&gt;, as are the presentations from the Data^3 event.&lt;/p&gt;
 </description>
         <pubDate>Sat, 07 Mar 2015 00:00:00 -0600</pubDate>
-        <link>http://yourdomain.com/2015/03/07/D3.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/03/07/D3.html</guid>
+        <link>http://yourdomain.com/community/2015/03/07/D3.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/community/2015/03/07/D3.html</guid>
         
+        
+        <category>community</category>
         
       </item>
     
@@ -684,9 +698,11 @@ frame.start()
 &lt;p&gt;I think my Galentine turned out pretty cool, and I definitely learned a lot trying to make a thing that wasn&amp;#39;t an assignment in the class. There was a lot to figure out and trying things before I could get them to work. At one point, I tried a timer to change the hair color and it changed so fast you could barely see it. It was horrible to look at. Thankfully, another feature of CodeSkulptor is if you find yourself in some sort of infinite loop, it ends the program. I love this feature.&lt;/p&gt;
 </description>
         <pubDate>Fri, 13 Feb 2015 00:00:00 -0600</pubDate>
-        <link>http://yourdomain.com/2015/02/13/pyladies_galentine.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/02/13/pyladies_galentine.html</guid>
+        <link>http://yourdomain.com/projects/2015/02/13/pyladies_galentine.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/projects/2015/02/13/pyladies_galentine.html</guid>
         
+        
+        <category>projects</category>
         
       </item>
     
@@ -701,9 +717,11 @@ frame.start()
 &lt;p&gt;July 18, 2015 Update: this trip won the 2015 University of Minnesota Alumni Association &amp;quot;Program Extraordinaire&amp;quot; Award!&lt;/p&gt;
 </description>
         <pubDate>Thu, 15 Jan 2015 00:00:00 -0600</pubDate>
-        <link>http://yourdomain.com/2015/01/15/HHH-CET.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/01/15/HHH-CET.html</guid>
+        <link>http://yourdomain.com/community/2015/01/15/HHH-CET.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/community/2015/01/15/HHH-CET.html</guid>
         
+        
+        <category>community</category>
         
       </item>
     
@@ -721,9 +739,11 @@ frame.start()
 add link to presentation&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 Dec 2014 00:00:00 -0600</pubDate>
-        <link>http://yourdomain.com/2014/12/11/pyladies-beginner-cohort.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2014/12/11/pyladies-beginner-cohort.html</guid>
+        <link>http://yourdomain.com/community/2014/12/11/pyladies-beginner-cohort.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/community/2014/12/11/pyladies-beginner-cohort.html</guid>
         
+        
+        <category>community</category>
         
       </item>
     

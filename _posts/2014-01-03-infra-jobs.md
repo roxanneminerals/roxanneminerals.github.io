@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post_notes
 title:  "Infrastructure Jobs"
+category: notes
 ---
 
 I just finished drafting the third report in a series we’re doing for one of our campaigns. The reports are focused on identifying the job creation opportunities of maintaining, repairing, or renovating different types of infrastructure in specific states. I’ve been using the [ASCE Report Card for America’s Infrastructure](http://www.infrastructurereportcard.org/) as a starting point to determine what kinds of investments need to be made in each of the states for each type of infrastructure system (roads and bridges, freight rail, transit, waste water, drinking water, electricity, natural gas, and smart grid) and then either using the numbers they have or digging around to find more recent numbers.

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post_projects
 title:  "PyLadies Galentine"
+category: projects
 ---
 
 ![Galentine Screenshot](/images/2015/galentine_screenshot.png)

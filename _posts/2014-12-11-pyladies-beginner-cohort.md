@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post_community
 title:  "PyLadiesTC Beginner Cohort at PyMNtos"
+category: community
 ---
 
 You may recall that in June, I attended [Hack for MN 2014](http://opentwincities.org/events/2014/06/21/hack-for-mn-2014/) and there I met [Dana](https://twitter.com/DanaKE?lang=en), co-founder of [PyLadiesTC](http://www.meetup.com/PyLadiesTC/) and got connected with the local PyLadies. At the recap event, [Hack’d for MN](http://opentwincities.org/events/2014/07/08/hackd-for-mn-2014/), I met [Carole](https://twitter.com/CaroleJesse?lang=en) and learned that she was also interested in learning Python. So Carole and I teamed up in the fall (October) to become PyLady organizers ourselves, and organize a beginner cohort that would meet regularly to learn Python.

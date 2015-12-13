@@ -30,11 +30,8 @@ I decided to add movement and changes that were similar to those in Pong, but in
 I determined that there were four main chunks of work that I wanted to do, and while I probably had to get the images drawn first, the order of the other items didn’t really matter:
 
 * Drawing
-
 * Changing Hair Color
-
 * Bouncing Heart
-
 * Interactivity: Name and Changing the Message
 
 ###Drawing

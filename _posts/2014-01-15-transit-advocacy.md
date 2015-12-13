@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post_notes
 title:  "Everyone Deserves a Seat, or how Transit Advocacy is like Tron"
+category: notes
 ---
 
 Yesterday I decided at the last minute to go to an event called [Transportation, Jobs & Equity Forum: Everyone Deserves a Seat](http://afscmemn.org/event/transportation-jobs-equity-forum-everyone-deserves-seat). The discussion was kind of a launch of the [MoveMN](http://movemn.org/) campaign that’s aimed at pulling together a diverse coalition to address Minnesota’s transportation needs. The speakers included the following:

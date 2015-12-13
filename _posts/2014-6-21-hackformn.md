@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post_community
 title:  "Hack for MN 2014"
+category: community
 ---
 
 

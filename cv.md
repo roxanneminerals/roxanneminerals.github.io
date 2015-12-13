@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: cv
 title:  "CV"
 ---
 
-SUMMARY
+###SUMMARY
+
 Work with diverse stakeholders and coalitions, interested in building common ground and finding solutions that work for all
 
 Committed to using technology as a tool to improve society, dedicated to making that tool more accessible to women and other underrepresented groups
@@ -13,7 +14,8 @@ Share work and resources by presenting at various conferences and events
 Experience with project management, training/managing staff and volunteers
 Experience developing curriculum, teaching, and coaching young people and adults as well as creating environments to foster informal peer teaching and learning
 
-PROFESSIONAL EXPERIENCE
+###PROFESSIONAL EXPERIENCE
+
 Research Analyst, BlueGreen Alliance Foundation    Dec. 2010 – Present
 Minneapolis, MN
 Conduct research and analysis on clean energy, manufacturing, transportation, and infrastructure systems. Communicate findings with members and allies through reports, factsheets, maps, charts, official stakeholder comments, and compelling case studies. Propose, plan, implement, and manage research projects that support work of colleagues and partners. Collaborate with staff across departments including Development, Communications, Field, and Legislative and Policy.
@@ -35,7 +37,8 @@ National Community Service through AmeriCorps    Sept. 2003 – Sept. 2006
 Sacramento, CA and Saint Paul, MN
 Completed three years of community service through the National Civilian Community Corps (NCCC), the Community Technology Empowerment Project (CTEP), and a Vista Leadership position with the Community Technology Center (CTC) VISTA program. Year two work through CTEP was focused on empowering young people and adults with technology skills and year three work supported CTEP members in their service by providing trainings, assistance in reporting, and resources.
 
-COMMUNITY
+###COMMUNITY
+
 Board Member, Humphrey School of Public Affairs Alumni Board     Sept. 2014 – present
 Serve on the Student Relations committee that works to plan events for current students, support the mentor program, and assist school staff with recruitment and other activities.
 
@@ -52,7 +55,8 @@ Attended meetups and events intended to help people collaboratively use and crea
 Co-organized ClimateHack to bring together environmentalists, activists, and programmers (Sept 2015)
 Co-organized CycleHack Twin Cities to make cycling more sustainable (June 2015) 
 
-EDUCATION
+###EDUCATION
+
 Master of Science, Science, Technology and Environmental Policy
 University of Minnesota, Humphrey Institute of Public Affairs
 Minneapolis, MN (May 2010)

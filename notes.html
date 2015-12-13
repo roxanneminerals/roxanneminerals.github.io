@@ -1,14 +1,12 @@
 ---
 title: "Notes"
-layout: default
+layout: notes
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">Notes</h1>
-
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.categories.notes %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 

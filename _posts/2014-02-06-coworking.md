@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post_notes
 title:  "Co-Working and Being around Other Weirdos"
+category: notes
 ---
 
 My entire department is in an office in a city that isn’t where I live, so my meetings with them are on the phone. We tried video, but it turned out to be kind of a pain so we don’t do that anymore. Even among my department, I am an outlier. No one does what I do, exactly so I seldom feel like there are other staff I can reach out to with questions about specific analysis techniques, software, or data visualization. Additionally, I feel kind of isolated in my office despite being in the same space as other staff here because no one here is even in my department. Plus, our office is on two levels with three of us separated from the others so I have to go through at least two doors and up stairs if I want to see most of the folks here. I don’t have many regularly scheduled meetings with other staff, so often I’m just on my own to work on my projects. I do check in regularly with my supervisor but it’s seldom more than a quick check-in.

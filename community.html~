@@ -1,6 +1,6 @@
 ---
 title: "Community"
-layout: default
+layout: community
 ---
 
 <div class="home">
@@ -8,9 +8,7 @@ layout: default
   <h1 class="page-heading">Community</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
-    {% for category in site.categories %}
-    {% if category == community.categories %}
+    {% for post in site.categories.community %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -18,8 +16,6 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
-    {% endif %}
-    {% endfor %}
     {% endfor %}
   </ul>
 

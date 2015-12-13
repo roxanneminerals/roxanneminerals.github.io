@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post_notes
 title:  "Procrastination"
+category: notes
 ---
 
 I’m working on a presentation of some research I’ve been working on (off and on) for about a year, and I just don’t want to do it. It’s not that I don’t want to give the presentation, or that I don’t want to share my work. I’m not exactly sure what it is but I just don’t want to put together the presentation. To conquer my procrastination, I think I have to determine what exactly it is that I am avoiding.
