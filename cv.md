@@ -5,18 +5,11 @@ title:  "CV"
 
 ##Summary
 
-Work with diverse stakeholders and coalitions, interested in building common ground and finding solutions that work for all
-
-Committed to using technology as a tool to improve society, dedicated to making that tool more accessible to women and other underrepresented groups
-Promote philosophy of open data that is freely available to be used for the common good
-Use data to tell compelling stories to help people understand complex issues, problems, and potential solutions
-Share work and resources by presenting at various conferences and events
-Experience with project management, training/managing staff and volunteers
-Experience developing curriculum, teaching, and coaching young people and adults as well as creating environments to foster informal peer teaching and learning
+I am interested in how we learn, understand, and share information with one another, and how we can work together using that information to create a future in which we all want to live. I am particularly interested in exploring the role and tools of technology to take on this task.
 
 ##Professional Experience
 
-*Research Analyst, BlueGreen Alliance Foundation    Dec. 2010 – Present, Minneapolis MN*
+*Research Analyst, BlueGreen Alliance Foundation    Dec. 2010 - Present, Minneapolis MN*
 
 Conduct research and analysis on clean energy, manufacturing, transportation, and infrastructure systems. Communicate findings with members and allies through reports, factsheets, maps, charts, official stakeholder comments, and compelling case studies. Propose, plan, implement, and manage research projects that support work of colleagues and partners. Collaborate with staff across departments including Development, Communications, Field, and Legislative and Policy.
 
@@ -42,7 +35,7 @@ Completed three years of community service through the National Civilian Communi
 
 Serve on the Student Relations committee that works to plan events for current students, support the mentor program, and assist school staff with recruitment and other activities.
 
-*Alumna Mentor- Humphrey School of Public Affairs     Sept. 2012 – present*
+*Alumna Mentor- Humphrey School of Public Affairs     Sept. 2012 - present*
 
 Work with current Humphrey students as a mentor by attending mentor and student events, meeting individually with students, and providing resources and connections.
 
@@ -59,12 +52,12 @@ Co-organized CycleHack Twin Cities to make cycling more sustainable (June 2015)
 
 ##Education
 
-*Master of Science in Science, Technology and Environmental Policy from the Humphrey School of Public Affairs at the University of Minnesota in Minneapolis, MN May 2010*
+*Master of Science in Science, Technology and Environmental Policy from the Humphrey School of Public Affairs at the University of Minnesota in Minneapolis MN, May 2010*
 
 Research Assistant position and graduate thesis analyzing regulation and governance of an emerging nanotechnology used to remediate water pollution. Used system dynamics modeling and rhetorical analysis to map how perspectives of issues differed across disciplines.
 Coursework in policy analysis, scientific communication and data display, energy and environmental policy, science and technology policy.
 
-*Bachelor of Science, Mathematics and Environmental Studies with an emphasis in natural sciences from Northland College Ashland, WI (May, 2003)*
+*Bachelor of Science, Mathematics and Environmental Studies with an emphasis in natural sciences from Northland College Ashland WI, May 2003*
 
 Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathematical Association of America (MAA) Northland College Chapter Vice President, 2001-2003
 
@@ -81,6 +74,7 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 ##Events Attended
 
 * [CodeWork Unconference 4/18/15](posts/2015-4-18-CodeWork.md)
+* [NerdCon: Stories 10/9/15 and 10/10/15)](http://nerdcon.com/)
 * [PyCon 4/8/15-4/16/15](/posts/2015-04-16-pycon.md)
 * [Hack for MN](posts/2014-6-21-hackformn.md)
 * [Global Service Jam 3/13/14](posts/2014-03-13-GSJ1.md)
@@ -90,7 +84,7 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 
 * [PyMNtos 12/11/14](posts/2014-12-11-pyladies-beginner-cohort.md)
 * [Minnesota Rising 11/15/14](posts/2014-11-15-mnrising.md)
-* BlueGreen Alliance: Good Jobs, Green Jobs 2014
+* BlueGreen Alliance: Good Jobs, Green Jobs 2/10/14
 
 ##Publications
 

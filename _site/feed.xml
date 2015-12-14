@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 13 Dec 2015 16:29:24 -0600</pubDate>
-    <lastBuildDate>Sun, 13 Dec 2015 16:29:24 -0600</lastBuildDate>
+    <pubDate>Sun, 13 Dec 2015 18:27:41 -0600</pubDate>
+    <lastBuildDate>Sun, 13 Dec 2015 18:27:41 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -429,8 +429,13 @@ example of a gender-swapped Sherlock who amazingly as a woman can be just as muc
 
 &lt;p&gt;My goals for attending, which I wrote in my financial aid application, were: first, to get hyped about Python. Second, to network with other organizers of user groups, particularly PyLadies- we are a new chapter and have much to learn. The third goal was to collect resources for beginners and gain a clearer vision of Python&amp;#39;s potential applications for other non-programming professionals like myself that don’t necessarily want to be developers but can benefit enormously from knowing some code to improve their work.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2015/pycon-feminist-hackerspace.jpg&quot; alt=&quot;Open spaces: Feminist Hackerspace (with knitting instruction)&quot;&gt;
-&lt;img src=&quot;/images/2015/pycon-pdf-parse.jpg&quot; alt=&quot;Open spaces: reading pdfs&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Open spaces: Feminist Hackerspace (with knitting instruction)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2015/pycon-feminist-hackerspace.jpg&quot; alt=&quot;Feminist Hacking Space&quot;/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Reading PDFs!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2015/pycon-pdf-parse.jpg&quot; alt=&quot;PDF Parsing&quot;/&gt;&lt;/p&gt;
 
 &lt;p&gt;I definitely got hyped, I met some amazing PyLadies at a PyLadies lunch and through volunteering at the PyLadies booth, and I did learn about a lot of resources. The whole conference was a little overwhelming, so I’ll just jot down some highlights. Maybe later I can write more about conversations I had and people I met.&lt;/p&gt;
 
@@ -440,8 +445,13 @@ example of a gender-swapped Sherlock who amazingly as a woman can be just as muc
 
 &lt;p&gt;After I settled in I was able to familiarize myself with the Palais des congrès de Montréal, where the conference was held. There was some debate over whether these pillars look like trees, or blood vessels.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2015/pycon-convention-center.jpg&quot; alt=&quot;Trees, or blood vessels?&quot;&gt;
-&lt;img src=&quot;/images/2015/pycon-convention-center2.jpg&quot; alt=&quot;Gorgeous windows&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Trees, or blood vessels?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2015/pycon-convention-center.jpg&quot; alt=&quot;Trees, or blood vessels?&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Beautiful windows&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2015/pycon-convention-center2.jpg&quot; alt=&quot;Conference Center&quot;/&gt;&lt;/p&gt;
 
 &lt;p&gt;Some highlights from the conference:&lt;/p&gt;
 
@@ -461,7 +471,9 @@ example of a gender-swapped Sherlock who amazingly as a woman can be just as muc
 
 &lt;p&gt;Overall, I liked the sessions that focused on cultural issues in tech or that were more general, but I struggled to find a balance because if something got too technical, I wouldn’t be able to follow. I don’t know if I would attend this conference again but I’m glad I went this time. People were very supportive and welcoming, but I don’t really know if it’s quite my thing.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2015/pycon-owl.jpg&quot; alt=&quot;This is how I think about programming too&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Learning to program is like...&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2015/pycon-owl.jpg&quot; alt=&quot;Learning to Program&quot;/&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Apr 2015 00:00:00 -0500</pubDate>
         <link>http://yourdomain.com/community/2015/04/16/pycon.html</link>
@@ -736,7 +748,7 @@ frame.start()
 &lt;p&gt;The presentation to PyMNtos was great- it was really nice to hear from a supportive audience about struggles that they had while to learn to code, and everyone agreed that having a cohort to meet regularly for a class was really helpful. We also shared some tips that we had each learned while taking Coursera classes- from discussing whether or not to try the forums to how to tell what kind of answer the quiz questions expect.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/2014/pyladies-pymntos.png&quot; alt=&quot;Presentation&quot;&gt;
-add link to presentation&lt;/p&gt;
+&lt;em&gt;View presentation &lt;a href=&quot;https://docs.google.com/presentation/d/1TDmhvWi-V6Jf4zDjmRVOAD6hqjr7GTJJXK7Fc8kKNm0/pub?start=false&amp;amp;loop=false&amp;amp;delayms=3000&quot;&gt;here&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 Dec 2014 00:00:00 -0600</pubDate>
         <link>http://yourdomain.com/community/2014/12/11/pyladies-beginner-cohort.html</link>

@@ -1,14 +1,20 @@
 ---
-layout: post
+layout: post_community
 title:  "PyCon 2015"
+category: community
 ---
 
 Thanks to a financial aid grant from the [Python Software Foundation](https://www.python.org/psf/) through national [PyLadies](http://www.pyladies.com/), I was able to represent [PyLadiesTC](http://www.meetup.com/PyLadiesTC/) at [PyCon 2015](https://us.pycon.org/2015/) in Montreal!
 
 My goals for attending, which I wrote in my financial aid application, were: first, to get hyped about Python. Second, to network with other organizers of user groups, particularly PyLadies- we are a new chapter and have much to learn. The third goal was to collect resources for beginners and gain a clearer vision of Python's potential applications for other non-programming professionals like myself that don’t necessarily want to be developers but can benefit enormously from knowing some code to improve their work.
 
-![Open spaces: Feminist Hackerspace (with knitting instruction)](/images/2015/pycon-feminist-hackerspace.jpg)
-![Open spaces: reading pdfs](/images/2015/pycon-pdf-parse.jpg)
+_Open spaces: Feminist Hackerspace (with knitting instruction)_
+
+<img src="/images/2015/pycon-feminist-hackerspace.jpg" alt="Feminist Hacking Space" style="width: 500px;"/>
+
+_Reading PDFs!_
+
+<img src="/images/2015/pycon-pdf-parse.jpg" alt="PDF Parsing" style="width: 500px;"/>
 
 I definitely got hyped, I met some amazing PyLadies at a PyLadies lunch and through volunteering at the PyLadies booth, and I did learn about a lot of resources. The whole conference was a little overwhelming, so I’ll just jot down some highlights. Maybe later I can write more about conversations I had and people I met.
 
@@ -18,8 +24,13 @@ First, I arrived a day late because of weather in Chicago. When I left the Montr
 
 After I settled in I was able to familiarize myself with the Palais des congrès de Montréal, where the conference was held. There was some debate over whether these pillars look like trees, or blood vessels.
 
+_Trees, or blood vessels?_
+
 ![Trees, or blood vessels?](/images/2015/pycon-convention-center.jpg)
-![Gorgeous windows](/images/2015/pycon-convention-center2.jpg)
+
+_Beautiful windows_
+
+<img src="/images/2015/pycon-convention-center2.jpg" alt="Conference Center" style="width: 400px;"/>
 
 Some highlights from the conference:
 
@@ -46,5 +57,6 @@ But by far the coolest and most amazing thing about PyCon to me was this. After 
 
 Overall, I liked the sessions that focused on cultural issues in tech or that were more general, but I struggled to find a balance because if something got too technical, I wouldn’t be able to follow. I don’t know if I would attend this conference again but I’m glad I went this time. People were very supportive and welcoming, but I don’t really know if it’s quite my thing.
 
-![This is how I think about programming too](/images/2015/pycon-owl.jpg)
+_Learning to program is like..._
 
+<img src="/images/2015/pycon-owl.jpg" alt="Learning to Program" style="width: 400px;"/>

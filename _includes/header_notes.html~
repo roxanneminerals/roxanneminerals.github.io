@@ -1,7 +1,7 @@
 <header class="site-header">
 
   <div style = "background-color: black;">
-    <img src = "/images/site/community.jpg" alt = "cross stitched name image">
+    <img src = "/images/site/notes.jpg" alt = "cross stitched name image" style="width: 500px;">
   </div>
 
   <div class="wrapper">
