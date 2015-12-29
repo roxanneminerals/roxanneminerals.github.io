@@ -4,10 +4,11 @@ title:  "PyLadies Galentine"
 category: projects
 ---
 
-A Galentine for PyLadies!
+I had taken a class on Coursera from Rice University called [An Introduction to Interactive Programming in Python](https://www.coursera.org/course/interactivepython1), and a couple of the games we learned to write were Pong and Memory (the card guessing game). I was looking for a way to use what I learned to make a fun project, so I decided to try and make a digital Galentine using Python.
+
 ![Galentine Screenshot](/images/2015/galentine_screenshot.png)
 
-As I talked about in the post on [PyLadies: Cooking Code for Breakfast](/posts/2015-08-08-pyladies-cooking-code.md), I got to hang out with the PyLadies on [Galentine’s Day](http://parksandrecreation.wikia.com/wiki/Galentine's_Day_(event)). While the holiday is actually February 13th, Saturday fell on the 14th (Valentine’s Day). Which was lovely, because at the co-op they had put out white tablecloths, candles, and roses on all the tables. I also brought a present to share for all the ladies! I had taken a class on Coursera from Rice University called [An Introduction to Interactive Programming in Python](https://www.coursera.org/course/interactivepython1), and a couple of the games we learned to write were Pong and Memory (the card guessing game). I was looking for a way to use what I learned to make a fun project, so I decided to try and make a digital Galentine using Python.
+As I talked about in the post on [PyLadies: Cooking Code for Breakfast](/posts/2015-08-08-pyladies-cooking-code.md), I got to hang out with the PyLadies on [Galentine’s Day](http://parksandrecreation.wikia.com/wiki/Galentine's_Day_(event)) so I got to show off my Galentine there. While the holiday is actually February 13th, Saturday fell on the 14th (Valentine’s Day). Which was lovely, because at the co-op they had put out white tablecloths, candles, and roses on all the tables.
 
 I designed my project to use the skills we learned writing these two games, and I had access to the examples provided by the teachers, my source code that I used for the games, and code that I reviewed and graded for three peers (who usually did better than I did). Starting with that existing code, I created an interactive e-card that incorporated images of me and PyLady hair that changed color, a bouncing heart, some interactivity that allowed a user to enter their name and change the message that appeared in the card. I used the browser-based Python interpreter used in the class, [CodeSkulptor](http://www.codeskulptor.org/), to run the code. 
 

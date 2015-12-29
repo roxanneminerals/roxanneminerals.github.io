@@ -4,7 +4,7 @@ title:  "PyLadies Galentine"
 category: projects
 ---
 
-I had taken a class on Coursera from Rice University called [An Introduction to Interactive Programming in Python](https://www.coursera.org/course/interactivepython1), and a couple of the games we learned to write were Pong and Memory (the card guessing game). I was looking for a way to use what I learned to make a fun project, so I decided to try and make a digital Galentine using Python.
+I took a class on Coursera from Rice University called [An Introduction to Interactive Programming in Python](https://www.coursera.org/course/interactivepython1), and a couple of the games we learned to write were Pong and Memory (the card guessing game). I was looking for a way to use what I learned to make a fun project, so I decided to try and make a digital Galentine using Python.
 
 ![Galentine Screenshot](/images/2015/galentine_screenshot.png)
 
