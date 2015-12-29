@@ -55,7 +55,7 @@ After the tour, there were brief presentations of local climate-related
 projects created at previous hackathons. [Jacob Dalton](https://twitter.com/jdaltsalt)
 presented Trojan Horseradish, a map showing where food is grown in
 Minnesota that (in conjunction with a set of other maps) won Best Mashup
-at [Capitol Code](/events/2014/02/22/capitol-code/), 
+at [Capitol Code](http://opentwincities.org/events/2014/02/22/capitol-code/), 
 Andy Walz presented the [Minnesota Solar Suitability Analysis app](http://maps.umn.edu/solar/) 
 that won at the [Esri Global Disaster Resilience App Challenge 2014](https://www.hackerleague.org/hackathons/esri-global-disaster-resilience-app-challenge-2014/hacks/minnesota-solar-suitability-analysis-citizen), 
 and [Richard Barnes](https://twitter.com/finog_) talked about [OMG Transit](https://omgtransit.com/),

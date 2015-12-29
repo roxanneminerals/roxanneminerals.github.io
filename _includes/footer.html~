@@ -8,7 +8,6 @@
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
           <li><img src = "/images/site/rox.jpg" alt = "image of rox"></li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
 
@@ -42,7 +41,9 @@
             </a>
           </li>
           {% endif %}
-        </ul>
+          <li><a href="{{ site.linkedinurl }}">Connect with me on LinkedIn</a></li>
+	  <li>email me: john3718[at]umn.edu</li>
+	</ul>
       </div>
 
       <div class="footer-col  footer-col-3">

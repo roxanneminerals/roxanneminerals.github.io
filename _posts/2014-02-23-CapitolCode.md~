@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post_community
 title:  "Capitol Code and the Public Data Ecosystem"
+category: community
 ---
 
 Yesterday I attended [Capitol Code: an Open Data Jam](http://capitolcode.mn.gov/) put on by the Secretary of State’s Office. The event was focused on showcasing the possibilities of using public data to solve community problems, drive innovation and entrepreneurship, and make information more accessible to residents of Minnesota.
@@ -28,9 +29,14 @@ I’m not a super technical person and I have to admit there were times that I g
 
 Some of the cool examples we looked at:
 * [data.gov](http://www.data.gov/)- Home of the US government’s open data
+
 * [City of Richfield budget transparency tool](http://www.ci.richfield.mn.us/index.aspx?page=37&recordid=397)
+
 * [CKAN](http://ckan.org/)- Open-source data portal platform
+
 * [Socrata](http://www.socrata.com/)- Open data solutions for government innovation
+
 * [Open Twin Cities data sets on Socrata](https://communities.socrata.com/catalog/open-twin-cities/)
+
 * [WSO2](http://wso2.com/)- Complete integration platform
 

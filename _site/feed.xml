@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 29 Dec 2015 13:19:23 -0600</pubDate>
-    <lastBuildDate>Tue, 29 Dec 2015 13:19:23 -0600</lastBuildDate>
+    <pubDate>Tue, 29 Dec 2015 15:30:29 -0600</pubDate>
+    <lastBuildDate>Tue, 29 Dec 2015 15:30:29 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -18,10 +18,10 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;/projects/2015/12/25/PHMSA-part2.html&quot;&gt;PHMSA Data Analysis Part 2&lt;/a&gt;: I did my first data analysis project in R! I have been dreaming about doing this project for two years, and the pieces finally fell into place. I&amp;#39;m looking forward to working on this project more next year.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/posts/2015-06-29-cyclehack&quot;&gt;CycleHack Twin Cities&lt;/a&gt;: I was part of a team that put together an amazing local event as part of an international movement to reduce barriers to cycling. I even got to make an LED project at the Hack Factory! Stay tuned, because my co-organizer Leah and I will be presenting CycleHack Twin Cities at the Winter Cycling Congress here in Minneapolis in February 2016.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/posts/2015-04-16-pycon&quot;&gt;PyCon&lt;/a&gt;: I received financial aid to attend PyCon in Montreal, so I went to my first big programming conference. It was overwhelming but I met some great people and was really excited that so many sessions focused on culture, diversity, and the &amp;quot;people&amp;quot; side of technology.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/posts/2015-03-07-D3&quot;&gt;Data Cubed Installfest&lt;/a&gt;: I led the charge of planning and hosting a pre-event for a one-day data conference to help people learn Python and R so they could go to the event ready to use the tools being presented. It was humbling to have such incredible, knowlegable volunteers, and great to hear from attendees that it was exciting and helpful to have this resource.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/posts/2015-02-13-pyladies_galentine&quot;&gt;PyLadies Galentine&lt;/a&gt;: I finished my first personal programming project! I used what I learned in an online class to make my own project using Python, which was challenging and rewarding.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/community/2015/06/29/cyclehack.html&quot;&gt;CycleHack Twin Cities&lt;/a&gt;: I was part of a team that put together an amazing local event as part of an international movement to reduce barriers to cycling. I even got to make an LED project at the Hack Factory! Stay tuned, because my co-organizer Leah and I will be presenting CycleHack Twin Cities at the Winter Cycling Congress here in Minneapolis in February 2016.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/community/2015/04/16/pycon.html&quot;&gt;PyCon&lt;/a&gt;: I received financial aid to attend PyCon in Montreal, so I went to my first big programming conference. It was overwhelming but I met some great people and was really excited that so many sessions focused on culture, diversity, and the &amp;quot;people&amp;quot; side of technology.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/community/2015/03/07/D3.html&quot;&gt;Data Cubed Installfest&lt;/a&gt;: I led the charge of planning and hosting a pre-event for a one-day data conference to help people learn Python and R so they could go to the event ready to use the tools being presented. It was humbling to have such incredible, knowlegable volunteers, and great to hear from attendees that it was exciting and helpful to have this resource.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/projects/2015/02/13/pyladies_galentine.html&quot;&gt;PyLadies Galentine&lt;/a&gt;: I finished my first personal programming project! I used what I learned in an online class to make my own project using Python, which was challenging and rewarding.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;It has been a great year, and I&amp;#39;m looking forward to what next year will bring!&lt;/p&gt;
@@ -120,7 +120,9 @@ Total_Services_Mileage &amp;lt;- table2(&amp;quot;services&amp;quot;)
 
 &lt;h3&gt;Bonus: Transforming Data&lt;/h3&gt;
 
-&lt;p&gt;As I talked about in &lt;a href=&quot;/posts/2015-12-07-PHMSA_part1.md&quot;&gt;Part 1&lt;/a&gt;, one of the tasks that I did to make the stacked bar charts in Tableau was to take data in the wide form and transform it to the long form. Alison also showed me how to do this using the &lt;a href=&quot;https://cran.r-project.org/web/packages/reshape2/index.html&quot;&gt;reshape2&lt;/a&gt; library in R. But more about that in a later part of the project, when I work on plotting.&lt;/p&gt;
+&lt;p&gt;As I talked about in Part 1, one of the tasks that I did to make the stacked bar charts in Tableau was to take data in the wide form and transform it to the long form. Alison also showed me how to do this using the &lt;a href=&quot;https://cran.r-project.org/web/packages/reshape2/index.html&quot;&gt;reshape2&lt;/a&gt; library in R. But more about that in a later part of the project, when I work on plotting.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;/projects/2015/12/07/PHMSA_part1.html&quot;&gt;Part 1&lt;/a&gt; of this project&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Dec 2015 00:00:00 -0600</pubDate>
         <link>http://yourdomain.com/projects/2015/12/25/PHMSA-part2.html</link>
@@ -217,6 +219,8 @@ Total_Services_Mileage &amp;lt;- table2(&amp;quot;services&amp;quot;)
 &lt;h2&gt;Conclusion&lt;/h2&gt;
 
 &lt;p&gt;One challenge for me is that I have a hard time estimating how long it will take me to learn something new, especially if it&amp;#39;s fairly unknown to me. Without this estimate I can&amp;#39;t really determine if it would save time to learn another way now, like doing the analysis in R, or if it makes more sense to muddle through the way I already know just to get it done and move on. On the other hand, I can easily fall into the trap of &amp;quot;I have to learn this really complicated tool to do this relatively simple task that I could have done another way&amp;quot;, just because I want to learn the tool. Sometimes it depends on what my other workload is, and also what I think I might use the tool for in the future. When I heard we might want to do more than one state at a time or look at national data, I knew it was time to make the investment to learn a better way. Stay tuned!&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;/projects/2015/12/07/PHMSA_part1.html&quot;&gt;Part 2&lt;/a&gt; of this project&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Dec 2015 00:00:00 -0600</pubDate>
         <link>http://yourdomain.com/projects/2015/12/07/PHMSA_part1.html</link>
@@ -408,9 +412,9 @@ We did it, you guys!!!&lt;/p&gt;
     
       <item>
         <title>PyLadies: Cooking Code for Breakfast</title>
-        <description>&lt;p&gt;You may recall that myself and PyLady friend &lt;a href=&quot;https://twitter.com/CaroleJesse?lang=en&quot;&gt;Carole&lt;/a&gt; organized a &lt;a href=&quot;link%20to%20post:%20PyLadiesTC%20Beginner%20Cohort%20at%20PyMNtos&quot;&gt;beginner cohort&lt;/a&gt; to go through Coursera classes on Python in late 2014. We didn’t stop there! Our other organizers, &lt;a href=&quot;https://twitter.com/DanaKE?lang=en&quot;&gt;Dana&lt;/a&gt;, Moni, and later &lt;a href=&quot;https://twitter.com/michellecohrene?lang=en&quot;&gt;Michelle&lt;/a&gt; joined in and we renamed our meetups to “Cooking Code for Breakfast”.&lt;/p&gt;
+        <description>&lt;p&gt;You may recall that myself and PyLady friend &lt;a href=&quot;https://twitter.com/CaroleJesse?lang=en&quot;&gt;Carole&lt;/a&gt; organized a &lt;a href=&quot;/community/2014/12/11/pyladies-beginner-cohort.html&quot;&gt;beginner cohort&lt;/a&gt; to go through Coursera classes on Python in late 2014. We didn’t stop there! Our other organizers, &lt;a href=&quot;https://twitter.com/DanaKE?lang=en&quot;&gt;Dana&lt;/a&gt;, Moni, and later &lt;a href=&quot;https://twitter.com/michellecohrene?lang=en&quot;&gt;Michelle&lt;/a&gt; joined in and we renamed our meetups to “Cooking Code for Breakfast”.&lt;/p&gt;
 
-&lt;p&gt;We continued our cohort into the spring/summer, but without a specific class. Ladies just came to work and to share, and just hang out. I am really proud of all the ladies in our group, we are amazing! I got to spend &lt;a href=&quot;http://parksandrecreation.wikia.com/wiki/Galentine&amp;#x27;s_Day_(event)&quot;&gt;Galentine’s day&lt;/a&gt; with them! I made a digital PyLadies Galentine using Python in &lt;a href=&quot;http://www.codeskulptor.org/&quot;&gt;CodeSkulptor&lt;/a&gt; and the skills I learned in the interactive gaming class. Here&amp;#39;s a link to &lt;a href=&quot;http://www.codeskulptor.org/#user39_VKNSWzpQqC_1.py&quot;&gt;the code&lt;/a&gt; on CodeSkulptor and to my &lt;a href=&quot;/posts/2015-02-13.md&quot;&gt;project post&lt;/a&gt; about the Galentine.&lt;/p&gt;
+&lt;p&gt;We continued our cohort into the spring/summer, but without a specific class. Ladies just came to work and to share, and just hang out. I am really proud of all the ladies in our group, we are amazing! I got to spend &lt;a href=&quot;http://parksandrecreation.wikia.com/wiki/Galentine&amp;#x27;s_Day_(event)&quot;&gt;Galentine’s day&lt;/a&gt; with them! I made a digital PyLadies Galentine using Python in &lt;a href=&quot;http://www.codeskulptor.org/&quot;&gt;CodeSkulptor&lt;/a&gt; and the skills I learned in the interactive gaming class. Here&amp;#39;s a link to &lt;a href=&quot;http://www.codeskulptor.org/#user39_VKNSWzpQqC_1.py&quot;&gt;the code&lt;/a&gt; on CodeSkulptor and to my &lt;a href=&quot;/projects/2015/02/13/pyladies_galentine.html&quot;&gt;project post&lt;/a&gt; about the Galentine.&lt;/p&gt;
 
 &lt;p&gt;I was also super excited to spend the Pi Day of the century (3/14/15) with them all at Seward Co-op.&lt;/p&gt;
 
@@ -652,10 +656,11 @@ Alicia Hofelich Mohr, Data Management Research Associate at University of Minnes
     
       <item>
         <title>PyLadies Galentine</title>
-        <description>&lt;p&gt;A Galentine for PyLadies!
-&lt;img src=&quot;/images/2015/galentine_screenshot.png&quot; alt=&quot;Galentine Screenshot&quot;&gt;&lt;/p&gt;
+        <description>&lt;p&gt;I had taken a class on Coursera from Rice University called &lt;a href=&quot;https://www.coursera.org/course/interactivepython1&quot;&gt;An Introduction to Interactive Programming in Python&lt;/a&gt;, and a couple of the games we learned to write were Pong and Memory (the card guessing game). I was looking for a way to use what I learned to make a fun project, so I decided to try and make a digital Galentine using Python.&lt;/p&gt;
 
-&lt;p&gt;As I talked about in the post on &lt;a href=&quot;/posts/2015-08-08-pyladies-cooking-code.md&quot;&gt;PyLadies: Cooking Code for Breakfast&lt;/a&gt;, I got to hang out with the PyLadies on &lt;a href=&quot;http://parksandrecreation.wikia.com/wiki/Galentine&amp;#x27;s_Day_(event)&quot;&gt;Galentine’s Day&lt;/a&gt;. While the holiday is actually February 13th, Saturday fell on the 14th (Valentine’s Day). Which was lovely, because at the co-op they had put out white tablecloths, candles, and roses on all the tables. I also brought a present to share for all the ladies! I had taken a class on Coursera from Rice University called &lt;a href=&quot;https://www.coursera.org/course/interactivepython1&quot;&gt;An Introduction to Interactive Programming in Python&lt;/a&gt;, and a couple of the games we learned to write were Pong and Memory (the card guessing game). I was looking for a way to use what I learned to make a fun project, so I decided to try and make a digital Galentine using Python.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2015/galentine_screenshot.png&quot; alt=&quot;Galentine Screenshot&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;As I talked about in the post on &lt;a href=&quot;/posts/2015-08-08-pyladies-cooking-code.md&quot;&gt;PyLadies: Cooking Code for Breakfast&lt;/a&gt;, I got to hang out with the PyLadies on &lt;a href=&quot;http://parksandrecreation.wikia.com/wiki/Galentine&amp;#x27;s_Day_(event)&quot;&gt;Galentine’s Day&lt;/a&gt; so I got to show off my Galentine there. While the holiday is actually February 13th, Saturday fell on the 14th (Valentine’s Day). Which was lovely, because at the co-op they had put out white tablecloths, candles, and roses on all the tables.&lt;/p&gt;
 
 &lt;p&gt;I designed my project to use the skills we learned writing these two games, and I had access to the examples provided by the teachers, my source code that I used for the games, and code that I reviewed and graded for three peers (who usually did better than I did). Starting with that existing code, I created an interactive e-card that incorporated images of me and PyLady hair that changed color, a bouncing heart, some interactivity that allowed a user to enter their name and change the message that appeared in the card. I used the browser-based Python interpreter used in the class, &lt;a href=&quot;http://www.codeskulptor.org/&quot;&gt;CodeSkulptor&lt;/a&gt;, to run the code. &lt;/p&gt;
 

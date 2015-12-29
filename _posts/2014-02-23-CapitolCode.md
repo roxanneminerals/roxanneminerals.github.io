@@ -28,10 +28,16 @@ This framework also allows us to identify where the barriers are; in the present
 I’m not a super technical person and I have to admit there were times that I got lost in the conversations about APIs and the Javascript D3 library. That said, I love working with conceptual frameworks, understanding the big picture system, and connecting what individual experts say about their pieces of a complex system. I also enjoy using tools, like Prezi, that have the functionality to highlight the interconnectivity that we identified in the system. I had a lot of fun with our group and felt like we each contributed very different things, which I like to think of as a mini-version of what we identified to be as necessary to build this kind of integrated, healthy public data ecosystem.
 
 Some of the cool examples we looked at:
+
 * [data.gov](http://www.data.gov/)- Home of the US government’s open data
+
 * [City of Richfield budget transparency tool](http://www.ci.richfield.mn.us/index.aspx?page=37&recordid=397)
+
 * [CKAN](http://ckan.org/)- Open-source data portal platform
+
 * [Socrata](http://www.socrata.com/)- Open data solutions for government innovation
+
 * [Open Twin Cities data sets on Socrata](https://communities.socrata.com/catalog/open-twin-cities/)
+
 * [WSO2](http://wso2.com/)- Complete integration platform
 

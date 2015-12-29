@@ -20,6 +20,8 @@ I really enjoyed learning about CodeSkulptor; it allowed us n00bs to do a lot of
 
 _View and run the code for the Galentine in CodeSkultptor [here](http://www.codeskulptor.org/#user39_VKNSWzpQqC_1.py)_
 
+_To play, hit the play button in the upper left corner of the screen, and then you can click the button that says "Happy Galentine's Day to change the message. You can also type your name in the text box and hit "Enter" to personalize the Galentine._
+
 ##Brainstorm
 I started by drawing out what I wanted the Galentine to look like and added notes about the functionality. I drew the canvas (pencil and paper, really high-tech) with the images and text I wanted, and drew arrows indicating where I would put a button to change the message and a box for the user to enter their name. Since I wanted things to move and change, I also thought about what actions could trigger the movement/changes. While deciding on a design, I also started thinking about how I could make these things happen- I didn’t want to add a feature I had no idea how to make, but I didn’t need to know exactly how I would do it, either. 
 

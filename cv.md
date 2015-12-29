@@ -74,30 +74,30 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 
 ##Events Organized
 
-* CycleHack Twin Cities 6/29/15; [recap](posts/2015-06-29-cyclehack.md)
-* PyLadies Cooking Code for Breakfast 1/31/15-5/9/15; [recap](posts/2015-05-09-pyladies-cooking-code.md)
-* Data Cubed 3/7/15; [recap](posts/2015-03-07-D3.md)
-* Data Cubed Installfest 3/6/15; [recap](posts/2015-03-07-D3.md)
-* Humphrey School Twin Cities Student Career Exploration Trip 1/15/15; [recap](posts/2015-01-15-HHH-CET.md)
-* PyLadies Beginner Cohort 9/1/14-12/22/14; [recap](posts/2014-12-11-pyladies-beginner-cohort.md)
-* ClimateHack Twin Cities 9/25/14; [recap](posts/2014-09-25-climatehacktc-recap.md)
+* CycleHack Twin Cities 6/29/15; [recap](/community/2015/06/29/cyclehack.html)
+* PyLadies Cooking Code for Breakfast 1/31/15-5/9/15; [recap](/community/2015/05/09/pyladies-cooking-code.html)
+* Data Cubed 3/7/15; [recap](/community/2015/03/07/D3.html)
+* Data Cubed Installfest 3/6/15; [recap](/community/2015/03/07/D3.html)
+* Humphrey School Twin Cities Student Career Exploration Trip 1/15/15; [recap](/community/2015/01/15/HHH-CET.html)
+* PyLadies Beginner Cohort 9/1/14-12/22/14; [recap](/community/2014/12/11/pyladies-beginner-cohort.html)
+* ClimateHack Twin Cities 9/25/14; [recap](/community/2014/09/25/climatehacktc-recap.html)
 
 ##Speaking Engagements
 
-* _PyLadies Beginner Cohort_, PyMNtos, Minneapolis MN, 12/11/14; [recap](posts/2014-12-11-pyladies-beginner-cohort.md)
-* _Open Twin Cities_, Minnesota Rising, Minneapolis MN, 11/15/14; [recap](posts/2014-11-15-mnrising.md)
+* _PyLadies Beginner Cohort_, PyMNtos, Minneapolis MN, 12/11/14; [recap](/community/2014/12/11/pyladies-beginner-cohort.html)
+* _Open Twin Cities_, Minnesota Rising, Minneapolis MN, 11/15/14; [recap](/community/2014/11/15/mnrising.html)
 * _Combined Heat and Power: An Opportunity for U.S. Workers_, BlueGreen Alliance: Good Jobs, Green Jobs, Washington DC, 2/10/14
 
 ##Events Attended
 
 * NerdCon: Stories, Minneapolis MN, 10/9/15
 * Inter Union Gas Conference, Las Vegas NV, 9/21/15
-* CodeWork Unconference, Minneapolis MN, 4/18/15; [recap](posts/2015-4-18-CodeWork.md)
-* PyCon, Montreal Quebec, 4/8/15; [recap](/posts/2015-04-16-pycon.md)
+* CodeWork Unconference, Minneapolis MN, 4/18/15; [recap](/community/2015/04/18/CodeWork.html)
+* PyCon, Montreal Quebec, 4/8/15; [recap](/community/2015/04/16/pycon.html)
 * People’s Climate March, New York NY, 9/21/14
-* Hack for MN, Minneapolis MN, 6/21/14; [recap](posts/2014-6-21-hackformn.md)
-* Global Service Jam, Minneapolis MN, 3/13/14; [recap](posts/2014-03-13-GSJ1.md)
-* Capitol Code, Minneapolis MN, 2/23/14; [recap](posts/2014-02-23-CApitolCode.md)
+* Hack for MN, Minneapolis MN, 6/21/14; [recap](/community/2014/06/21/hackformn.html)
+* Global Service Jam, Minneapolis MN, 3/13/14; [recap](/community/2014/03/13/GSJ1.html)
+* Capitol Code, Minneapolis MN, 2/23/14; [recap](/community/2014/02/23/CapitolCode.html)
 * Good Jobs Green Jobs, Washington DC, 2/10/14
 * Good Jobs Green Jobs, Washington DC, 4/16/13
 * Beakers to Business Plans: Minnesota Green Chemistry 2013, Minneapolis MN, 1/25/13

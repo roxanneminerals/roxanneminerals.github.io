@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: post_community
 title:  "ClimateHack"
+category: community
 ---
 
 On September 13th, [Bill Bushey](https://twitter.com/wbushey) and I co-organized
