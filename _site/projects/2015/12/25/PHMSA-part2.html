@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Natural Gas Distribution State Pipeline Analysis PART 2: R for Summary Tables</title>
+    <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="http://yourdomain.com/projects/2015/12/25/PHMSA-part2.html">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div style = "background-color: black;">
+    <img src = "/images/site/projects.jpg" alt = "cross stitched name image">
+  </div>
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+          <a class="page-link" href="/index.html">Home</a>
+	  <a class="page-link" href="/community.html">Community</a>
+	  <a class="page-link" href="/projects.html">Projects</a>
+	  <a class="page-link" href="/notes.html">Notes</a>
+	  <a class="page-link" href="/cv.html">CV</a>
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Natural Gas Distribution State Pipeline Analysis PART 2: R for Summary Tables</h1>
+    <p class="post-meta">Dec 25, 2015</p>
+  </header>
+
+  <article class="post-content">
+    <p>Since I have now done a similar analysis for two states using the same <a href="http://phmsa.dot.gov/portal/site/PHMSA/menuitem.6f23687cf7b00b0f22e4c6962d9c8789/?vgnextoid=a872dfa122a1d110VgnVCM1000009ed07898RCRD&amp;vgnextchannel=3430fb649a2dc110VgnVCM1000009ed07898RCRD&amp;vgnextfmt=print">data set</a> from the Pipeline and Hazardous Materials Administration (PHMSA), I figured that for the third state we&#39;re working in, I would try to do the same analysis using <a href="https://www.r-project.org/">R</a>  so I could automate the process- enabling us to select any state and get the numbers we wanted. My goal was to create an R script that would take input from the user for the year and state they wanted and would create an Excel spreadsheet with the summary tables for all the numbers we want summarized.</p>
+
+<p>I started by playing around in <a href="https://www.rstudio.com/">RStudio</a> to see if I could read in my data- which I had to open in Excel and re-save as a csv- and then try to play around with the code to start doing the things I did in Excel.</p>
+
+<p>I took an R class on Coursera a couple years ago, but it was very challenging and I didn&#39;t remember much from it so I didn&#39;t get very far. Luckily my friend Alison <a href="https://twitter.com/linkalis">@linkalis</a> is good at data analysis in R and happy to share her vast knowledge. We met up for coffee and I walked her through my previous analysis, explaining what I was hoping to do. She hooked me up with some basics- she showed me the <a href="https://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html">dplyr</a> library and how to use it, and she made me an R script with examples of some of the things I described I&#39;d want to do. I took it and ran. Thanks Alison!!</p>
+
+<h3>Step One: Think Through the Goal</h3>
+
+<p>I looked at the analysis I had done using Excel to pull together some summary tables. I drew out what tables I wanted to get a clear idea of what I wanted to create and what data I would need to pull together. I wanted nine tables: number of state pipeline operators, total state main pipeline mileage, total state number of services,  pipeline mileage by operator, services by operator, mileage of main pipelines made from leak-prone materials by operator, number of services made from leak-prone pipelines by operator, number of leaks in main pipeline by operator, number of leaks in services by operator.</p>
+
+<h3>Step Two: Some Clean-Up and Formatting</h3>
+
+<p>I started used the code in the sample script to figure out how to create the tables. There were a few munging tasks that needed to be figured out to clean up my tables:</p>
+
+<ul>
+<li>The STOP field, which is used to identify the state in which the operator is operating the pipelines covered in the data set, had to be read in as a character so that I could use a filter. The R default was to read it in as a factor variable.</li>
+<li>There were some extra rows that read in as NAs, so I incorporated some NA removal using the unique ID for each operator: <code>filter(!is.na(OPERATOR_ID)</code></li>
+<li>Once I had my summary tables, I removed the rows where all the entries in the columns we were interested in were 0&#39;s since I knew from looking at the tables in Excel that many operators did not have any miles of pipeline made of the materials we were looking at: <code>filter(OP_TOTAL!=0)</code></li>
+<li>To order the table with the largest number at the top (we&#39;re interested in the largest numbers), I used <code>arrange(desc(OP_TOTAL))</code></li>
+</ul>
+
+<h3>Step Three: Get the Code to Make the Tables</h3>
+
+<p>To start making the tables:</p>
+
+<ul>
+<li>I assigned some global variables for year and state to use as placeholders that would later become user input. </li>
+<li>To read in the data, I used read.csv: <code>gasdata_full &lt;- read.csv(&quot;annual_gas_distribution_2014.csv&quot;)</code></li>
+<li>To make a table with a ubset of the fields available, I call those fields by their headers. Here, I include the NA removal and then filter by state (in this case, Indiana), and create a table that shows mileage of main pipeline made of unprotected bare steel, unprotected coated steel, cathodically protected bare steel, and cast iron for each operator. Doing this in dplyr allowed me to string all those operations together using the %&gt;% command: <code>in_main_materials_wide &lt;- gasdata_full %&gt;% filter(!is.na(OPERATOR_ID) &amp; STOP==&quot;IN&quot;) %&gt;% select(OPERATOR_NAME, OPERATOR_ID, STOP, MMILES_STEEL_UNP_BARE, MMILES_STEEL_UNP_COATED, MMILES_STEEL_CP_BARE, MMILES_CI)</code></li>
+<li>Next I wanted to create a new field that is a summary of other fields; this example is the sum of all leak prone pipeline mileage that includes all four individual categories. I used &#39;group by&#39; in dplyr to select entries by Operator Name and use &#39;mutate&#39; to add a column to the table that would be the calculated sum of all the pipeline materials we&#39;re looking at: <code>materials_summary &lt;- materials %&gt;% group_by(OPERATOR_NAME) %&gt;% mutate(OP_TOTAL = sum(MMILES_STEEL_UNP_BARE, MMILES_STEEL_UNP_COATED, MMILES_STEEL_CP_BARE, MMILES_CI))</code></li>
+<li>Challenge: using &#39;arrange&#39; to sort the data by a total that was calculated using &#39;group by&#39; in dplyr didn&#39;t work. When I googled it, I found this <a href="http://stackoverflow.com/questions/26555297/dplyr-arrange-a-grouped-df-by-group-variable-not-working">resource</a> on Stack Overflow that suggested that I had to ungroup the data to sort it. It worked! 
+<code>materials_summary &lt;- materials_summary %&gt;% ungroup() %&gt;% filter(OP_TOTAL!=0) %&gt;% arrange(desc(OP_TOTAL))</code></li>
+</ul>
+
+<h3>Step Four: Put the Code into Functions</h3>
+
+<p>When I began thinking about how to use my code in functions, I realized I had to make a cognitive jump from simply manipulating data frames to creating and assigning output of a function to a variable. Conceptually I struggled with making functions because I didn&#39;t understand how to &quot;put something into&quot; the function, especially since I started without using any arguments. Eventually I understood that calling the function and assigning that call to a variable (even if there are no arguments) will create my table, which has the name of the variable. </p>
+
+<p>Much of my analysis gets repeated, because it gets done for both main pipeline and services. I had this tendency to want to generate more than one value in output, which you can&#39;t do in R, and then I realized I could use arguments here for either pipeline main or services. So I set up an if, else if in my functions that would allow me to run the same function for main and then services.</p>
+
+<p>Here&#39;s an example of the summary for total number of miles of main pipeline and total number of services:</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text"># table2 is a summary of total mileage of pipe (main and services) by operator
+table2 &lt;- function(pipe){
+  if (pipe == &quot;main&quot;){
+    summary &lt;- gasdata_full %&gt;% filter(STOP== state) %&gt;% select(OPERATOR_NAME, OPERATOR_ID, STOP, MMILES_TOTAL)
+    summary &lt;- arrange(summary, desc(MMILES_TOTAL))
+  } else if ( pipe == &quot;services&quot;) {
+    summary &lt;- gasdata_full %&gt;% filter(STOP== state) %&gt;% select(OPERATOR_NAME, OPERATOR_ID, STOP, NUM_SRVCS_TOTAL)
+    summary &lt;- arrange(summary, desc(NUM_SRVCS_TOTAL))
+  }
+  return(summary)
+}
+</code></pre></div>
+<p>To call the functions with their arguments and assign them- here&#39;s an example showing the tables created using the function above: one for mileage of main pipeline, and another for number of services:</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">Total_Main_Mileage &lt;- table2(&quot;main&quot;)
+Total_Services_Mileage &lt;- table2(&quot;services&quot;)
+</code></pre></div>
+<h3>Step Five: Tie the Functions Together and Write Output</h3>
+
+<p>Once I had all my functions written to generate the tables I wanted, I had to write a script that would create the tables and write them to an Excel file. I had to call the functions, for those with arguments I called them once for each argument, and assign the output to a set of variables. Then I wanted to write each of those tables to a different worksheet in an Excel workbook.</p>
+
+<p>This seemed tricky, so naturally I googled that too. Luckily, someone had already done this exact thing! Over at <a href="https://statmethods.wordpress.com/2014/06/19/quickly-export-multiple-r-objects-to-an-excel-workbook/">statMethodsblog</a>, there was a nice function that was created using the xlsx library that did just what I wanted to do. I copied the function and used it to write my tables to an Excel file. The function takes the names of the tables and uses them to name the worksheets in the workbook.</p>
+
+<p>I used another little bit of code to generate the name of the workbook based on the year and state inputed by the user: <code>wkbk_name &lt;- paste(state, &quot;_&quot;, year, &quot;.xlsx&quot;, sep =&quot;&quot;)</code></p>
+
+<p>The last part was figuring out how to allow the user to input the year and state they choose. I wrote a couple small functions using &#39;read lines&#39; funtion; here is the one for year: </p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">readlines_year &lt;- function() { 
+  year &lt;- readline(prompt=&quot;Enter a four digit year (ex: 2013): &quot;)
+  return(year)
+}
+</code></pre></div>
+<p>Another challenge: I programmed this on my work laptop, and then tried to run it on my personal laptop and I got a Java error. Because the xlsx library uses Java, to run the R script you need an updated version of Java. Go figure.</p>
+
+<p>Finally, I checked the summary numbers against the analysis I had done using Excel and Tableau. They were the same.</p>
+
+<h3>Like Magic</h3>
+
+<p>Once everything was put together, I can simply run the R script, enter the year and the state I want at the prompts, and an Excel workbook with the nine summary tables is created in my working directory. Magical! In the future, I&#39;d like to keep working with this data set and look at some of these numbers over time (the data sets go back to the 1970s) or look at state comparisons. I have also started working on plotting this data using R. Stay tuned for more on this project!</p>
+
+<h3>Bonus: Transforming Data</h3>
+
+<p>As I talked about in <a href="/posts/2015-12-07-PHMSA_part1.md">Part 1</a>, one of the tasks that I did to make the stacked bar charts in Tableau was to take data in the wide form and transform it to the long form. Alison also showed me how to do this using the <a href="https://cran.r-project.org/web/packages/reshape2/index.html">reshape2</a> library in R. But more about that in a later part of the project, when I work on plotting.</p>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li><img src = "/images/site/rox.jpg" alt = "image of rox"></li>
+          <li><a href="https://www.linkedin.com/in/roxjohnson">Connect with me on LinkedIn</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+        <ul class="social-media-list">
+          
+          <li>
+            <a href="https://github.com/roxanneminerals">
+              <span class="icon  icon--github">
+                <svg viewBox="0 0 16 16">
+                  <path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+                </svg>
+              </span>
+
+              <span class="username">roxanneminerals</span>
+            </a>
+          </li>
+          
+
+          
+          <li>
+            <a href="https://twitter.com/roxLjohnson">
+              <span class="icon  icon--twitter">
+                <svg viewBox="0 0 16 16">
+                  <path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809
+                  c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/>
+                </svg>
+              </span>
+
+              <span class="username">roxLjohnson</span>
+            </a>
+          </li>
+          
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-3">
+        
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

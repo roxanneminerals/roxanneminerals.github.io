@@ -4,6 +4,7 @@ title:  "PyLadies Galentine"
 category: projects
 ---
 
+A Galentine for PyLadies!
 ![Galentine Screenshot](/images/2015/galentine_screenshot.png)
 
 As I talked about in the post on [PyLadies: Cooking Code for Breakfast](/posts/2015-08-08-pyladies-cooking-code.md), I got to hang out with the PyLadies on [Galentine’s Day](http://parksandrecreation.wikia.com/wiki/Galentine's_Day_(event)). While the holiday is actually February 13th, Saturday fell on the 14th (Valentine’s Day). Which was lovely, because at the co-op they had put out white tablecloths, candles, and roses on all the tables. I also brought a present to share for all the ladies! I had taken a class on Coursera from Rice University called [An Introduction to Interactive Programming in Python](https://www.coursera.org/course/interactivepython1), and a couple of the games we learned to write were Pong and Memory (the card guessing game). I was looking for a way to use what I learned to make a fun project, so I decided to try and make a digital Galentine using Python.
@@ -18,6 +19,8 @@ In each of the lessons we would learn a bit about the functionality of CodeSkulp
 I really enjoyed learning about CodeSkulptor; it allowed us n00bs to do a lot of neat things without knowing much about how it worked at first. It was neat to understand it more as we learned in the class  as well; when we got to the lesson introducing classes, for example, the CodeSkulptor commands began to make more sense!
 
 _View and run the code for the Galentine in CodeSkultptor [here](http://www.codeskulptor.org/#user39_VKNSWzpQqC_1.py)_
+
+_To play, hit the play button in the upper left corner of the screen, and then you can click the button that says "Happy Galentine's Day to change the message. You can also type your name in the text box and hit "Enter" to personalize the Galentine._
 
 ##Brainstorm
 I started by drawing out what I wanted the Galentine to look like and added notes about the functionality. I drew the canvas (pencil and paper, really high-tech) with the images and text I wanted, and drew arrows indicating where I would put a button to change the message and a box for the user to enter their name. Since I wanted things to move and change, I also thought about what actions could trigger the movement/changes. While deciding on a design, I also started thinking about how I could make these things happen- I didn’t want to add a feature I had no idea how to make, but I didn’t need to know exactly how I would do it, either. 

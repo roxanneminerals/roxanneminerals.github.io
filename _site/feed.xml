@@ -6,9 +6,130 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 28 Dec 2015 20:25:11 -0600</pubDate>
-    <lastBuildDate>Mon, 28 Dec 2015 20:25:11 -0600</lastBuildDate>
+    <pubDate>Tue, 29 Dec 2015 13:19:23 -0600</pubDate>
+    <lastBuildDate>Tue, 29 Dec 2015 13:19:23 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Launch! Welcome to my Website</title>
+        <description>&lt;p&gt;This project has been a long time coming. I wanted to have a place to put all the fun stuff I have been working on, both so that I remember I did and so that I can share it. After many, many hours, here it is! It&amp;#39;s still very much a work in progress, but I think it&amp;#39;s a good start.&lt;/p&gt;
+
+&lt;p&gt;I did a few projects this past year that I think are really exciting. Here are my picks for top five posts from 2015:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/projects/2015/12/25/PHMSA-part2.html&quot;&gt;PHMSA Data Analysis Part 2&lt;/a&gt;: I did my first data analysis project in R! I have been dreaming about doing this project for two years, and the pieces finally fell into place. I&amp;#39;m looking forward to working on this project more next year.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/posts/2015-06-29-cyclehack&quot;&gt;CycleHack Twin Cities&lt;/a&gt;: I was part of a team that put together an amazing local event as part of an international movement to reduce barriers to cycling. I even got to make an LED project at the Hack Factory! Stay tuned, because my co-organizer Leah and I will be presenting CycleHack Twin Cities at the Winter Cycling Congress here in Minneapolis in February 2016.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/posts/2015-04-16-pycon&quot;&gt;PyCon&lt;/a&gt;: I received financial aid to attend PyCon in Montreal, so I went to my first big programming conference. It was overwhelming but I met some great people and was really excited that so many sessions focused on culture, diversity, and the &amp;quot;people&amp;quot; side of technology.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/posts/2015-03-07-D3&quot;&gt;Data Cubed Installfest&lt;/a&gt;: I led the charge of planning and hosting a pre-event for a one-day data conference to help people learn Python and R so they could go to the event ready to use the tools being presented. It was humbling to have such incredible, knowlegable volunteers, and great to hear from attendees that it was exciting and helpful to have this resource.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/posts/2015-02-13-pyladies_galentine&quot;&gt;PyLadies Galentine&lt;/a&gt;: I finished my first personal programming project! I used what I learned in an online class to make my own project using Python, which was challenging and rewarding.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It has been a great year, and I&amp;#39;m looking forward to what next year will bring!&lt;/p&gt;
+
+&lt;p&gt;Since this isn&amp;#39;t a blog and there are no comments, hit me up on Twitter or via email using the links on this page.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 Dec 2015 00:00:00 -0600</pubDate>
+        <link>http://yourdomain.com/notes/2015/12/29/launch.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/notes/2015/12/29/launch.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
+    
+      <item>
+        <title>Natural Gas Distribution State Pipeline Analysis PART 2: R for Summary Tables</title>
+        <description>&lt;p&gt;Since I have now done a similar analysis for two states using the same &lt;a href=&quot;http://phmsa.dot.gov/portal/site/PHMSA/menuitem.6f23687cf7b00b0f22e4c6962d9c8789/?vgnextoid=a872dfa122a1d110VgnVCM1000009ed07898RCRD&amp;amp;vgnextchannel=3430fb649a2dc110VgnVCM1000009ed07898RCRD&amp;amp;vgnextfmt=print&quot;&gt;data set&lt;/a&gt; from the Pipeline and Hazardous Materials Administration (PHMSA), I figured that for the third state we&amp;#39;re working in, I would try to do the same analysis using &lt;a href=&quot;https://www.r-project.org/&quot;&gt;R&lt;/a&gt;  so I could automate the process- enabling us to select any state and get the numbers we wanted. My goal was to create an R script that would take input from the user for the year and state they wanted and would create an Excel spreadsheet with the summary tables for all the numbers we want summarized.&lt;/p&gt;
+
+&lt;p&gt;I started by playing around in &lt;a href=&quot;https://www.rstudio.com/&quot;&gt;RStudio&lt;/a&gt; to see if I could read in my data- which I had to open in Excel and re-save as a csv- and then try to play around with the code to start doing the things I did in Excel.&lt;/p&gt;
+
+&lt;p&gt;I took an R class on Coursera a couple years ago, but it was very challenging and I didn&amp;#39;t remember much from it so I didn&amp;#39;t get very far. Luckily my friend Alison &lt;a href=&quot;https://twitter.com/linkalis&quot;&gt;@linkalis&lt;/a&gt; is good at data analysis in R and happy to share her vast knowledge. We met up for coffee and I walked her through my previous analysis, explaining what I was hoping to do. She hooked me up with some basics- she showed me the &lt;a href=&quot;https://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html&quot;&gt;dplyr&lt;/a&gt; library and how to use it, and she made me an R script with examples of some of the things I described I&amp;#39;d want to do. I took it and ran. Thanks Alison!!&lt;/p&gt;
+
+&lt;h3&gt;Step One: Think Through the Goal&lt;/h3&gt;
+
+&lt;p&gt;I looked at the analysis I had done using Excel to pull together some summary tables. I drew out what tables I wanted to get a clear idea of what I wanted to create and what data I would need to pull together. I wanted nine tables: number of state pipeline operators, total state main pipeline mileage, total state number of services,  pipeline mileage by operator, services by operator, mileage of main pipelines made from leak-prone materials by operator, number of services made from leak-prone pipelines by operator, number of leaks in main pipeline by operator, number of leaks in services by operator.&lt;/p&gt;
+
+&lt;h3&gt;Step Two: Some Clean-Up and Formatting&lt;/h3&gt;
+
+&lt;p&gt;I started used the code in the sample script to figure out how to create the tables. There were a few munging tasks that needed to be figured out to clean up my tables:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The STOP field, which is used to identify the state in which the operator is operating the pipelines covered in the data set, had to be read in as a character so that I could use a filter. The R default was to read it in as a factor variable.&lt;/li&gt;
+&lt;li&gt;There were some extra rows that read in as NAs, so I incorporated some NA removal using the unique ID for each operator: &lt;code&gt;filter(!is.na(OPERATOR_ID)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Once I had my summary tables, I removed the rows where all the entries in the columns we were interested in were 0&amp;#39;s since I knew from looking at the tables in Excel that many operators did not have any miles of pipeline made of the materials we were looking at: &lt;code&gt;filter(OP_TOTAL!=0)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;To order the table with the largest number at the top (we&amp;#39;re interested in the largest numbers), I used &lt;code&gt;arrange(desc(OP_TOTAL))&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Step Three: Get the Code to Make the Tables&lt;/h3&gt;
+
+&lt;p&gt;To start making the tables:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I assigned some global variables for year and state to use as placeholders that would later become user input. &lt;/li&gt;
+&lt;li&gt;To read in the data, I used read.csv: &lt;code&gt;gasdata_full &amp;lt;- read.csv(&amp;quot;annual_gas_distribution_2014.csv&amp;quot;)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;To make a table with a ubset of the fields available, I call those fields by their headers. Here, I include the NA removal and then filter by state (in this case, Indiana), and create a table that shows mileage of main pipeline made of unprotected bare steel, unprotected coated steel, cathodically protected bare steel, and cast iron for each operator. Doing this in dplyr allowed me to string all those operations together using the %&amp;gt;% command: &lt;code&gt;in_main_materials_wide &amp;lt;- gasdata_full %&amp;gt;% filter(!is.na(OPERATOR_ID) &amp;amp; STOP==&amp;quot;IN&amp;quot;) %&amp;gt;% select(OPERATOR_NAME, OPERATOR_ID, STOP, MMILES_STEEL_UNP_BARE, MMILES_STEEL_UNP_COATED, MMILES_STEEL_CP_BARE, MMILES_CI)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Next I wanted to create a new field that is a summary of other fields; this example is the sum of all leak prone pipeline mileage that includes all four individual categories. I used &amp;#39;group by&amp;#39; in dplyr to select entries by Operator Name and use &amp;#39;mutate&amp;#39; to add a column to the table that would be the calculated sum of all the pipeline materials we&amp;#39;re looking at: &lt;code&gt;materials_summary &amp;lt;- materials %&amp;gt;% group_by(OPERATOR_NAME) %&amp;gt;% mutate(OP_TOTAL = sum(MMILES_STEEL_UNP_BARE, MMILES_STEEL_UNP_COATED, MMILES_STEEL_CP_BARE, MMILES_CI))&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Challenge: using &amp;#39;arrange&amp;#39; to sort the data by a total that was calculated using &amp;#39;group by&amp;#39; in dplyr didn&amp;#39;t work. When I googled it, I found this &lt;a href=&quot;http://stackoverflow.com/questions/26555297/dplyr-arrange-a-grouped-df-by-group-variable-not-working&quot;&gt;resource&lt;/a&gt; on Stack Overflow that suggested that I had to ungroup the data to sort it. It worked! 
+&lt;code&gt;materials_summary &amp;lt;- materials_summary %&amp;gt;% ungroup() %&amp;gt;% filter(OP_TOTAL!=0) %&amp;gt;% arrange(desc(OP_TOTAL))&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Step Four: Put the Code into Functions&lt;/h3&gt;
+
+&lt;p&gt;When I began thinking about how to use my code in functions, I realized I had to make a cognitive jump from simply manipulating data frames to creating and assigning output of a function to a variable. Conceptually I struggled with making functions because I didn&amp;#39;t understand how to &amp;quot;put something into&amp;quot; the function, especially since I started without using any arguments. Eventually I understood that calling the function and assigning that call to a variable (even if there are no arguments) will create my table, which has the name of the variable. &lt;/p&gt;
+
+&lt;p&gt;Much of my analysis gets repeated, because it gets done for both main pipeline and services. I had this tendency to want to generate more than one value in output, which you can&amp;#39;t do in R, and then I realized I could use arguments here for either pipeline main or services. So I set up an if, else if in my functions that would allow me to run the same function for main and then services.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;#39;s an example of the summary for total number of miles of main pipeline and total number of services:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;# table2 is a summary of total mileage of pipe (main and services) by operator
+table2 &amp;lt;- function(pipe){
+  if (pipe == &amp;quot;main&amp;quot;){
+    summary &amp;lt;- gasdata_full %&amp;gt;% filter(STOP== state) %&amp;gt;% select(OPERATOR_NAME, OPERATOR_ID, STOP, MMILES_TOTAL)
+    summary &amp;lt;- arrange(summary, desc(MMILES_TOTAL))
+  } else if ( pipe == &amp;quot;services&amp;quot;) {
+    summary &amp;lt;- gasdata_full %&amp;gt;% filter(STOP== state) %&amp;gt;% select(OPERATOR_NAME, OPERATOR_ID, STOP, NUM_SRVCS_TOTAL)
+    summary &amp;lt;- arrange(summary, desc(NUM_SRVCS_TOTAL))
+  }
+  return(summary)
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;To call the functions with their arguments and assign them- here&amp;#39;s an example showing the tables created using the function above: one for mileage of main pipeline, and another for number of services:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;Total_Main_Mileage &amp;lt;- table2(&amp;quot;main&amp;quot;)
+Total_Services_Mileage &amp;lt;- table2(&amp;quot;services&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Step Five: Tie the Functions Together and Write Output&lt;/h3&gt;
+
+&lt;p&gt;Once I had all my functions written to generate the tables I wanted, I had to write a script that would create the tables and write them to an Excel file. I had to call the functions, for those with arguments I called them once for each argument, and assign the output to a set of variables. Then I wanted to write each of those tables to a different worksheet in an Excel workbook.&lt;/p&gt;
+
+&lt;p&gt;This seemed tricky, so naturally I googled that too. Luckily, someone had already done this exact thing! Over at &lt;a href=&quot;https://statmethods.wordpress.com/2014/06/19/quickly-export-multiple-r-objects-to-an-excel-workbook/&quot;&gt;statMethodsblog&lt;/a&gt;, there was a nice function that was created using the xlsx library that did just what I wanted to do. I copied the function and used it to write my tables to an Excel file. The function takes the names of the tables and uses them to name the worksheets in the workbook.&lt;/p&gt;
+
+&lt;p&gt;I used another little bit of code to generate the name of the workbook based on the year and state inputed by the user: &lt;code&gt;wkbk_name &amp;lt;- paste(state, &amp;quot;_&amp;quot;, year, &amp;quot;.xlsx&amp;quot;, sep =&amp;quot;&amp;quot;)&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;The last part was figuring out how to allow the user to input the year and state they choose. I wrote a couple small functions using &amp;#39;read lines&amp;#39; funtion; here is the one for year: &lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;readlines_year &amp;lt;- function() { 
+  year &amp;lt;- readline(prompt=&amp;quot;Enter a four digit year (ex: 2013): &amp;quot;)
+  return(year)
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Another challenge: I programmed this on my work laptop, and then tried to run it on my personal laptop and I got a Java error. Because the xlsx library uses Java, to run the R script you need an updated version of Java. Go figure.&lt;/p&gt;
+
+&lt;p&gt;Finally, I checked the summary numbers against the analysis I had done using Excel and Tableau. They were the same.&lt;/p&gt;
+
+&lt;h3&gt;Like Magic&lt;/h3&gt;
+
+&lt;p&gt;Once everything was put together, I can simply run the R script, enter the year and the state I want at the prompts, and an Excel workbook with the nine summary tables is created in my working directory. Magical! In the future, I&amp;#39;d like to keep working with this data set and look at some of these numbers over time (the data sets go back to the 1970s) or look at state comparisons. I have also started working on plotting this data using R. Stay tuned for more on this project!&lt;/p&gt;
+
+&lt;h3&gt;Bonus: Transforming Data&lt;/h3&gt;
+
+&lt;p&gt;As I talked about in &lt;a href=&quot;/posts/2015-12-07-PHMSA_part1.md&quot;&gt;Part 1&lt;/a&gt;, one of the tasks that I did to make the stacked bar charts in Tableau was to take data in the wide form and transform it to the long form. Alison also showed me how to do this using the &lt;a href=&quot;https://cran.r-project.org/web/packages/reshape2/index.html&quot;&gt;reshape2&lt;/a&gt; library in R. But more about that in a later part of the project, when I work on plotting.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Dec 2015 00:00:00 -0600</pubDate>
+        <link>http://yourdomain.com/projects/2015/12/25/PHMSA-part2.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/projects/2015/12/25/PHMSA-part2.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
     
       <item>
         <title>Natural Gas Distribution State Pipeline Analysis PART 1: Excel and Tableau Public</title>
@@ -458,18 +579,19 @@ example of a gender-swapped Sherlock who amazingly as a woman can be just as muc
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;I met a Chicago PyLady &lt;a href=&quot;https://twitter.com/loooorenanicole&quot;&gt;Lorena&lt;/a&gt; who told me about the &lt;a href=&quot;http://www.dogooddata.com/&quot;&gt;Do Good Data&lt;/a&gt; conference and the &lt;a href=&quot;http://dataanalystsforsocialgood.com/&quot;&gt;Data Analysts for Social Good&lt;/a&gt;, which I hope to join someday.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;I met another beginner who had come to the conference with her husband and I was able to share some of the resources that PyLadiesTC put together for learning.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;I got to see former Minneapolis PyLady &lt;a href=&quot;https://twitter.com/lkdamer&quot;&gt;@lkdamer&lt;/a&gt; who was attending a coding bootcamp in Seattle! I met her classmates and we went out for dinner.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;I chatted with a guy from Germany about diversity in tech, and he came and found me later to make sure that &lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;I had seen the &lt;a href=&quot;https://www.youtube.com/watch?v=hIJdFxYlEKE&quot;&gt;keynote by Jacob Kaplan Moss&lt;/a&gt; about mediocre programmers (which is excellent and you should go watch it!).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;I got to see a former Minneapolis PyLady who was attending a coding bootcamp in Seattle! I met her classmates and we went out for dinner.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;I chatted with a guy from Germany about diversity in tech, and he came and found me later to make sure that I had seen the &lt;a href=&quot;https://www.youtube.com/watch?v=hIJdFxYlEKE&quot;&gt;keynote by Jacob Kaplan Moss&lt;/a&gt; about mediocre programmers (which is excellent and you should go watch it!).&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;There were tons of free t-shirts.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;I got a &lt;a href=&quot;http://jvns.ca/blog/2015/04/14/strace-zine/&quot;&gt;zine&lt;/a&gt; about &lt;a href=&quot;http://linux.die.net/man/1/strace&quot;&gt;strace&lt;/a&gt; from Montreal PyLady &lt;a href=&quot;https://twitter.com/b0rk&quot;&gt;Julia&lt;/a&gt;, who is AWESOME. Then I talked to several PyLadies about setting up a technical zine exchange. I hope this happens!!! I&amp;#39;m still working on mine...&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;I also met another Minneapolis PyLady in Montreal at the PyLadies Lunch!! She came to one of our local events after that!&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;I went up to Arepera du Plateau with &lt;a href=&quot;https://twitter.com/maestrofjp&quot;&gt;Peter&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/CultureClap&quot;&gt;@CultureClap&lt;/a&gt;, and Aaron. Among other things, we had a great discussion where I mentioned that I think the goal shouldn’t be “to have diversity” in tech, but rather to value diversity for diverse perspectives. We talk about this alot in our local PyLadies chapter. Then we ate AMAZING AVOCADO SAUCE until we couldn’t move.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;But by far the coolest and most amazing thing about PyCon to me was this. After &lt;a href=&quot;https://www.youtube.com/watch?v=G-uKNd5TSBw&quot;&gt;Guido van Rossum’s keynote&lt;/a&gt; where he talked about getting more women to become core contributors, I had stopped paying attention because I have no interest in being a core contributor and the other half of the talk was about Python 3. As a beginner, I mostly use resources written for Python 2 so I don’t use 3. I had started daydreaming and looking at Twitter- which is how I felt for about half of the conference- when Q&amp;amp;A started, and a familiar voice started talking about how the goal shouldn&amp;#39;t be diversity for diversity&amp;#39;s sake, but because we value diverse perspectives. I looked up and there was &lt;a href=&quot;https://twitter.com/CultureClap&quot;&gt;@CultureClap&lt;/a&gt; saying exactly what we were talking about at dinner THE NIGHT BEFORE! I’M THE FRIEND! Something I said got amplified to thousands of people at my first PyCon. And it was incredible. Then &lt;a href=&quot;https://twitter.com/CultureClap&quot;&gt;@CultureClap&lt;/a&gt; and I high-fived. (The comment starts at 20:54)&lt;/p&gt;
+&lt;p&gt;But by far the coolest and most amazing thing about PyCon to me was this. After &lt;a href=&quot;https://www.youtube.com/watch?v=G-uKNd5TSBw&quot;&gt;Guido van Rossum’s keynote&lt;/a&gt; where he talked about getting more women to become core contributors, I had stopped paying attention because I have no interest in being a core contributor and the other half of the talk was about Python 3. As a beginner, I mostly use resources written for Python 2 so I don’t use 3. I had started daydreaming and looking at Twitter- which is how I felt for about half of the conference- when Q&amp;amp;A started, and a familiar voice started talking about how the goal shouldn&amp;#39;t be diversity for diversity&amp;#39;s sake, but because we value diverse perspectives. I looked up and there was &lt;a href=&quot;https://twitter.com/CultureClap&quot;&gt;@CultureClap&lt;/a&gt; saying exactly what we were talking about at dinner THE NIGHT BEFORE! I’M THE FRIEND! Something I said got amplified to thousands of people at my first PyCon. And it was incredible. We high-fived. (The comment starts at 20:54)&lt;/p&gt;
 
-&lt;p&gt;Overall, I liked the sessions that focused on cultural issues in tech or that were more general, but I struggled to find a balance because if something got too technical, I wouldn’t be able to follow. I don’t know if I would attend this conference again but I’m glad I went this time. People were very supportive and welcoming, but I don’t really know if it’s quite my thing.&lt;/p&gt;
+&lt;p&gt;Overall, I liked the sessions that focused on cultural issues in tech or that were more general, but I struggled to find a balance because if something got too technical, I wouldn’t be able to follow. I sort of felt like the event wasn&amp;#39;t really my thing. That said, people were very supportive and welcoming, and I found that many people were willing to talk about their struggles learning to program. I also really appreciated hearing from academics who use programming as a tool in their work; I think I am much closer to that than a developer or core contributor-type. &lt;/p&gt;
+
+&lt;p&gt;I think I&amp;#39;d like to go to the conference again but with a clearer idea of what kinds of people and sessions I want to seek out. This was a fun introduction!&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Learning to program is like...&lt;/em&gt;&lt;/p&gt;
 
@@ -530,7 +652,8 @@ Alicia Hofelich Mohr, Data Management Research Associate at University of Minnes
     
       <item>
         <title>PyLadies Galentine</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/2015/galentine_screenshot.png&quot; alt=&quot;Galentine Screenshot&quot;&gt;&lt;/p&gt;
+        <description>&lt;p&gt;A Galentine for PyLadies!
+&lt;img src=&quot;/images/2015/galentine_screenshot.png&quot; alt=&quot;Galentine Screenshot&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;As I talked about in the post on &lt;a href=&quot;/posts/2015-08-08-pyladies-cooking-code.md&quot;&gt;PyLadies: Cooking Code for Breakfast&lt;/a&gt;, I got to hang out with the PyLadies on &lt;a href=&quot;http://parksandrecreation.wikia.com/wiki/Galentine&amp;#x27;s_Day_(event)&quot;&gt;Galentine’s Day&lt;/a&gt;. While the holiday is actually February 13th, Saturday fell on the 14th (Valentine’s Day). Which was lovely, because at the co-op they had put out white tablecloths, candles, and roses on all the tables. I also brought a present to share for all the ladies! I had taken a class on Coursera from Rice University called &lt;a href=&quot;https://www.coursera.org/course/interactivepython1&quot;&gt;An Introduction to Interactive Programming in Python&lt;/a&gt;, and a couple of the games we learned to write were Pong and Memory (the card guessing game). I was looking for a way to use what I learned to make a fun project, so I decided to try and make a digital Galentine using Python.&lt;/p&gt;
 
@@ -545,6 +668,8 @@ Alicia Hofelich Mohr, Data Management Research Associate at University of Minnes
 &lt;p&gt;I really enjoyed learning about CodeSkulptor; it allowed us n00bs to do a lot of neat things without knowing much about how it worked at first. It was neat to understand it more as we learned in the class  as well; when we got to the lesson introducing classes, for example, the CodeSkulptor commands began to make more sense!&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;View and run the code for the Galentine in CodeSkultptor &lt;a href=&quot;http://www.codeskulptor.org/#user39_VKNSWzpQqC_1.py&quot;&gt;here&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;To play, hit the play button in the upper left corner of the screen, and then you can click the button that says &amp;quot;Happy Galentine&amp;#39;s Day to change the message. You can also type your name in the text box and hit &amp;quot;Enter&amp;quot; to personalize the Galentine.&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2&gt;Brainstorm&lt;/h2&gt;
 
@@ -715,47 +840,6 @@ frame.start()
         
         
         <category>projects</category>
-        
-      </item>
-    
-      <item>
-        <title>Career Exploration Trip- Twin Cities!</title>
-        <description>&lt;p&gt;As a member of the Student Relations Committee of the &lt;a href=&quot;https://www.hhh.umn.edu/our-leadership/alumni-board&quot;&gt;Humphrey School Alumni Board&lt;/a&gt;, I was part of the team that planned a Career Exploration Trip for the Twin Cities. Previously, trips were planned for current students to travel to DC and Chicago, meet alumni, and hear about their careers. Last year the Twin Cities was added. &lt;/p&gt;
-
-&lt;p&gt;The day consisted of three panels, categorized by sector: nonprofit, private, and government. We started at the YWCA in downtown Minneapolis, made our way to Target, and ended at Minneapolis Central Library. My colleague Sarah Berke and I planned the nonprofit panel. I stuck around for the whole day, and it was really great to hear about what some amazing alumni are doing now and the advice they had for current students. We had a great group of folks that volunteered their time to make a great event.&lt;/p&gt;
-
-&lt;p&gt;We ended with a reception planned by the Board’s Alumni Relations Committee.&lt;/p&gt;
-
-&lt;p&gt;July 18, 2015 Update: this trip won the 2015 University of Minnesota Alumni Association &amp;quot;Program Extraordinaire&amp;quot; Award!&lt;/p&gt;
-</description>
-        <pubDate>Thu, 15 Jan 2015 00:00:00 -0600</pubDate>
-        <link>http://yourdomain.com/community/2015/01/15/HHH-CET.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/community/2015/01/15/HHH-CET.html</guid>
-        
-        
-        <category>community</category>
-        
-      </item>
-    
-      <item>
-        <title>PyLadiesTC Beginner Cohort at PyMNtos</title>
-        <description>&lt;p&gt;You may recall that in June, I attended &lt;a href=&quot;http://opentwincities.org/events/2014/06/21/hack-for-mn-2014/&quot;&gt;Hack for MN 2014&lt;/a&gt; and there I met &lt;a href=&quot;https://twitter.com/DanaKE?lang=en&quot;&gt;Dana&lt;/a&gt;, co-founder of &lt;a href=&quot;http://www.meetup.com/PyLadiesTC/&quot;&gt;PyLadiesTC&lt;/a&gt; and got connected with the local PyLadies. At the recap event, &lt;a href=&quot;http://opentwincities.org/events/2014/07/08/hackd-for-mn-2014/&quot;&gt;Hack’d for MN&lt;/a&gt;, I met &lt;a href=&quot;https://twitter.com/CaroleJesse?lang=en&quot;&gt;Carole&lt;/a&gt; and learned that she was also interested in learning Python. So Carole and I teamed up in the fall (October) to become PyLady organizers ourselves, and organize a beginner cohort that would meet regularly to learn Python.&lt;/p&gt;
-
-&lt;p&gt;There were two classes that we decided to try on Coursera: University of Michigan’s &lt;a href=&quot;https://www.coursera.org/learn/python&quot;&gt;Programming for Everybody (Python)&lt;/a&gt;, and Rice University’s &lt;a href=&quot;https://www.coursera.org/course/interactivepython1&quot;&gt;An Introduction to Interactive Programming in Python&lt;/a&gt;. We met weekly on Saturday mornings, and three ladies finished each class. I finished the first one, and made it through week five (of eight) in the second one. &lt;/p&gt;
-
-&lt;p&gt;Fast-forward to December: I had the opportunity to present our Beginner Cohort to the local Python User Group, PyMNtos. Carole and I worked with our cohort to put together some slides, and I volunteered to share our triumphs and struggles with the group. Then we demonstrated the final game- called RiceRocks, it’s basically asteroides- for the group.&lt;/p&gt;
-
-&lt;p&gt;The presentation to PyMNtos was great- it was really nice to hear from a supportive audience about struggles that they had while to learn to code, and everyone agreed that having a cohort to meet regularly for a class was really helpful. We also shared some tips that we had each learned while taking Coursera classes- from discussing whether or not to try the forums to how to tell what kind of answer the quiz questions expect.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2014/pyladies-pymntos.png&quot; alt=&quot;Presentation&quot;&gt;
-&lt;em&gt;View presentation &lt;a href=&quot;https://docs.google.com/presentation/d/1TDmhvWi-V6Jf4zDjmRVOAD6hqjr7GTJJXK7Fc8kKNm0/pub?start=false&amp;amp;loop=false&amp;amp;delayms=3000&quot;&gt;here&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 11 Dec 2014 00:00:00 -0600</pubDate>
-        <link>http://yourdomain.com/community/2014/12/11/pyladies-beginner-cohort.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/community/2014/12/11/pyladies-beginner-cohort.html</guid>
-        
-        
-        <category>community</category>
         
       </item>
     
