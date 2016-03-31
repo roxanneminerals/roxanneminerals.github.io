@@ -44,7 +44,7 @@ Work with current Humphrey students as a mentor by attending mentor and student 
 
 Planned and hosted meetups and events for the local chapter of an international group of women who program in the Python language. Provide resources to help PyLadies learn, teach, and contribute to the tech community. Represented PyLadies on the organizing committee for Data^3, collaborative data event with PyMNtos and the R user group. Planned and led an Installfest for attendees to prepare for the event. Represented PyLadies TC at PyCon in April 2015.
 
-*Community Outreach Coordinator, Open Twin Cities    Feb. 2014 – June 2015*
+*Member-Organizer, Open Twin Cities    Feb. 2014 – June 2015*
 
 Attended meetups and events intended to help people collaboratively use and create technology for social good; focused on recruiting non-technical people and helping them find ways to contribute.
 Co-organized ClimateHack to bring together environmentalists, activists, and programmers (Sept 2015). Co-organized CycleHack Twin Cities to make cycling more sustainable (June 2015).
@@ -74,6 +74,7 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 
 ##Events Organized
 
+* Humphrey School Twin Cities Student Career Exploration Trip 1/14/16; [recap](/community/2016/01/14/CET-2016.html)
 * CycleHack Twin Cities 6/29/15; [recap](/community/2015/06/29/cyclehack.html)
 * PyLadies Cooking Code for Breakfast 1/31/15-5/9/15; [recap](/community/2015/05/09/pyladies-cooking-code.html)
 * Data Cubed 3/7/15; [recap](/community/2015/03/07/D3.html)
@@ -84,12 +85,15 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 
 ##Speaking Engagements
 
+* _Winter Cycling Congress_, Minneapolis MN, 2/2/16; [recap](/community/2016/02/04/WCC.html)
 * _PyLadies Beginner Cohort_, PyMNtos, Minneapolis MN, 12/11/14; [recap](/community/2014/12/11/pyladies-beginner-cohort.html)
 * _Open Twin Cities_, Minnesota Rising, Minneapolis MN, 11/15/14; [recap](/community/2014/11/15/mnrising.html)
 * _Combined Heat and Power: An Opportunity for U.S. Workers_, BlueGreen Alliance: Good Jobs, Green Jobs, Washington DC, 2/10/14
 
 ##Events Attended
 
+* Geo:Code 2.0, Minneapolis MN 3/5/16
+* Art Shanty Projects: Aurora Shanty, 2/16; [link](https://www.kickstarter.com/projects/706726178/the-aurora-shanty)
 * NerdCon: Stories, Minneapolis MN, 10/9/15
 * Inter Union Gas Conference, Las Vegas NV, 9/21/15
 * CodeWork Unconference, Minneapolis MN, 4/18/15; [recap](/community/2015/04/18/CodeWork.html)
@@ -120,4 +124,5 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 * National Science Teachers Association National Conference, Boston MA, 3/27/08
 * Community Technology Center Network Conference, Washington DC, 7/27/06
 * White House Project Go Run Training, Minneapolis MN, 5/20/06
+* AmeriCorps VISTA Leader Traning, 9/05
 
