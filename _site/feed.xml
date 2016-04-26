@@ -6,9 +6,76 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 30 Mar 2016 20:51:14 -0500</pubDate>
-    <lastBuildDate>Wed, 30 Mar 2016 20:51:14 -0500</lastBuildDate>
+    <pubDate>Mon, 25 Apr 2016 19:11:38 -0500</pubDate>
+    <lastBuildDate>Mon, 25 Apr 2016 19:11:38 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>I made a little zine adventure about building skills for data analysis</title>
+        <description>&lt;p&gt;&lt;em&gt;&lt;a href=&quot;/files/pycon_zine_print_4.25.16.pdf&quot;&gt;Go right to the zine&lt;/a&gt; (print it duplex, flipping on the long side, and then cut the pages in half horizontally. The pages should fold together in the correct order)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I attended &lt;a href=&quot;/community/2015/04/16/pycon.html&quot;&gt;my first PyCon&lt;/a&gt; last spring. I decided that if I were to go to that conference again, I would want to try something new that I hadn’t done the first time. I thought maybe I would like to try presenting something. A couple days before the submission deadline I discovered that they were accepting poster proposals. I threw one together for a project I’d been noodling on but wasn’t quite sure how to do, and it was accepted!&lt;/p&gt;
+
+&lt;p&gt;So now I have to finish my project. The idea I had been noodling on was creating some type of fun resource for others like me who are research and data people interested in learning to program. I’ve had a really challenging time and I wanted to think more deeply about why it has been so hard, and what might make it easier.&lt;/p&gt;
+
+&lt;p&gt;I had the opportunity to go to a prototyping workshop (&lt;a href=&quot;https://docs.google.com/document/d/1fVbyV4reuIX6nQv3h5WDDlh_wqJTD-pA3Se5J-si3YI/edit?usp=sharing&quot;&gt;notes are here&lt;/a&gt;) at &lt;a href=&quot;http://www.opentwincities.org/events/2016/01/29/geocode-2/&quot;&gt;Geo:Code 2.0&lt;/a&gt;, a local hackathon focused on geospatial data, so I used what I learned there to put together a problem and solution statement for my project. Here it is:&lt;/p&gt;
+
+&lt;h1&gt;Problem&lt;/h1&gt;
+
+&lt;p&gt;Non-programmers interested in learning programming as a tool to help them work with data need a way to identify appropriate learning resources because there’s so much out there it can be daunting.&lt;/p&gt;
+
+&lt;h1&gt;Solution&lt;/h1&gt;
+
+&lt;p&gt;My solution is an interactive resource like an internet quiz that:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Collects information on what/why learner wants to learn programming, learning preferences, and current experience&lt;/li&gt;
+&lt;li&gt;Recommends types of resources that might be helpful and ways to identify and locate them&lt;/li&gt;
+&lt;li&gt;Directs the learner to some actual example learning resources for learning Python and R&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My vision is that the tool gives you a place to start and some help to map out a path to get from where you are to where you want to be. Maybe some terms to google, some examples of types of things to look for, some guidance.&lt;/p&gt;
+
+&lt;p&gt;I read this statement to some folks at Geo:Code 2.0 as well as some data colleagues of mine to see what they thought and I refined it a little. Then I started trying to plan out the resource, but I realized that there were a lot of pieces and it was challenging to try and plan them all at once. I got stuck!&lt;/p&gt;
+
+&lt;p&gt;I was staring instead of working when I remembered that at PyCon last year, a local Montreal PyLady I met (&lt;a href=&quot;https://twitter.com/b0rk&quot;&gt;Julia&lt;/a&gt; gave me a copy of a &lt;a href=&quot;http://jvns.ca/blog/2015/04/14/strace-zine/&quot;&gt;technical zine she wrote about strace&lt;/a&gt;. I have no idea what strace is or why you would use it, but I love that she made a zine about it! I told her I owed her a zine, and I daydreamed about a zine exchange at PyCon for this year. I tried to write a zine about my experience at PyCon but never got very far.&lt;/p&gt;
+
+&lt;p&gt;In any case, this was all I needed- inspiration! I could make a zine that illustrates the problem that my project aims to address. I am still on a bumpy winding path to learning programming, and I want to create the resource that I didn’t have. What better way to start than to tell the story of my bumpy winding path!&lt;/p&gt;
+
+&lt;p&gt;So using my idea to create a “Choose Your Own Adventure” style thing, I made a little adventure zine about trying to build skills for data analysis. You can download the print version &lt;a href=&quot;/files/pycon_zine_print_4.25.16.pdf&quot;&gt;here&lt;/a&gt;. The zine walks through each of the things I’ve tried and explores the pros and cons I’ve experienced with the options. Some of the stories are embarrassingly true and unfortunately not exaggerated (like the one where I become an organizer of a local user group!).&lt;/p&gt;
+
+&lt;h1&gt;What I’m working on now&lt;/h1&gt;
+
+&lt;p&gt;Sharing this with anyone who’s interested, and hoping to gather feedback on two things: what challenges others have faced while trying to learn programming for data analysis, and what would be useful to go into the tool in terms of both content and structure.  I am planning to bring my zine to the Data Analysts for Social Good conference &lt;a href=&quot;http://www.dogooddata.com/&quot;&gt;Do Good Data&lt;/a&gt; in Chicago, as well as a local all-women hackathon &lt;a href=&quot;http://www.hackthegap.com/&quot;&gt;Hack the Gap&lt;/a&gt; here in Minneapolis.&lt;/p&gt;
+
+&lt;p&gt;Here’s the note I include at the end of the zine, reflecting on what some of the challenges I encountered are. If you are interested, please contact me! I would love to hear from you. You can email me at john3718@umn.edu or tweet me at &lt;a href=&quot;https://twitter.com/roxLjohnson&quot;&gt;@roxLjohnson&lt;/a&gt;. I hope you enjoy it! It was really fun to make :)&lt;/p&gt;
+
+&lt;p&gt;I’ll post an update after PyCon with what I ended up presenting at the poster session. I’m really looking forward to going to the conference with the purpose of hearing about learning tips from people who use Python all the time!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;About&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;There are so many cool things you can do to obtain, clean, analyze, explore, and visualize data if you know some programming. I&amp;#39;ve been a research analyst for about five years, and actively trying to learn Python and R for data analysis for about two years. I&amp;#39;ve found it extremely challenging and I&amp;#39;ve met many others with similar experiences. This zine is based on the true story of my own learning experience and aims to highlight some of the challenges I continue to face:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Not knowing where to start or what the big picture looks like; no clear view of what&amp;#39;s possible or a map of how to get there&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The vast number of resources is daunting; it is difficult to find resources that are both at my skill level and relevant to what I want to learn&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Not knowing what I don&amp;#39;t know- lacking the awareness that I don&amp;#39;t understand a core concept, and not being able to articulate questions or search terms&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Many resources are intended for people who are or want to become developers or professional programmers, which isn’t me&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;I don’t feel like I fit anywhere- other researchers may not know about programming, people who regularly work with data in Python sometimes Excel-shame me, and programmers tell me that learning Python is easy&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Reflecting on my experience and talking to other data people about their challenges, I decided to create a tool that will help data people start to explore the world of programming for data analysis. The tool starts with an assessment of why you want to learn programming, what your current skills are, and how you like to learn. It will then recommend ways to find relevant resources and direct you to some examples of actual resources.&lt;/p&gt;
+
+&lt;p&gt;I am looking for stories of other data people working to learn programming, and also feedback on the development of my tool! If you are interested, let me know!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Apr 2016 00:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/notes/2016/04/25/zine.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/notes/2016/04/25/zine.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
     
       <item>
         <title>CycleHack at the Winter Cycling Congress</title>
@@ -89,7 +156,7 @@ Delay: a delay is unexpected and you can’t anticipate it, like bad weather gro
     
       <item>
         <title>Humphrey School Career Exploration Twin Cities Trip: 2016</title>
-        <description>&lt;p&gt;As part of my role on the Student Relations Committee of the Humphrey School Alumni Board, I helped organize the Career Exploration Trip: Twin Cities again this year. This is my second time being involved with this trip (&lt;a href=&quot;/community/2015/01/15/HHH-CET.html&quot;&gt;last year&lt;/a&gt; we won an award! This year, instead of categorizing the panels by sector like we did last year (government, non-profit, private), we decided to use topics: housing, communications, and society. We also decided that committee members would moderate the panels; I moderated the society panel. Our goals for the trip are for current students to hear from alumni about their career path from graduation to their current job, for students to network with alums and each other, and for alumni to maintain a connection to the school by participating in an event. I think it’s also a fun opportunity for alums to get to know each other and reflect on their Humphrey School experience.&lt;/p&gt;
+        <description>&lt;p&gt;As part of my role on the Student Relations Committee of the Humphrey School Alumni Board, I helped organize the Career Exploration Trip: Twin Cities again this year. This is my second time being involved with this trip (&lt;a href=&quot;/community/2015/01/15/HHH-CET.html&quot;&gt;last year&lt;/a&gt; we won an award!). This year, instead of categorizing the panels by sector like we did last year (government, non-profit, private), we decided to use topics: housing, communications, and society. We also decided that committee members would moderate the panels; I moderated the society panel. Our goals for the trip are for current students to hear from alumni about their career path from graduation to their current job, for students to network with alums and each other, and for alumni to maintain a connection to the school by participating in an event. I think it’s also a fun opportunity for alums to get to know each other and reflect on their Humphrey School experience.&lt;/p&gt;
 
 &lt;p&gt;The whole day was a fun trip for me. The alumni that participated all did really different jobs but there were some great kernels of wisdom that emerged. I think everyone had a fun time getting together to talk about their path from the Humphrey School to what they’re doing now. After the society panel, since we were at Met Council, several other Humphrey alums who work there came for a meet and greet to chat with students. I would love to see this happen again because a day of three consecutive panels gets to be monotonous and I think the students really enjoyed the opportunity to get up, mill around, and chat one-on-one or in small groups with alumni in a more informal setting. Since each alum introduced themselves briefly, students could target individual people they wanted to meet.&lt;/p&gt;
 
@@ -704,68 +771,6 @@ example of a gender-swapped Sherlock who amazingly as a woman can be just as muc
         <pubDate>Thu, 16 Apr 2015 00:00:00 -0500</pubDate>
         <link>http://yourdomain.com/community/2015/04/16/yqdio-bookclub.html</link>
         <guid isPermaLink="true">http://yourdomain.com/community/2015/04/16/yqdio-bookclub.html</guid>
-        
-        
-        <category>community</category>
-        
-      </item>
-    
-      <item>
-        <title>PyCon 2015</title>
-        <description>&lt;p&gt;Thanks to a financial aid grant from the &lt;a href=&quot;https://www.python.org/psf/&quot;&gt;Python Software Foundation&lt;/a&gt; through national &lt;a href=&quot;http://www.pyladies.com/&quot;&gt;PyLadies&lt;/a&gt;, I was able to represent &lt;a href=&quot;http://www.meetup.com/PyLadiesTC/&quot;&gt;PyLadiesTC&lt;/a&gt; at &lt;a href=&quot;https://us.pycon.org/2015/&quot;&gt;PyCon 2015&lt;/a&gt; in Montreal!&lt;/p&gt;
-
-&lt;p&gt;My goals for attending, which I wrote in my financial aid application, were: first, to get hyped about Python. Second, to network with other organizers of user groups, particularly PyLadies- we are a new chapter and have much to learn. The third goal was to collect resources for beginners and gain a clearer vision of Python&amp;#39;s potential applications for other non-programming professionals like myself that don’t necessarily want to be developers but can benefit enormously from knowing some code to improve their work.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Open spaces: Feminist Hackerspace (with knitting instruction)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2015/pycon-feminist-hackerspace.jpg&quot; alt=&quot;Feminist Hacking Space&quot;/&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Reading PDFs!&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2015/pycon-pdf-parse.jpg&quot; alt=&quot;PDF Parsing&quot;/&gt;&lt;/p&gt;
-
-&lt;p&gt;I definitely got hyped, I met some amazing PyLadies at a PyLadies lunch and through volunteering at the PyLadies booth, and I did learn about a lot of resources. The whole conference was a little overwhelming, so I’ll just jot down some highlights. Maybe later I can write more about conversations I had and people I met.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2015/pycon-pyladies-lunch.jpg&quot; alt=&quot;PyLadies Lunch&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;First, I arrived a day late because of weather in Chicago. When I left the Montreal airport it was pouring rain, and my bus driver only spoke French. When I (finally) got to the conference center, I shoved food in my face and then went to meet up with &lt;a href=&quot;https://twitter.com/DanaKE?lang=en&quot;&gt;Dana&lt;/a&gt;, who was chatting with Catherine, a PyLady from Ohio. Then we were joined by &lt;a href=&quot;https://twitter.com/gvanrossum&quot;&gt;Guido van Rossum&lt;/a&gt;, who started talking with us about his upcoming keynote in which he was planning to discuss the lack of women who are core contributors to Python. That was a hell of an introduction to this conference! &lt;/p&gt;
-
-&lt;p&gt;After I settled in I was able to familiarize myself with the Palais des congrès de Montréal, where the conference was held. There was some debate over whether these pillars look like trees, or blood vessels.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Trees, or blood vessels?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2015/pycon-convention-center.jpg&quot; alt=&quot;Trees, or blood vessels?&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Beautiful windows&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2015/pycon-convention-center2.jpg&quot; alt=&quot;Conference Center&quot;/&gt;&lt;/p&gt;
-
-&lt;p&gt;Some highlights from the conference:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;I met a Chicago PyLady &lt;a href=&quot;https://twitter.com/loooorenanicole&quot;&gt;Lorena&lt;/a&gt; who told me about the &lt;a href=&quot;http://www.dogooddata.com/&quot;&gt;Do Good Data&lt;/a&gt; conference and the &lt;a href=&quot;http://dataanalystsforsocialgood.com/&quot;&gt;Data Analysts for Social Good&lt;/a&gt;, which I hope to join someday.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;I met another beginner who had come to the conference with her husband and I was able to share some of the resources that PyLadiesTC put together for learning.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;I got to see a former Minneapolis PyLady who was attending a coding bootcamp in Seattle! I met her classmates and we went out for dinner.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;I chatted with a guy from Germany about diversity in tech, and he came and found me later to make sure that I had seen the &lt;a href=&quot;https://www.youtube.com/watch?v=hIJdFxYlEKE&quot;&gt;keynote by Jacob Kaplan Moss&lt;/a&gt; about mediocre programmers (which is excellent and you should go watch it!).&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;There were tons of free t-shirts.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;I got a &lt;a href=&quot;http://jvns.ca/blog/2015/04/14/strace-zine/&quot;&gt;zine&lt;/a&gt; about &lt;a href=&quot;http://linux.die.net/man/1/strace&quot;&gt;strace&lt;/a&gt; from Montreal PyLady &lt;a href=&quot;https://twitter.com/b0rk&quot;&gt;Julia&lt;/a&gt;, who is AWESOME. Then I talked to several PyLadies about setting up a technical zine exchange. I hope this happens!!! I&amp;#39;m still working on mine...&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;I also met another Minneapolis PyLady in Montreal at the PyLadies Lunch!! She came to one of our local events after that!&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;I went up to Arepera du Plateau with &lt;a href=&quot;https://twitter.com/maestrofjp&quot;&gt;Peter&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/CultureClap&quot;&gt;@CultureClap&lt;/a&gt;, and Aaron. Among other things, we had a great discussion where I mentioned that I think the goal shouldn’t be “to have diversity” in tech, but rather to value diversity for diverse perspectives. We talk about this alot in our local PyLadies chapter. Then we ate AMAZING AVOCADO SAUCE until we couldn’t move.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;But by far the coolest and most amazing thing about PyCon to me was this. After &lt;a href=&quot;https://www.youtube.com/watch?v=G-uKNd5TSBw&quot;&gt;Guido van Rossum’s keynote&lt;/a&gt; where he talked about getting more women to become core contributors, I had stopped paying attention because I have no interest in being a core contributor and the other half of the talk was about Python 3. As a beginner, I mostly use resources written for Python 2 so I don’t use 3. I had started daydreaming and looking at Twitter- which is how I felt for about half of the conference- when Q&amp;amp;A started, and a familiar voice started talking about how the goal shouldn&amp;#39;t be diversity for diversity&amp;#39;s sake, but because we value diverse perspectives. I looked up and there was &lt;a href=&quot;https://twitter.com/CultureClap&quot;&gt;@CultureClap&lt;/a&gt; saying exactly what we were talking about at dinner THE NIGHT BEFORE! I’M THE FRIEND! Something I said got amplified to thousands of people at my first PyCon. And it was incredible. We high-fived. (The comment starts at 20:54)&lt;/p&gt;
-
-&lt;p&gt;Overall, I liked the sessions that focused on cultural issues in tech or that were more general, but I struggled to find a balance because if something got too technical, I wouldn’t be able to follow. I sort of felt like the event wasn&amp;#39;t really my thing. That said, people were very supportive and welcoming, and I found that many people were willing to talk about their struggles learning to program. I also really appreciated hearing from academics who use programming as a tool in their work; I think I am much closer to that than a developer or core contributor-type. &lt;/p&gt;
-
-&lt;p&gt;I think I&amp;#39;d like to go to the conference again but with a clearer idea of what kinds of people and sessions I want to seek out. This was a fun introduction!&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Learning to program is like...&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2015/pycon-owl.jpg&quot; alt=&quot;Learning to Program&quot;/&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 16 Apr 2015 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/community/2015/04/16/pycon.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/community/2015/04/16/pycon.html</guid>
         
         
         <category>community</category>
