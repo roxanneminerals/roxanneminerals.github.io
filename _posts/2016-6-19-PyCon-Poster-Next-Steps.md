@@ -28,6 +28,6 @@ I have decided that the next step for me is to put my poster content into a repo
 
 I am inspired and motivated by all the great conversations I've had along the way while working on this thing, and I appreciate the time and thought of each person willing to talk with me about it. If you want to talk (more), email or tweet me! 
 
-john3718[at]umn.edu 
+theroxjohnson[at]gmail.com 
 
 @roxLjohnson
