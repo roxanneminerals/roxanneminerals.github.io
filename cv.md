@@ -17,7 +17,6 @@ Conduct research and analysis on clean energy, manufacturing, transportation, an
 
 Created support materials for models used by GPI to help users understand impacts of energy and transportation policies. Created a wiki site providing documentation for GPI’s Energy Choice Simulator and presented on simulation results at REAMP Annual Meeting, Chicago IL, 8/3/10; prototyped a simplified user interface for the Greenhouse Gases, Regulated Emissions, and Energy Use in Transportation (GREET) model using [Forio Simulate](https://forio.com/simulate/showcase#orderbyperiodruncount=desc&staffPick=true).
 
-
 *Program Coordinator, Digital Divide Initiative    Feb. 2008 – July 2009, Minneapolis MN*
 
 Developed curriculum and workshop materials to teach young people science and technology, more broadly supported efforts to bridge the digital divide in North Minneapolis.
@@ -40,11 +39,11 @@ Serve on the Student Relations committee that works to plan events for current s
 
 Work with current Humphrey students as a mentor by attending mentor and student events, meeting individually with students, and providing resources and connections.
 
-*Co-organizer, PyLadies Twin Cities    Sept. 2014 – June 2015*
+*PyLadies Twin Cities    Sept. 2014 - present*
 
 Planned and hosted meetups and events for the local chapter of an international group of women who program in the Python language. Provide resources to help PyLadies learn, teach, and contribute to the tech community. Represented PyLadies on the organizing committee for Data^3, collaborative data event with PyMNtos and the R user group. Planned and led an Installfest for attendees to prepare for the event. Represented PyLadies TC at PyCon in April 2015.
 
-*Member-Organizer, Open Twin Cities    Feb. 2014 – June 2015*
+*Open Twin Cities    Feb. 2014 – present*
 
 Attended meetups and events intended to help people collaboratively use and create technology for social good; focused on recruiting non-technical people and helping them find ways to contribute.
 Co-organized ClimateHack to bring together environmentalists, activists, and programmers (Sept 2015). Co-organized CycleHack Twin Cities to make cycling more sustainable (June 2015).
@@ -85,6 +84,8 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 
 ##Speaking Engagements
 
+* _PyCon 2016 Poster Session: preview and recap_, PyMNtos, Minneapolis MN, 5/12/16 and 6/9/16
+* _PyCon 2016: Poster Session_, Portland OR, 6/1/16; [recap](/community/2016/06/05/pycon2016.html)
 * _Winter Cycling Congress_, Minneapolis MN, 2/2/16; [recap](/community/2016/02/04/WCC.html)
 * _PyLadies Beginner Cohort_, PyMNtos, Minneapolis MN, 12/11/14; [recap](/community/2014/12/11/pyladies-beginner-cohort.html)
 * _Open Twin Cities_, Minnesota Rising, Minneapolis MN, 11/15/14; [recap](/community/2014/11/15/mnrising.html)
@@ -92,6 +93,9 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 
 ##Events Attended
 
+* CodeSwitch Civic Hackathon, Minneapolis MN; 6/4/16
+* PyCon 2016, Portland OR 5/30/16
+* Do Good Data, Chicago IL; 4/27/16
 * Geo:Code 2.0, Minneapolis MN 3/5/16
 * Art Shanty Projects: Aurora Shanty, 2/16; [link](https://www.kickstarter.com/projects/706726178/the-aurora-shanty)
 * NerdCon: Stories, Minneapolis MN, 10/9/15
