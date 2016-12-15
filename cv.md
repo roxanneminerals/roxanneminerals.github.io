@@ -61,7 +61,7 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 
 ##Publications
 
-* [Plugging the Leaks:Protecting Workers, Reducing Pollution, and Creating Quality Jobs by Reducing Methane Waste in the U.S. Oil and Gas Industry](https://www.bluegreenalliance.org/resources/plugging-the-leaks/) 9/22/16
+* [Plugging the Leaks: Protecting Workers, Reducing Pollution, and Creating Quality Jobs by Reducing Methane Waste in the U.S. Oil and Gas Industry](https://www.bluegreenalliance.org/resources/plugging-the-leaks/) 9/22/16
 * [Taking Stock: Opportunities and Challenges in Indiana’s Natural Gas Distribution System](http://www.bluegreenalliance.org/news/publications/taking-stock-opportunities-and-challenges-in-indianas-natural-gas-distribution-system) 9/30/15
 * [Passenger Rail & Transit Rail Manufacturing in the U.S.](http://www.bluegreenalliance.org/news/publications/document/PassengerRailTransitRailManufacturing.pdf) (Contributor) 1/30/15
 * [Climate Works for All: A Platform for Reducing Emissions, Protecting Our Communities, and Creating Good Jobs for New Yorkers](http://www.bluegreenalliance.org/news/latest/nyc-can-create-nearly-40000-jobs-a-year-addressing-climate-change) 11/18/14
