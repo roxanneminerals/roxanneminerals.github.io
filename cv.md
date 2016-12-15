@@ -9,9 +9,13 @@ I am interested in how we learn, understand, and share information with one anot
 
 ##Professional Experience
 
-*Research Analyst, BlueGreen Alliance Foundation    Dec. 2010 - Present, Minneapolis MN*
+*Research Analyst, BlueGreen Alliance Foundation    Sept. 2012 - Present, Minneapolis MN*
 
-Conduct research and analysis on clean energy, manufacturing, transportation, and infrastructure systems. Communicate findings with members and allies through reports, factsheets, maps, charts, official stakeholder comments, and compelling case studies. Propose, plan, implement, and manage research projects that support work of colleagues and partners. Collaborate with staff across departments including Development, Communications, Field, and Legislative and Policy.
+Work to identify opportunities to reduce pollution and greenhouse gas emissions while building a clean energy economy. Lead the organization’s efforts to strategically incorporate research and data into BGA/F work. Work across departments to support organizational initiatives and to help establish the organization as a national expert in all areas of work. Help various audiences understand complex issues including the staff, BGA/F partners and allies, funders, and the public.Tasks include managing research and data projects, writing documents such as papers, factsheets, memos, and issue briefs, and communicating findings in the form of charts, dashboards, and visualizations.
+
+*Market Research Associate, BlueGreen Alliance Foundation    Dec. 2010 - Sept. 2012, Minneapolis MN*
+
+Conduct research and analysis to support BlueGreen Alliance campaigns and programs, particularly those associated with the Clean Energy Manufacturing Center (CEMC). 
 
 *Research Associate, Great Plains Institute    Feb. 2010 – Nov. 2010, Minneapolis MN*
 
