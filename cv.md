@@ -85,7 +85,7 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 
 ##Speaking Engagements
 
-* _A Brief Introduction to Python Programming_, FARCON, Minneapolis MN, 8/24/16; [description](http://minneanalytics.org/farcon/schedule/)
+* _A Brief Introduction to Python Programming_, FARCON, Minneapolis MN, 8/24/16; [description](http://sched.co/7zA7)
 * _PyCon 2016 Poster Session: preview and recap_, PyMNtos, Minneapolis MN, 5/12/16 and 6/9/16
 * _PyCon 2016: Poster Session_, Portland OR, 6/1/16; [recap](/community/2016/06/05/pycon2016.html)
 * _Winter Cycling Congress_, Minneapolis MN, 2/2/16; [recap](/community/2016/02/04/WCC.html)
