@@ -61,6 +61,7 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 
 ##Publications
 
+* [Plugging the Leaks:Protecting Workers, Reducing Pollution, and Creating Quality Jobs by Reducing Methane Waste in the U.S. Oil and Gas Industry](https://www.bluegreenalliance.org/resources/plugging-the-leaks/) 9/22/16
 * [Taking Stock: Opportunities and Challenges in Indiana’s Natural Gas Distribution System](http://www.bluegreenalliance.org/news/publications/taking-stock-opportunities-and-challenges-in-indianas-natural-gas-distribution-system) 9/30/15
 * [Passenger Rail & Transit Rail Manufacturing in the U.S.](http://www.bluegreenalliance.org/news/publications/document/PassengerRailTransitRailManufacturing.pdf) (Contributor) 1/30/15
 * [Climate Works for All: A Platform for Reducing Emissions, Protecting Our Communities, and Creating Good Jobs for New Yorkers](http://www.bluegreenalliance.org/news/latest/nyc-can-create-nearly-40000-jobs-a-year-addressing-climate-change) 11/18/14
@@ -84,6 +85,7 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 
 ##Speaking Engagements
 
+* _A Brief Introduction to Python Programming_, FARCON, Minneapolis MN, 8/24/16; [description](http://minneanalytics.org/farcon/schedule/)
 * _PyCon 2016 Poster Session: preview and recap_, PyMNtos, Minneapolis MN, 5/12/16 and 6/9/16
 * _PyCon 2016: Poster Session_, Portland OR, 6/1/16; [recap](/community/2016/06/05/pycon2016.html)
 * _Winter Cycling Congress_, Minneapolis MN, 2/2/16; [recap](/community/2016/02/04/WCC.html)
@@ -93,6 +95,7 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 
 ##Events Attended
 
+* Drupal Camp, Minneapolis MN; 6/24/16
 * CodeSwitch Civic Hackathon, Minneapolis MN; 6/4/16
 * PyCon 2016, Portland OR 5/30/16
 * Do Good Data, Chicago IL; 4/27/16
