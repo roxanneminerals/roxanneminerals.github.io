@@ -37,7 +37,7 @@ Completed three years of community service through the National Civilian Communi
 
 *Board Member, Humphrey School of Public Affairs Alumni Board     Sept. 2014 – present*
 
-Serve on the Student Relations committee that works to plan events for current students, support the mentor program, and assist school staff with recruitment and other activities.
+Previous service on the Student Relations committee, currently serve on the Alumni Relations committee.
 
 *Alumna Mentor- Humphrey School of Public Affairs     Sept. 2012 - present*
 
@@ -72,8 +72,8 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 * [Minnesota Natural Gas Distribution Pipeline Project](http://www.bluegreenalliance.org/news/latest/minnesota-natural-gas-distribution-pipeline-project) 10/31/14 (Uncredited)
 * [Making the Grade: How Investments in America’s Infrastructure Benefit Our Economy and Environment](https://www.bluegreenalliance.org/resources/makingthegrade/)  10/24/14
 * [Competing to Win: Spurring Industrial Energy Efficiency in Minnesota](http://www.bluegreenalliance.org/news/publications/competing-to-win) 6/26/14 (Uncredited)
-* Repair America: State Reports 11/13-6/14 (Uncredited)
-* [Clean Energy Transition Policy Inventory](https://www.bgafoundation.org/news/clean-energy-transition-policy-inventory-for-in-kt-oh-tn-va-wv/)
+* Repair America: State Reports for [Minnesota](https://www.bluegreenalliance.org/resources/repair-minnesota-creating-good-jobs-while-preparing-our-systems-for-climate-change/), [Michigan](https://www.bluegreenalliance.org/resources/repair-michigan-creating-good-jobs-while-preparing-our-infrastructure-for-climate-change/), [Ohio](https://www.bluegreenalliance.org/resources/repair-ohio-creating-good-jobs-while-preparing-our-infrastructure-for-climate-change/), [Washington](https://www.bluegreenalliance.org/resources/report-repair-washington-creating-good-jobs-strengthening-infrastructure-and-building-climate-solutions/). 11/13-6/14 (Uncredited)
+* [Clean Energy Transition Policy Inventory](https://www.bgafoundation.org/news/clean-energy-transition-policy-inventory-for-in-kt-oh-tn-va-wv/) 8/13
 * [Rhetoric and System Dynamics Modeling of Nano Zero Valent Iron (nZVI) for Water Pollution Remediation: A Case Study](https://conservancy.umn.edu/handle/11299/92716) 5/25/10 (Graduate Thesis: Plan B paper)
 
 ##Events Organized
