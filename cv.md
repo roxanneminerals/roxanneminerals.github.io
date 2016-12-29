@@ -45,12 +45,12 @@ Work with current Humphrey students as a mentor by attending mentor and student 
 
 *PyLadies Twin Cities    Sept. 2014 - present*
 
-Planned and hosted meetups and events for the local chapter of an international group of women who program in the Python language. Provide resources to help PyLadies learn, teach, and contribute to the tech community. Represented PyLadies on the organizing committee for Data^3, collaborative data event with PyMNtos and the R user group. Planned and led an Installfest for attendees to prepare for the event. Represented PyLadies TC at PyCon in April 2015.
+Planned and hosted meetups and events for the local chapter of an international group of women who program in the Python language. Provide resources to help PyLadies learn, teach, and contribute to the tech community. Represented PyLadies on the organizing committee for Data^3, collaborative data event with PyMNtos and the R user group. Planned and led an Installfest for attendees to prepare for the event. Represented PyLadies TC at PyCon in April 2015. Presented a poster at PyCon in May 2016.
 
 *Open Twin Cities    Feb. 2014 – present*
 
 Attended meetups and events intended to help people collaboratively use and create technology for social good; focused on recruiting non-technical people and helping them find ways to contribute.
-Co-organized ClimateHack to bring together environmentalists, activists, and programmers (Sept 2015). Co-organized CycleHack Twin Cities to make cycling more sustainable (June 2015).
+Co-organized ClimateHack to bring together environmentalists, activists, and programmers (Sept 2015). Co-organized CycleHack Twin Cities to make cycling more sustainable (June 2015). Presented CycleHack at the Winter Cycling Congress in Feb. 2016.
 
 ##Education
 
@@ -67,13 +67,13 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 
 * [Plugging the Leaks: Protecting Workers, Reducing Pollution, and Creating Quality Jobs by Reducing Methane Waste in the U.S. Oil and Gas Industry](https://www.bluegreenalliance.org/resources/plugging-the-leaks/) 9/22/16
 * [Taking Stock: Opportunities and Challenges in Indiana’s Natural Gas Distribution System](http://www.bluegreenalliance.org/news/publications/taking-stock-opportunities-and-challenges-in-indianas-natural-gas-distribution-system) 9/30/15
-* [Passenger Rail & Transit Rail Manufacturing in the U.S.](http://www.bluegreenalliance.org/news/publications/document/PassengerRailTransitRailManufacturing.pdf) (Contributor) 1/30/15
+* [Passenger Rail & Transit Rail Manufacturing in the U.S.](https://www.bluegreenalliance.org/resources/passenger-rail-transit-rail-manufacturing-in-the-u-s/) (Contributor) 1/30/15
 * [Climate Works for All: A Platform for Reducing Emissions, Protecting Our Communities, and Creating Good Jobs for New Yorkers](http://www.bluegreenalliance.org/news/latest/nyc-can-create-nearly-40000-jobs-a-year-addressing-climate-change) 11/18/14
 * [Minnesota Natural Gas Distribution Pipeline Project](http://www.bluegreenalliance.org/news/latest/minnesota-natural-gas-distribution-pipeline-project) 10/31/14 (Uncredited)
-* [Making the Grade: How Investments in America’s Infrastructure Benefit Our Economy and Environment](http://www.bluegreenalliance.org/news/publications/report-making-the-grade)  10/24/14
+* [Making the Grade: How Investments in America’s Infrastructure Benefit Our Economy and Environment](https://www.bluegreenalliance.org/resources/makingthegrade/)  10/24/14
 * [Competing to Win: Spurring Industrial Energy Efficiency in Minnesota](http://www.bluegreenalliance.org/news/publications/competing-to-win) 6/26/14 (Uncredited)
-* [Repair America: State Reports](http://www.bluegreenalliance.org/repair/repair-america-fact-sheets) 11/13-6/14 (Uncredited)
-* [Clean Energy Transition Policy Inventory](http://www.thecemc.org/body/CleanEnergyTransitionInventory-FINAL-8_2013.pdf) 8/1/13 (Uncredited)
+* Repair America: State Reports 11/13-6/14 (Uncredited)
+* [Clean Energy Transition Policy Inventory](https://www.bgafoundation.org/news/clean-energy-transition-policy-inventory-for-in-kt-oh-tn-va-wv/)
 * [Rhetoric and System Dynamics Modeling of Nano Zero Valent Iron (nZVI) for Water Pollution Remediation: A Case Study](https://conservancy.umn.edu/handle/11299/92716) 5/25/10 (Graduate Thesis: Plan B paper)
 
 ##Events Organized
