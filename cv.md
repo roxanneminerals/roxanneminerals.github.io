@@ -11,15 +11,19 @@ I am interested in how we learn, understand, and share information with one anot
 
 *Research Analyst, BlueGreen Alliance Foundation    Sept. 2012 - Present, Minneapolis MN*
 
-Work to identify opportunities to reduce pollution and greenhouse gas emissions while building a clean energy economy. Lead the organization’s efforts to strategically incorporate research and data into BGA/F work. Work across departments to support organizational initiatives and to help establish the organization as a national expert in all areas of work. Help various audiences understand complex issues including the staff, BGA/F partners and allies, funders, and the public.Tasks include managing research and data projects, writing documents such as papers, factsheets, memos, and issue briefs, and communicating findings in the form of charts, dashboards, and visualizations.
+Work to identify opportunities to reduce pollution and greenhouse gas emissions while building a clean energy economy. Lead the organization’s Research Team in efforts to strategically incorporate research and data into BGA/F work. Work across departments to support organizational initiatives and to help establish the organization as a national expert in all areas of work. Help various audiences understand complex issues including the staff, BGA/F partners and allies, funders, and the public. Tasks include managing research and data projects, writing documents such as papers, factsheets, memos, and issue briefs, and communicating findings in the form of charts, dashboards, and visualizations.
 
 *Market Research Associate, BlueGreen Alliance Foundation    Dec. 2010 - Sept. 2012, Minneapolis MN*
 
-Conduct research and analysis to support BlueGreen Alliance campaigns and programs, particularly those associated with the Clean Energy Manufacturing Center (CEMC). 
+Conducted research and analysis to support BlueGreen Alliance campaigns and programs, particularly those associated with the Clean Energy Manufacturing Center (CEMC). 
 
 *Research Associate, Great Plains Institute    Feb. 2010 – Nov. 2010, Minneapolis MN*
 
 Created support materials for models used by GPI to help users understand impacts of energy and transportation policies. Created a wiki site providing documentation for GPI’s Energy Choice Simulator and presented on simulation results at REAMP Annual Meeting, Chicago IL, 8/3/10; prototyped a simplified user interface for the Greenhouse Gases, Regulated Emissions, and Energy Use in Transportation (GREET) model using [Forio Simulate](https://forio.com/simulate/showcase#orderbyperiodruncount=desc&staffPick=true).
+
+*Graduate Research Assistant    July 2009 – May 2010*
+
+Conducted a research project focused on the technical, social, political, and economic factors of deployment of nano zero valent iron (nZVI) technology for water pollution remediation. Work included contributing to development of a system dynamics map of the system of this emerging technology.
 
 *Program Coordinator, Digital Divide Initiative    Feb. 2008 – July 2009, Minneapolis MN*
 
