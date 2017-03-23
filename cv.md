@@ -139,5 +139,5 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 * National Science Teachers Association National Conference, Boston MA, 3/27/08
 * Community Technology Center Network Conference, Washington DC, 7/27/06
 * White House Project Go Run Training, Minneapolis MN, 5/20/06
-* AmeriCorps VISTA Leader Traning, 9/05
+* AmeriCorps VISTA Leader Training, 9/05
 
