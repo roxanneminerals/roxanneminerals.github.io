@@ -21,7 +21,7 @@ Conducted research and analysis to support BlueGreen Alliance campaigns and prog
 
 Created support materials for models used by GPI to help users understand impacts of energy and transportation policies. Created a wiki site providing documentation for GPI’s Energy Choice Simulator and presented on simulation results at REAMP Annual Meeting, Chicago IL, 8/3/10; prototyped a simplified user interface for the Greenhouse Gases, Regulated Emissions, and Energy Use in Transportation (GREET) model using [Forio Simulate](https://forio.com/simulate/showcase#orderbyperiodruncount=desc&staffPick=true).
 
-*Graduate Research Assistant    July 2009 – May 2010*
+*Graduate Research Assistant, University of Minnesota Humphrey School of Public Affairs    July 2009 – May 2010, Minneapolis MN*
 
 Conducted a research project focused on the technical, social, political, and economic factors of deployment of nano zero valent iron (nZVI) technology for water pollution remediation. Work included contributing to development of a system dynamics map of the system of this emerging technology.
 
