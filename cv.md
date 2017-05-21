@@ -3,11 +3,11 @@ layout: cv
 title:  "CV"
 ---
 
-##Summary
+## Summary
 
 I am interested in how we learn, understand, and share information with one another, and how we can work together using that information to create a future in which we all want to live. I am particularly interested in exploring the role and tools of technology to take on this task.
 
-##Professional Experience
+## Professional Experience
 
 *Senior Research Analyst, BlueGreen Alliance Foundation    May 2017 - Present, Minneapolis MN*
 
@@ -43,7 +43,7 @@ Managed and implemented council programs for girls on topics including the Gold 
 
 Completed three years of community service through the National Civilian Community Corps (NCCC), the Community Technology Empowerment Project (CTEP), and a Vista Leadership position with the Community Technology Center (CTC) VISTA program. CTEP work focused on empowering young people and adults with technology skills; the VISTA Leader program included training in corps development to support AmeriCorps members in their service.
 
-##Community
+## Community
 
 *Board Member, Humphrey School of Public Affairs Alumni Board     Sept. 2014 – present*
 
@@ -55,7 +55,7 @@ Work with current Humphrey students as a mentor by attending mentor and student 
 
 *Member, Data Analysts for Social Good    Feb. 2016 - Present
 
-Global community of hundreds of social sector data professionals
+Global community of social sector data professionals
 
 *PyLadies Twin Cities    Sept. 2014 - May 2015*
 
@@ -66,7 +66,7 @@ Planned and hosted meetups and events for the local chapter of an international 
 Attended meetups and events intended to help people collaboratively use and create technology for social good; focused on recruiting non-technical people and helping them find ways to contribute.
 Co-organized ClimateHack to bring together environmentalists, activists, and programmers (Sept 2015). Co-organized CycleHack Twin Cities to make cycling more sustainable (June 2015). Presented CycleHack at the Winter Cycling Congress in Feb. 2016.
 
-##Education
+## Education
 
 *Master of Science in Science, Technology and Environmental Policy from the Humphrey School of Public Affairs at the University of Minnesota in Minneapolis MN, May 2010*
 
@@ -77,7 +77,7 @@ Coursework in policy analysis, scientific communication and data display, energy
 
 Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathematical Association of America (MAA) Northland College Chapter Vice President, 2001-2003
 
-##Publications
+## Publications
 
 * [Minnesota Transit Manufacturing Fact Sheet and Map](https://www.bluegreenalliance.org/resources/minnesota-transit-manufacturing-fact-sheet-and-map/) 5/4/17 (Uncredited contributor; management of data collection)
 * [Preview: Supplying Ingenuity II: U.S. Suppliers of Key Clean, Fuel-Efficient Vehicle Technologies](https://www.bluegreenalliance.org/resources/preview-of-supplying-ingenuity-ii/) 12/21/16 (Uncredited contributor; management of data collection)
@@ -95,7 +95,7 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 * [Clean Energy Transition Policy Inventory](https://www.bgafoundation.org/news/clean-energy-transition-policy-inventory-for-in-kt-oh-tn-va-wv/) 8/13
 * [Rhetoric and System Dynamics Modeling of Nano Zero Valent Iron (nZVI) for Water Pollution Remediation: A Case Study](https://conservancy.umn.edu/handle/11299/92716) 5/25/10 (Graduate Thesis: Plan B paper)
 
-##Events Organized
+## Events Organized
 
 * [Humphrey School: Show Up for the Common Good](https://www.hhh.umn.edu/event/show-common-good-minneapolis) 5/3/17
 * Humphrey School Twin Cities Student Career Exploration Trip 1/14/16; [recap](/community/2016/01/14/CET-2016.html)
@@ -107,7 +107,7 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 * PyLadies Beginner Cohort 9/1/14-12/22/14; [recap](/community/2014/12/11/pyladies-beginner-cohort.html)
 * ClimateHack Twin Cities 9/25/14; [recap](/community/2014/09/25/climatehacktc-recap.html)
 
-##Speaking Engagements
+## Speaking Engagements
 
 * _A Brief Introduction to Python Programming_, FARCON, Minneapolis MN, 8/24/16; [description](http://sched.co/7zA7)
 * _PyCon 2016 Poster Session: preview and recap_, PyMNtos, Minneapolis MN, 5/12/16 and 6/9/16
@@ -117,7 +117,7 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 * _Open Twin Cities_, Minnesota Rising, Minneapolis MN, 11/15/14; [recap](/community/2014/11/15/mnrising.html)
 * _Combined Heat and Power: An Opportunity for U.S. Workers_, BlueGreen Alliance: Good Jobs, Green Jobs, Washington DC, 2/10/14
 
-##Events Attended
+## Events Attended
 
 * Drupal Camp, Minneapolis MN; 6/24/16
 * CodeSwitch Civic Hackathon, Minneapolis MN; 6/4/16
