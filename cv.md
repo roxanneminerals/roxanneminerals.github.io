@@ -98,7 +98,7 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 
 ## Events Organized
 
-* [Humphrey School: Show Up for the Common Good](https://www.hhh.umn.edu/event/show-common-good-minneapolis) 5/3/17
+* Humphrey School: Show Up for the Common Good 5/3/17; [description](https://www.hhh.umn.edu/event/show-common-good-minneapolis)
 * Humphrey School Twin Cities Student Career Exploration Trip 1/14/16; [recap](/community/2016/01/14/CET-2016.html)
 * CycleHack Twin Cities 6/29/15; [recap](/community/2015/06/29/cyclehack.html)
 * PyLadies Cooking Code for Breakfast 1/31/15-5/9/15; [recap](/community/2015/05/09/pyladies-cooking-code.html)
