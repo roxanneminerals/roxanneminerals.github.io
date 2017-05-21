@@ -9,9 +9,14 @@ I am interested in how we learn, understand, and share information with one anot
 
 ##Professional Experience
 
-*Research Analyst, BlueGreen Alliance Foundation    Sept. 2012 - Present, Minneapolis MN*
+*Senior Research Analyst, BlueGreen Alliance Foundation    May 2017 - Present, Minneapolis MN*
+Work to identify opportunities to reduce pollution and greenhouse gas emissions while building a clean energy economy. Lead the organization’s Research Team in efforts to strategically incorporate research and data into BGA/F work. Work across departments to support organizational initiatives and to help establish the organization as a national expert in all areas of work. Help various audiences including staff, BGA/F partners and allies, funders, and the public understand complex issues. 
 
-Work to identify opportunities to reduce pollution and greenhouse gas emissions while building a clean energy economy. Lead the organization’s Research Team in efforts to strategically incorporate research and data into BGA/F work. Work across departments to support organizational initiatives and to help establish the organization as a national expert in all areas of work. Help various audiences understand complex issues including the staff, BGA/F partners and allies, funders, and the public. Tasks include managing research and data projects, writing documents such as papers, factsheets, memos, and issue briefs, and communicating findings in the form of charts, dashboards, and visualizations.
+The BlueGreen Alliance unites America’s largest labor unions and its most influential environmental organizations to solve today’s environmental challenges in ways that create and maintain quality jobs and build a stronger, fairer economy.
+
+*Research Analyst, BlueGreen Alliance Foundation    Sept. 2012 - April 2017*
+
+Managed research and data projects, writing documents such as papers, factsheets, memos, and issue briefs, and communicated findings in the form of charts, dashboards, and visualizations.
 
 *Market Research Associate, BlueGreen Alliance Foundation    Dec. 2010 - Sept. 2012, Minneapolis MN*
 
@@ -47,11 +52,15 @@ Previous service on the Student Relations committee, currently serve on the Alum
 
 Work with current Humphrey students as a mentor by attending mentor and student events, meeting individually with students, and providing resources and connections.
 
-*PyLadies Twin Cities    Sept. 2014 - present*
+*Member, Data Analysts for Social Good    Feb. 2016 - Present
 
-Planned and hosted meetups and events for the local chapter of an international group of women who program in the Python language. Provide resources to help PyLadies learn, teach, and contribute to the tech community. Represented PyLadies on the organizing committee for Data^3, collaborative data event with PyMNtos and the R user group. Planned and led an Installfest for attendees to prepare for the event. Represented PyLadies TC at PyCon in April 2015. Presented a poster at PyCon in May 2016.
+Global community of hundreds of social sector data professionals
 
-*Open Twin Cities    Feb. 2014 – present*
+*PyLadies Twin Cities    Sept. 2014 - May 2015*
+
+Planned and hosted meetups and events for the local chapter of an international group of women who program in the Python language. Provide resources to help PyLadies learn, teach, and contribute to the tech community. Represented PyLadies on the organizing committee for Data^3, collaborative data event with PyMNtos and the R user group. Planned and led an Installfest for attendees to prepare for the event. Represented PyLadies TC at PyCon in April 2015.
+
+*Open Twin Cities    Feb. 2014 – Feb. 2016*
 
 Attended meetups and events intended to help people collaboratively use and create technology for social good; focused on recruiting non-technical people and helping them find ways to contribute.
 Co-organized ClimateHack to bring together environmentalists, activists, and programmers (Sept 2015). Co-organized CycleHack Twin Cities to make cycling more sustainable (June 2015). Presented CycleHack at the Winter Cycling Congress in Feb. 2016.
@@ -69,19 +78,25 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 
 ##Publications
 
-* [Plugging the Leaks: Protecting Workers, Reducing Pollution, and Creating Quality Jobs by Reducing Methane Waste in the U.S. Oil and Gas Industry](https://www.bluegreenalliance.org/resources/plugging-the-leaks/) 9/22/16
+* [Minnesota Transit Manufacturing Fact Sheet and Map](https://www.bluegreenalliance.org/resources/minnesota-transit-manufacturing-fact-sheet-and-map/) 5/4/17 (Uncredited contributor; management of data collection)
+* [Preview: Supplying Ingenuity II: U.S. Suppliers of Key Clean, Fuel-Efficient Vehicle Technologies](https://www.bluegreenalliance.org/resources/preview-of-supplying-ingenuity-ii/) 12/21/16 (Uncredited contributor; management of data collection)
+* [Employment Impacts of Advanced Technology Vehicle Manufacturing (ATVM) Loans](https://www.bluegreenalliance.org/resources/employment-impacts-of-advanced-technology-vehicle-manufacturing-atvm-loans/) 11/1/16 (Uncredited contributor; map)
+* [Taking Stock: Opportunities and Challenges in California’s Natural Gas Distribution System](https://www.bluegreenalliance.org/resources/taking-stock-opportunities-and-challenges-in-californias-natural-gas-distribution-system/) 12/22/16 (Uncredited contributor; summary analysis and graphs)
 * [Taking Stock: Opportunities and Challenges in Indiana’s Natural Gas Distribution System](http://www.bluegreenalliance.org/news/publications/taking-stock-opportunities-and-challenges-in-indianas-natural-gas-distribution-system) 9/30/15
+* [Plugging the Leaks: Protecting Workers, Reducing Pollution, and Creating Quality Jobs by Reducing Methane Waste in the U.S. Oil and Gas Industry](https://www.bluegreenalliance.org/resources/plugging-the-leaks/) 9/22/16
+* [Energy Efficiency Products Database](https://www.bluegreenalliance.org/resources/energy-efficient-products-database/) 9/12/17 (Uncredited contributor; database coordination)
 * [Passenger Rail & Transit Rail Manufacturing in the U.S.](https://www.bluegreenalliance.org/resources/passenger-rail-transit-rail-manufacturing-in-the-u-s/) (Contributor) 1/30/15
 * [Climate Works for All: A Platform for Reducing Emissions, Protecting Our Communities, and Creating Good Jobs for New Yorkers](http://www.bluegreenalliance.org/news/latest/nyc-can-create-nearly-40000-jobs-a-year-addressing-climate-change) 11/18/14
-* [Minnesota Natural Gas Distribution Pipeline Project](http://www.bluegreenalliance.org/news/latest/minnesota-natural-gas-distribution-pipeline-project) 10/31/14 (Uncredited)
+* [Minnesota Natural Gas Distribution Pipeline Project](http://www.bluegreenalliance.org/news/latest/minnesota-natural-gas-distribution-pipeline-project) 10/31/14 (Uncredited; summary analysis and graphs)
 * [Making the Grade: How Investments in America’s Infrastructure Benefit Our Economy and Environment](https://www.bluegreenalliance.org/resources/makingthegrade/)  10/24/14
-* [Competing to Win: Spurring Industrial Energy Efficiency in Minnesota](http://www.bluegreenalliance.org/news/publications/competing-to-win) 6/26/14 (Uncredited)
+* [Competing to Win: Spurring Industrial Energy Efficiency in Minnesota](http://www.bluegreenalliance.org/news/publications/competing-to-win) 6/26/14 (Uncredited contributor)
 * Repair America: State Reports for [Minnesota](https://www.bluegreenalliance.org/resources/repair-minnesota-creating-good-jobs-while-preparing-our-systems-for-climate-change/), [Michigan](https://www.bluegreenalliance.org/resources/repair-michigan-creating-good-jobs-while-preparing-our-infrastructure-for-climate-change/), [Ohio](https://www.bluegreenalliance.org/resources/repair-ohio-creating-good-jobs-while-preparing-our-infrastructure-for-climate-change/), [Washington](https://www.bluegreenalliance.org/resources/report-repair-washington-creating-good-jobs-strengthening-infrastructure-and-building-climate-solutions/). 11/13-6/14 (Uncredited)
 * [Clean Energy Transition Policy Inventory](https://www.bgafoundation.org/news/clean-energy-transition-policy-inventory-for-in-kt-oh-tn-va-wv/) 8/13
 * [Rhetoric and System Dynamics Modeling of Nano Zero Valent Iron (nZVI) for Water Pollution Remediation: A Case Study](https://conservancy.umn.edu/handle/11299/92716) 5/25/10 (Graduate Thesis: Plan B paper)
 
 ##Events Organized
 
+* [Humphrey School: Show Up for the Common Good](https://www.hhh.umn.edu/event/show-common-good-minneapolis) 5/3/17
 * Humphrey School Twin Cities Student Career Exploration Trip 1/14/16; [recap](/community/2016/01/14/CET-2016.html)
 * CycleHack Twin Cities 6/29/15; [recap](/community/2015/06/29/cyclehack.html)
 * PyLadies Cooking Code for Breakfast 1/31/15-5/9/15; [recap](/community/2015/05/09/pyladies-cooking-code.html)
