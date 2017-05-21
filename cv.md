@@ -53,7 +53,7 @@ Previous service on the Student Relations committee, currently serve on the Alum
 
 Work with current Humphrey students as a mentor by attending mentor and student events, meeting individually with students, and providing resources and connections.
 
-*Member, Data Analysts for Social Good    Feb. 2016 - Present
+*Member, Data Analysts for Social Good    Feb. 2016 - Present*
 
 Global community of social sector data professionals
 
@@ -92,8 +92,9 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 * [Making the Grade: How Investments in America’s Infrastructure Benefit Our Economy and Environment](https://www.bluegreenalliance.org/resources/makingthegrade/)  10/24/14
 * [Competing to Win: Spurring Industrial Energy Efficiency in Minnesota](http://www.bluegreenalliance.org/news/publications/competing-to-win) 6/26/14 (Uncredited contributor)
 * Repair America: State Reports for [Minnesota](https://www.bluegreenalliance.org/resources/repair-minnesota-creating-good-jobs-while-preparing-our-systems-for-climate-change/), [Michigan](https://www.bluegreenalliance.org/resources/repair-michigan-creating-good-jobs-while-preparing-our-infrastructure-for-climate-change/), [Ohio](https://www.bluegreenalliance.org/resources/repair-ohio-creating-good-jobs-while-preparing-our-infrastructure-for-climate-change/), [Washington](https://www.bluegreenalliance.org/resources/report-repair-washington-creating-good-jobs-strengthening-infrastructure-and-building-climate-solutions/). 11/13-6/14 (Uncredited)
-* [Clean Energy Transition Policy Inventory](https://www.bgafoundation.org/news/clean-energy-transition-policy-inventory-for-in-kt-oh-tn-va-wv/) 8/13
+* [Clean Energy Transition Policy Inventory](https://www.bgafoundation.org/news/clean-energy-transition-policy-inventory-for-in-kt-oh-tn-va-wv/) 8/13 (Uncredited; research project manager)
 * [Rhetoric and System Dynamics Modeling of Nano Zero Valent Iron (nZVI) for Water Pollution Remediation: A Case Study](https://conservancy.umn.edu/handle/11299/92716) 5/25/10 (Graduate Thesis: Plan B paper)
+* [Kuzma, Jennifer and Roxanne Johnson. "Environmental Benefits". *Encyclopedia of Nanoscience and Society*, Guston, David H. 2010.  Thousand Oaks, CA: Sage Publications. Pages 200-203.
 
 ## Events Organized
 
