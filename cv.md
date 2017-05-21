@@ -10,6 +10,7 @@ I am interested in how we learn, understand, and share information with one anot
 ##Professional Experience
 
 *Senior Research Analyst, BlueGreen Alliance Foundation    May 2017 - Present, Minneapolis MN*
+
 Work to identify opportunities to reduce pollution and greenhouse gas emissions while building a clean energy economy. Lead the organization’s Research Team in efforts to strategically incorporate research and data into BGA/F work. Work across departments to support organizational initiatives and to help establish the organization as a national expert in all areas of work. Help various audiences including staff, BGA/F partners and allies, funders, and the public understand complex issues. 
 
 The BlueGreen Alliance unites America’s largest labor unions and its most influential environmental organizations to solve today’s environmental challenges in ways that create and maintain quality jobs and build a stronger, fairer economy.
@@ -155,4 +156,3 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 * Community Technology Center Network Conference, Washington DC, 7/27/06
 * White House Project Go Run Training, Minneapolis MN, 5/20/06
 * AmeriCorps VISTA Leader Training, 9/05
-
