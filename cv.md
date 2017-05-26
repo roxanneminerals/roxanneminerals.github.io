@@ -5,7 +5,7 @@ title:  "CV"
 
 ## Summary
 
-I am interested in how we learn, understand, and share information with one another, and how we can work together using that information to create a future in which we all want to live. I am particularly interested in exploring the role and tools of technology to take on this task.
+Research professional with 7 years of experience in energy, infrastructure, and manufacturing policy advocacy. I developed and currently lead a research program and staff, and continue to build organizational capacity to collect and use data to help achieve policy goals. More broadly I am interested in using research and data to help people understand and address complex issues.
 
 ## Professional Experience
 
