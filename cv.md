@@ -79,8 +79,8 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 
 ## Publications
 
+* [Supplying Ingenuity II: U.S. Suppliers of Key Clean, Fuel-Efficient Vehicle Technologies](https://www.bluegreenalliance.org/resources/supplying-ingenuity-ii-u-s-suppliers-of-key-clean-fuel-efficient-vehicle-technologies/) 5/23/17 (Uncredited contributor; management of data collection)
 * [Minnesota Transit Manufacturing Fact Sheet and Map](https://www.bluegreenalliance.org/resources/minnesota-transit-manufacturing-fact-sheet-and-map/) 5/4/17 (Uncredited contributor; management of data collection)
-* [Preview: Supplying Ingenuity II: U.S. Suppliers of Key Clean, Fuel-Efficient Vehicle Technologies](https://www.bluegreenalliance.org/resources/preview-of-supplying-ingenuity-ii/) 12/21/16 (Uncredited contributor; management of data collection)
 * [Employment Impacts of Advanced Technology Vehicle Manufacturing (ATVM) Loans](https://www.bluegreenalliance.org/resources/employment-impacts-of-advanced-technology-vehicle-manufacturing-atvm-loans/) 11/1/16 (Uncredited contributor; map)
 * [Taking Stock: Opportunities and Challenges in California’s Natural Gas Distribution System](https://www.bluegreenalliance.org/resources/taking-stock-opportunities-and-challenges-in-californias-natural-gas-distribution-system/) 12/22/16 (Uncredited contributor; summary analysis and graphs)
 * [Taking Stock: Opportunities and Challenges in Indiana’s Natural Gas Distribution System](http://www.bluegreenalliance.org/news/publications/taking-stock-opportunities-and-challenges-in-indianas-natural-gas-distribution-system) 9/30/15
