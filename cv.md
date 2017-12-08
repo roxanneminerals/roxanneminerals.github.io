@@ -5,13 +5,13 @@ title:  "CV"
 
 ## Summary
 
-Research professional with 7 years of experience in energy, infrastructure, and manufacturing policy advocacy. I developed and currently lead a research program and staff, and continue to build organizational capacity to collect and use data to help achieve policy goals. More broadly I am interested in using research and data to help people understand and address complex issues.
+Passionate research professional interested in using diverse types of information and data to help people understand and address complex issues. Developed and currently lead a team that provides research support to achieve advocacy and education goals. Continuing to grow organizational capacity to collect, analyze, and visualize data. Eight years of research experience in energy, infrastructure, and manufacturing policy advocacy and four years of experience in developing, implementing, and evaluating various programs for children and adults.
 
 ## Professional Experience
 
 *Senior Research Analyst, BlueGreen Alliance Foundation    May 2017 - Present, Minneapolis MN*
 
-Work to identify opportunities to reduce pollution and greenhouse gas emissions while building a clean energy economy. Lead the organization’s Research Team in efforts to strategically incorporate research and data into BGA/F work. Work across departments to support organizational initiatives and to help establish the organization as a national expert in all areas of work. Help various audiences including staff, BGA/F partners and allies, funders, and the public understand complex issues. 
+Work to identify opportunities to reduce pollution and greenhouse gas emissions while building a clean energy economy. Help various audiences including staff, BGA/F partners and allies, funders, and the public understand complex issues. Lead the organization’s Research Team in efforts to strategically incorporate research and data into BGA/F work. Strategically incorporate research and data into BGA/F work to support organizational initiatives across departments and establish the organization as a national expert in all areas of work. 
 
 The BlueGreen Alliance unites America’s largest labor unions and its most influential environmental organizations to solve today’s environmental challenges in ways that create and maintain quality jobs and build a stronger, fairer economy.
 
@@ -47,9 +47,9 @@ Completed three years of community service through the National Civilian Communi
 
 *Board Member, Humphrey School of Public Affairs Alumni Board     Sept. 2014 – present*
 
-Previous service on the Student Relations committee, currently serve on the Alumni Relations committee.
+Plan events and activities for current students and alumni, including student career trip [2015](http://roxjohnson.com/community/2015/01/15/HHH-CET.html) and [2016](http://roxjohnson.com/community/2016/01/14/CET-2016.html), [Show Up for the Common Good](https://www.hhh.umn.edu/event/show-common-good-minneapolis), and serving on committees to create an alumni survey and create a pilot [Alumni in Residence](http://globalnotes.hhh.umn.edu/2017/10/deadline-oct-31-humphrey-alumni-in.html) program.
 
-*Alumna Mentor- Humphrey School of Public Affairs     Sept. 2012 - present*
+*Alumna Mentor- Humphrey School of Public Affairs     Sept. 2012 - May 2016*
 
 Work with current Humphrey students as a mentor by attending mentor and student events, meeting individually with students, and providing resources and connections.
 
@@ -79,6 +79,8 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 
 ## Publications
 
+* [Making the Grade 2.0: Investing in America’s Infrastructure to Create Quality Jobs and Protect the Environment](https://www.bluegreenalliance.org/resources/making-the-grade-2-0-investing-in-americas-infrastructure-to-create-quality-jobs-and-protect-the-environment/) 9/7/17
+* [Visualizing Manufacturing and Jobs in the Clean Economy: U.S. Automotive Manufacturing: Motor Vehicles, Parts, and Materials](https://www.bgafoundation.org/programs/visualizing-the-clean-economy-autos/) 10/12/17 (Uncredited contributor; management of data collection)
 * [Supplying Ingenuity II: U.S. Suppliers of Key Clean, Fuel-Efficient Vehicle Technologies](https://www.bluegreenalliance.org/resources/supplying-ingenuity-ii-u-s-suppliers-of-key-clean-fuel-efficient-vehicle-technologies/) 5/23/17 (Uncredited contributor; management of data collection)
 * [Minnesota Transit Manufacturing Fact Sheet and Map](https://www.bluegreenalliance.org/resources/minnesota-transit-manufacturing-fact-sheet-and-map/) 5/4/17 (Uncredited contributor; management of data collection)
 * [Employment Impacts of Advanced Technology Vehicle Manufacturing (ATVM) Loans](https://www.bluegreenalliance.org/resources/employment-impacts-of-advanced-technology-vehicle-manufacturing-atvm-loans/) 11/1/16 (Uncredited contributor; map)
