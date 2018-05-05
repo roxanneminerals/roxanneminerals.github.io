@@ -122,6 +122,7 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 
 ## Events Attended
 
+* Make Play Matter: Lecture on levity in Life by SantaErik Riese, Minneapolis MN; 4/29/18; [link](https://www.eventbrite.com/e/make-play-matter-lecture-on-levity-life-tickets-44364239635#) [note](http://roxjohnson.com/notes/2018/05/05/play.html)
 * Drupal Camp, Minneapolis MN; 6/24/16
 * CodeSwitch Civic Hackathon, Minneapolis MN; 6/4/16
 * PyCon 2016, Portland OR 5/30/16
