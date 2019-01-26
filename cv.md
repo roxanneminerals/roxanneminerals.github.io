@@ -5,7 +5,7 @@ title:  "CV"
 
 ## Summary
 
-Passionate research professional interested in using diverse types of information and data to help people understand and address complex issues. Developed and currently lead a team that provides research support to achieve advocacy and education goals. Continuing to grow organizational capacity to collect, analyze, and visualize data. Eight years of research experience in energy, infrastructure, and manufacturing policy advocacy and four years of experience in developing, implementing, and evaluating various programs for children and adults.
+Passionate research professional interested in using diverse types of information and data to help people understand and address complex issues. Developed and currently lead a team that provides research support to achieve advocacy and education goals. Continuing to grow organizational capacity to collect, analyze, and visualize data. Ten years of research experience in energy, infrastructure, and manufacturing policy advocacy and four years of experience in developing, implementing, and evaluating various programs for children and adults.
 
 ## Professional Experience
 
