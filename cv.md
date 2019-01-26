@@ -9,11 +9,15 @@ Passionate research professional interested in using diverse types of informatio
 
 ## Professional Experience
 
-*Senior Research Analyst, BlueGreen Alliance Foundation    May 2017 - Present, Minneapolis MN*
+*Research Director, BlueGreen Alliance Foundation    Jan. 2019 - Present, Minneapolis MN*
 
-Work to identify opportunities to reduce pollution and greenhouse gas emissions while building a clean energy economy. Help various audiences including staff, BGA/F partners and allies, funders, and the public understand complex issues. Lead the organization’s Research Team in efforts to strategically incorporate research and data into BGA/F work. Strategically incorporate research and data into BGA/F work to support organizational initiatives across departments and establish the organization as a national expert in all areas of work. 
+Manage research work across departments to support organizational initiatives and to help establish the organization as a national expert in all areas of work. Help various audiences including staff, BGA/F partners and allies, funders, and the public understand complex issues. 
 
 The BlueGreen Alliance unites America’s largest labor unions and its most influential environmental organizations to solve today’s environmental challenges in ways that create and maintain quality jobs and build a stronger, fairer economy.
+
+*Senior Research Analyst, BlueGreen Alliance Foundation    May 2017 - Dec. 2018, Minneapolis MN*
+
+Developed and lead the organization’s Research Team in efforts to strategically incorporate research and data into BGA/F work.
 
 *Research Analyst, BlueGreen Alliance Foundation    Sept. 2012 - April 2017*
 
