@@ -5,19 +5,19 @@ title:  "CV"
 
 ## Summary
 
-Passionate research professional interested in using diverse types of information and data to help people understand and address complex issues. Developed and currently lead a team that provides research support to achieve advocacy and education goals. Continuing to grow organizational capacity to collect, analyze, and visualize data. Ten years of research experience in energy, infrastructure, and manufacturing policy advocacy and four years of experience in developing, implementing, and evaluating various programs for children and adults.
+Passionate research professional interested in using diverse types of information and data to help people understand and address complex issues. Developed and currently lead a team that provides research support to achieve advocacy, education, and outreach goals. Continuing to grow organizational capacity to collect, analyze, and visualize data. More than ten years of research experience in energy, infrastructure, and manufacturing policy advocacy.
 
 ## Professional Experience
 
 *Research Director, BlueGreen Alliance Foundation    Jan. 2019 - Present, Minneapolis MN*
 
-Manage research work across departments to support organizational initiatives and to help establish the organization as a national expert in all areas of work. Help various audiences including staff, BGA/F partners and allies, funders, and the public understand complex issues. 
+Direct research work across departments to support organizational initiatives and to help establish the organization as a national expert in all areas of work. Help various audiences including staff, BGA/F partners and allies, funders, and the public understand complex issues. Build and continuously improve organizational research and data infrastructure.
 
 The BlueGreen Alliance unites America’s largest labor unions and its most influential environmental organizations to solve today’s environmental challenges in ways that create and maintain quality jobs and build a stronger, fairer economy.
 
 *Senior Research Analyst, BlueGreen Alliance Foundation    May 2017 - Dec. 2018, Minneapolis MN*
 
-Developed and lead the organization’s Research Team in efforts to strategically incorporate research and data into BGA/F work.
+Developed and led the organization’s Research Team in efforts to strategically incorporate research and data into BGA/F work.
 
 *Research Analyst, BlueGreen Alliance Foundation    Sept. 2012 - April 2017*
 
@@ -57,7 +57,7 @@ Plan events and activities for current students and alumni, including student ca
 
 Work with current Humphrey students as a mentor by attending mentor and student events, meeting individually with students, and providing resources and connections.
 
-*Member, Data Analysts for Social Good    Feb. 2016 - Present*
+*Member, Data Analysts for Social Good    Feb. 2016 - Feb. 2018*
 
 Global community of social sector data professionals
 
@@ -83,6 +83,9 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 
 ## Publications
 
+* [TECH@RISK: The Domestic Innovation, Technology Deployment, Manufacturing, and Jobs at Risk in Stepping Away from Global Leadership on Clean Cars](https://www.bluegreenalliance.org/resources/techrisk-the-domestic-innovation-technology-deployment-manufacturing-and-jobs-at-risk-in-stepping-away-from-global-leadership-on-clean-cars/) 8/1/19
+* [Electric Vehicles at a Crossroads: Challenges and Opportunities for the Future of U.S. Manufacturing and Jobs in the Electric Vehicle Sector](https://www.bluegreenalliance.org/wp-content/uploads/2018/09/Electric-Vehicles-At-a-Crossroads-Report-vFINAL.pdf) 9/12/18 (Uncredited contributor; management of data collection)
+* [Driving Investment: How Fuel Efficiency is Rebuilding American Manufacturing](https://www.bluegreenalliance.org/resources/driving-investment-how-fuel-efficiency-is-rebuilding-american-manufacturing/) 1/25/18 (Uncredited contributor; management of data collection)
 * [Making the Grade 2.0: Investing in America’s Infrastructure to Create Quality Jobs and Protect the Environment](https://www.bluegreenalliance.org/resources/making-the-grade-2-0-investing-in-americas-infrastructure-to-create-quality-jobs-and-protect-the-environment/) 9/7/17
 * [Visualizing Manufacturing and Jobs in the Clean Economy: U.S. Automotive Manufacturing: Motor Vehicles, Parts, and Materials](https://www.bgafoundation.org/programs/visualizing-the-clean-economy-autos/) 10/12/17 (Uncredited contributor; management of data collection)
 * [Supplying Ingenuity II: U.S. Suppliers of Key Clean, Fuel-Efficient Vehicle Technologies](https://www.bluegreenalliance.org/resources/supplying-ingenuity-ii-u-s-suppliers-of-key-clean-fuel-efficient-vehicle-technologies/) 5/23/17 (Uncredited contributor; management of data collection)
