@@ -10,8 +10,11 @@ Passionate research professional interested in using diverse information and dat
 ## Professional Experience
 
 *Research Director, BlueGreen Alliance Foundation    Jan. 2019 - Present, Minneapolis MN*
+
 *Senior Research Analyst, BlueGreen Alliance Foundation    May 2017 - Dec. 2018, Minneapolis MN*
+
 *Research Analyst, BlueGreen Alliance Foundation    Sept. 2012 - April 2017*
+
 *Market Research Associate, BlueGreen Alliance Foundation    Dec. 2010 - Sept. 2012, Minneapolis MN*
 
 * Established a new Research Department in the organization. Responsible for directing research and data work across departments to meet organizational goals, identifying and taking advantage of strategic opportunities for innovative new research, and establishing the organization as a national expert in all work areas.
