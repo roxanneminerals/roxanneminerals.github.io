@@ -5,27 +5,26 @@ title:  "CV"
 
 ## Summary
 
-Passionate research professional interested in using diverse types of information and data to help people understand and address complex issues. Developed and currently lead a team that provides research support to achieve advocacy, education, and outreach goals. Continuing to grow organizational capacity to collect, analyze, and visualize data. More than ten years of research experience in energy, infrastructure, and manufacturing policy advocacy.
+Passionate research professional interested in using diverse information and data to help people address complex issues. 
 
 ## Professional Experience
 
 *Research Director, BlueGreen Alliance Foundation    Jan. 2019 - Present, Minneapolis MN*
-
-Direct research work across departments to support organizational initiatives and to help establish the organization as a national expert in all areas of work. Help various audiences including staff, BGA/F partners and allies, funders, and the public understand complex issues. Build and continuously improve organizational research and data infrastructure.
-
-The BlueGreen Alliance unites America’s largest labor unions and its most influential environmental organizations to solve today’s environmental challenges in ways that create and maintain quality jobs and build a stronger, fairer economy.
-
 *Senior Research Analyst, BlueGreen Alliance Foundation    May 2017 - Dec. 2018, Minneapolis MN*
-
-Developed and led the organization’s Research Team in efforts to strategically incorporate research and data into BGA/F work.
-
 *Research Analyst, BlueGreen Alliance Foundation    Sept. 2012 - April 2017*
-
-Managed research and data projects, writing documents such as papers, factsheets, memos, and issue briefs, and communicated findings in the form of charts, dashboards, and visualizations.
-
 *Market Research Associate, BlueGreen Alliance Foundation    Dec. 2010 - Sept. 2012, Minneapolis MN*
 
-Conducted research and analysis to support BlueGreen Alliance campaigns and programs, particularly those associated with the Clean Energy Manufacturing Center (CEMC). 
+* Established a new Research Department in the organization. Responsible for directing research and data work across departments to meet organizational goals, identifying and taking advantage of strategic opportunities for innovative new research, and establishing the organization as a national expert in all work areas.
+
+* Manage staff resources for research. Responsible for hiring and supervising permanent and temporary research staff including interns and research assistants. Identify and provide ongoing training and skill building to build organizational capacity in research work. Coordinate external research capacity through consultants and strategic relationships.
+
+* Develop, maintain, and improve research and data infrastructure. Developed robust data collection processes and worked with consultants to build databases and websites. Lead and continuously improve processes for data collection, analysis, validation, and documentation; manage organizational data maintenance and storage. Recommend updates to organizational policy around data sharing to  protect data privacy.
+
+* Clearly communicate to help multiple audiences understand issues and solutions. Publish research and data materials including reports, fact sheets, blogs, and data visualizations like charts and maps. Produce internal memos, briefs and other documents for staff.
+
+* Coordinate within the organization and with external partners to ensure high quality of data and research in all publications and communications. Developing an organizational report process to guarantee quality research and data products are produced in a timely fashion.
+
+The BlueGreen Alliance unites America’s largest labor unions and its most influential environmental organizations to solve today’s environmental challenges in ways that create and maintain quality jobs and build a stronger, fairer economy.
 
 *Research Associate, Great Plains Institute    Feb. 2010 – Nov. 2010, Minneapolis MN*
 
