@@ -48,13 +48,17 @@ Completed three years of community service through the National Civilian Communi
 
 ## Community
 
-*Board Member, Humphrey School of Public Affairs Alumni Board     Sept. 2014 – present*
+*Committee Member, National Academy of Sciences [Committee on Accelerating Decarbonization in the United States: Technology, Policy, and Societal Dimensions](https://www.nationalacademies.org/our-work/accelerating-decarbonization-in-the-united-states-technology-policy-and-societal-dimensions)   Mar. 2020 - Present*
 
-Plan events and activities for current students and alumni, including student career trip [2015](http://roxjohnson.com/community/2015/01/15/HHH-CET.html) and [2016](http://roxjohnson.com/community/2016/01/14/CET-2016.html), [Show Up for the Common Good](https://www.hhh.umn.edu/event/show-common-good-minneapolis), and serving on committees to create an alumni survey and create a pilot [Alumni in Residence](http://globalnotes.hhh.umn.edu/2017/10/deadline-oct-31-humphrey-alumni-in.html) program.
+Work with other committee members to examine the status of technologies, policies, and societal factors needed for decarbonization and recommend research and policy needs. Produce two reports detailing findings.
+
+*Board Member, Humphrey School of Public Affairs Alumni Board     Sept. 2014 – Aug. 2020*
+
+Planned events and activities for current students and alumni, including student career trip [2015](http://roxjohnson.com/community/2015/01/15/HHH-CET.html) and [2016](http://roxjohnson.com/community/2016/01/14/CET-2016.html), [Show Up for the Common Good](https://www.hhh.umn.edu/event/show-common-good-minneapolis), and served on committees to create an alumni survey and create a pilot [Alumni in Residence](http://globalnotes.hhh.umn.edu/2017/10/deadline-oct-31-humphrey-alumni-in.html) program.
 
 *Alumna Mentor- Humphrey School of Public Affairs     Sept. 2012 - May 2016*
 
-Work with current Humphrey students as a mentor by attending mentor and student events, meeting individually with students, and providing resources and connections.
+Worked with current Humphrey students as a mentor by attending mentor and student events, meeting individually with students, and providing resources and connections.
 
 *Member, Data Analysts for Social Good    Feb. 2016 - Feb. 2018*
 
@@ -82,6 +86,9 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 
 ## Publications
 
+*[Making Clean Deliver: Improving Clean Energy Job Quality and Growing the Clean Energy Manufacturing Supply Chain in the United States](https://www.bluegreenalliance.org/site/making-clean-deliver/) 8/8/21 (Uncredited contributor)
+*[Accelerating Decarbonization of the U.S. Energy System](https://www.nap.edu/read/25932/chapter/1) 2/2/21
+* [Manufacturing Efficiency: How Buy America Policy Can Boost Jobs Manufacturing Energy Efficient Products](https://www.bgafoundation.org/news/release-buildingclean-org-report-finds-buy-american-policies-would-dramatically-boost-manufacturing-jobs-making-energy-efficient-products/) 2/3/21
 * [TECH@RISK: The Domestic Innovation, Technology Deployment, Manufacturing, and Jobs at Risk in Stepping Away from Global Leadership on Clean Cars](https://www.bluegreenalliance.org/resources/techrisk-the-domestic-innovation-technology-deployment-manufacturing-and-jobs-at-risk-in-stepping-away-from-global-leadership-on-clean-cars/) 8/1/19
 * [Electric Vehicles at a Crossroads: Challenges and Opportunities for the Future of U.S. Manufacturing and Jobs in the Electric Vehicle Sector](https://www.bluegreenalliance.org/wp-content/uploads/2018/09/Electric-Vehicles-At-a-Crossroads-Report-vFINAL.pdf) 9/12/18 (Uncredited contributor; management of data collection)
 * [Driving Investment: How Fuel Efficiency is Rebuilding American Manufacturing](https://www.bluegreenalliance.org/resources/driving-investment-how-fuel-efficiency-is-rebuilding-american-manufacturing/) 1/25/18 (Uncredited contributor; management of data collection)
