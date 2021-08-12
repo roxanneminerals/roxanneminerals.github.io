@@ -86,7 +86,7 @@ Northland College Student Association (NCSA) Student Senator, 2002-2003; Mathema
 
 ## Publications
 
-* [Making Clean Deliver: Improving Clean Energy Job Quality and Growing the Clean Energy Manufacturing Supply Chain in the United States(https://www.bluegreenalliance.org/site/making-clean-deliver/) 8/8/21 (Uncredited contributor)
+* [Making Clean Deliver: Improving Clean Energy Job Quality and Growing the Clean Energy Manufacturing Supply Chain in the United States](https://www.bluegreenalliance.org/site/making-clean-deliver/) 8/8/21 (Uncredited contributor)
 * [Accelerating Decarbonization of the U.S. Energy System](https://www.nap.edu/read/25932/chapter/1) 2/2/21
 * [Manufacturing Efficiency: How Buy America Policy Can Boost Jobs Manufacturing Energy Efficient Products](https://www.bgafoundation.org/news/release-buildingclean-org-report-finds-buy-american-policies-would-dramatically-boost-manufacturing-jobs-making-energy-efficient-products/) 2/3/21
 * [TECH@RISK: The Domestic Innovation, Technology Deployment, Manufacturing, and Jobs at Risk in Stepping Away from Global Leadership on Clean Cars](https://www.bluegreenalliance.org/resources/techrisk-the-domestic-innovation-technology-deployment-manufacturing-and-jobs-at-risk-in-stepping-away-from-global-leadership-on-clean-cars/) 8/1/19
